@@ -336,4 +336,4 @@ AINLP聊天机器人除了日常搭讪外，还负责回复用户的日常查询
 <p>18、回复"nmt"获取：<a href="https://www.52nlp.cn/philipp-koehn%e5%a4%a7%e7%a5%9e%e7%9a%84%e7%a5%9e%e7%bb%8f%e7%bd%91%e7%bb%9c%e6%9c%ba%e5%99%a8%e7%bf%bb%e8%af%91%e5%ad%a6%e4%b9%a0%e8%b5%84%e6%96%99-nmt-book" target="_blank" rel="noopener">Philipp Koehn大神的神经网络机器翻译学习资料：NMT Book</a></p>
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id：AINLP2)，备注工作/研究方向+加群目的。</p>
-<p align=center><img src="./images/ainlp_banner.jpg" width="600" height="200"></p>
+<p align=center><img src="./images/ainlp_banner.jpg" width="800" height="323"></p>
