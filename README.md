@@ -4,8 +4,6 @@
 
 <p align=center><img src="./images/ainlp.jpg" width="300" height="300"></p>
 
-* <a href="http://www.52nlp.cn/ainlp%e5%b9%b4%e5%ba%a6%e9%98%85%e8%af%bb%e6%94%b6%e8%97%8f%e6%b8%85%e5%8d%95">AINLP年度阅读收藏清单</a>
-
 <p><strong>如何学习NLP和NLP相关资源</strong><br>
 <a href="https://mp.weixin.qq.com/s/tV26DJeFWfEe0DL3B7Z-cQ" target="_blank" rel="noopener">如何学习自然语言处理：一本书和一门课</a><br>
 <a href="https://mp.weixin.qq.com/s/tyLRR2xKbFYEQ9WYM5ZKcg" target="_blank" rel="noopener">如何学习自然语言处理：NLP领域经典《自然语言处理综论》英文版第三版更新</a><br>
