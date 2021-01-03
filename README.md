@@ -4,4 +4,4 @@
 
 <div align=center><img src="./images/ainlp.jpg" width="300" height="300"></>
 
-<a href="http://www.52nlp.cn/ainlp%e5%b9%b4%e5%ba%a6%e9%98%85%e8%af%bb%e6%94%b6%e8%97%8f%e6%b8%85%e5%8d%95">AINLP年度阅读收藏清单</a>
+* <a href="http://www.52nlp.cn/ainlp%e5%b9%b4%e5%ba%a6%e9%98%85%e8%af%bb%e6%94%b6%e8%97%8f%e6%b8%85%e5%8d%95">AINLP年度阅读收藏清单</a>
