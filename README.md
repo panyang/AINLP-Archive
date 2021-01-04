@@ -5,26 +5,34 @@
 <p align=center><img src="./images/ainlp.jpg" width="300" height="300"></p>
 
 <p><strong>命名实体识别(NER)</strong></p>
+
 [Transformer为啥在NER上表现不好](https://mp.weixin.qq.com/s/FVPR_PkMcgygTr8LbyRPIw)
 
 <p><strong>推荐系统</strong></p>
+
 [推荐模型之DeepMCP模型](https://mp.weixin.qq.com/s/q2gEnuFoJK77qPZw7JoBKg)
+
 [情景感知推荐系统](https://mp.weixin.qq.com/s/C-KctLP9tf4k0SGVtHhZww)
 
 
 <p><strong>广告系统</strong></p>
+
 [特征交互新路线|阿里 Co-action Network论文解读](https://mp.weixin.qq.com/s/KEnkwa3ZwnIKi8ZxsPOCaQ)
 
 <p><strong>搜索引擎</strong></p>
+
 [搜索中涉及的算法问题](https://mp.weixin.qq.com/s/5EtLDC4ox3Yy5kkj2W4DIg)
 
 <p><strong>知识图谱</strong></p>
+
 [赛尔笔记 | 概念体系自动构建](https://mp.weixin.qq.com/s/ihYxmCSCNhO-i2-4q_I4fQ)
 
 <p><strong>多任务学习</strong></p>
+
 [Multi-Task 多任务学习， 那些你不知道的事](https://mp.weixin.qq.com/s/MOSMR3Ue9i3jYklPRvmWwA)
 
 <p><strong>业界经验</strong></p>
+
 [四化大业：论算法工程师的自我修养](https://mp.weixin.qq.com/s/qaSaVsYtvWG5EDDOUi82oA)
 
 
