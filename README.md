@@ -4,6 +4,7 @@
 
 <p align=center><img src="./images/ainlp.jpg" width="300" height="300"></p>
 
+[AINLP公众号](http://www.52nlp.cn/%E6%AC%A2%E8%BF%8E%E5%85%B3%E6%B3%A8ainlp-%E4%B8%80%E4%B8%AA%E6%9C%89%E8%B6%A3%E6%9C%89ai%E7%9A%84nlp%E5%85%AC%E4%BC%97%E5%8F%B7) 公众号文章分类存档。欢迎关注AINLP公众号：
 <p><strong>命名实体识别(NER)</strong></p>
 
 [Transformer为啥在NER上表现不好](https://mp.weixin.qq.com/s/FVPR_PkMcgygTr8LbyRPIw)
