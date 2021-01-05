@@ -11,9 +11,13 @@
 [Transformer为啥在NER上表现不好](https://mp.weixin.qq.com/s/FVPR_PkMcgygTr8LbyRPIw)
 
 <p><strong>推荐系统</strong></p>
+
 [推荐模型之DeepMCP模型](https://mp.weixin.qq.com/s/q2gEnuFoJK77qPZw7JoBKg)
+
 [基于约束的推荐系统](https://mp.weixin.qq.com/s/wm9A6Y52ILageW-CS8rgmw)
+
 [情景感知推荐系统](https://mp.weixin.qq.com/s/C-KctLP9tf4k0SGVtHhZww)
+
 [AAAI2021推荐系统论文清单](https://mp.weixin.qq.com/s/Z68OpRSAmMHHdxkMDD1v5g)
 
 <p><strong>广告系统</strong></p>
@@ -27,6 +31,7 @@
 <p><strong>知识图谱</strong></p>
 
 [无需人工！无需训练！构建知识图谱 BERT一下就行了！](https://mp.weixin.qq.com/s/fxXpwcQx7ogay8qcLAUXsw)
+
 [赛尔笔记 | 概念体系自动构建](https://mp.weixin.qq.com/s/ihYxmCSCNhO-i2-4q_I4fQ)
 
 <p><strong>多任务学习</strong></p>
@@ -34,16 +39,21 @@
 [Multi-Task 多任务学习， 那些你不知道的事](https://mp.weixin.qq.com/s/MOSMR3Ue9i3jYklPRvmWwA)
 
 <p><strong>竞赛之路</strong></p>
+
 [2020 Kaggle 10大竞赛方案汇总](https://mp.weixin.qq.com/s/CLZsq01Zw_yEdtvkTyyiGg)
+
 [一人之力，刷爆三路榜单！信息抽取竞赛夺冠经验分享](https://mp.weixin.qq.com/s/nXblUywY3b5HFwej5DNToA)
 
 <p><strong>算法工程师进阶</strong></p>
+
 [四化大业：论算法工程师的自我修养](https://mp.weixin.qq.com/s/qaSaVsYtvWG5EDDOUi82oA)
 
 <p><strong>深度学习基础</strong></p>
+
 [从零开始实现卷积神经网络CNN](https://mp.weixin.qq.com/s/Td5cK5gKzlx6N8mAtnTa8Q)
 
 <p><strong>经验分享</strong></p>
+
 [如何修正NLP问题的bad case](https://mp.weixin.qq.com/s/d6G4jbprAItGp_qiHjO5uA)
 
 <p><strong>关于AINLP</strong></p>
