@@ -6,9 +6,13 @@
 
 [AINLP公众号](http://www.52nlp.cn/%E6%AC%A2%E8%BF%8E%E5%85%B3%E6%B3%A8ainlp-%E4%B8%80%E4%B8%AA%E6%9C%89%E8%B6%A3%E6%9C%89ai%E7%9A%84nlp%E5%85%AC%E4%BC%97%E5%8F%B7) 公众号文章分类存档, 每天更新。
 
-<p><strong>命名实体识别(NER)</strong></p>
+<p><strong>命名实体识别</strong></p>
 
 [Transformer为啥在NER上表现不好](https://mp.weixin.qq.com/s/FVPR_PkMcgygTr8LbyRPIw)
+
+<p><strong>文本生成</strong></p>
+
+[如何让BERT具有文本生成能力](https://mp.weixin.qq.com/s/iNY_pk9sby4bC-wLFzrh0g)
 
 <p><strong>推荐系统</strong></p>
 
@@ -17,6 +21,8 @@
 [基于约束的推荐系统](https://mp.weixin.qq.com/s/wm9A6Y52ILageW-CS8rgmw)
 
 [情景感知推荐系统](https://mp.weixin.qq.com/s/C-KctLP9tf4k0SGVtHhZww)
+
+[推荐系统中的数据挖掘方法](https://mp.weixin.qq.com/s/SfWiGypHV3X4V7NE_A7KtQ)
 
 [AAAI2021推荐系统论文清单](https://mp.weixin.qq.com/s/Z68OpRSAmMHHdxkMDD1v5g)
 
@@ -34,6 +40,12 @@
 
 [赛尔笔记 | 概念体系自动构建](https://mp.weixin.qq.com/s/ihYxmCSCNhO-i2-4q_I4fQ)
 
+<p><strong>事件抽取</strong></p>
+
+[超全必读！事件抽取综述（上）](https://mp.weixin.qq.com/s/aQaVEk90_1Axz-67jh7S8Q)
+[NLP 事件抽取综述（中）—— 模型篇](https://mp.weixin.qq.com/s/S6LvJqOlIpGWXThN212fVg)
+[超全必读！NLP 事件抽取综述（下）](https://mp.weixin.qq.com/s/1naWym_yYgdERFogoxPNwQ)
+
 <p><strong>多任务学习</strong></p>
 
 [Multi-Task 多任务学习， 那些你不知道的事](https://mp.weixin.qq.com/s/MOSMR3Ue9i3jYklPRvmWwA)
@@ -44,17 +56,22 @@
 
 [一人之力，刷爆三路榜单！信息抽取竞赛夺冠经验分享](https://mp.weixin.qq.com/s/nXblUywY3b5HFwej5DNToA)
 
-<p><strong>算法工程师进阶</strong></p>
+<p><strong>算法工程师之路</strong></p>
 
 [四化大业：论算法工程师的自我修养](https://mp.weixin.qq.com/s/qaSaVsYtvWG5EDDOUi82oA)
+
+<p><strong>实战经验分享</strong></p>
+
+[如何修正NLP问题的bad case](https://mp.weixin.qq.com/s/d6G4jbprAItGp_qiHjO5uA)
 
 <p><strong>深度学习基础</strong></p>
 
 [从零开始实现卷积神经网络CNN](https://mp.weixin.qq.com/s/Td5cK5gKzlx6N8mAtnTa8Q)
 
-<p><strong>经验分享</strong></p>
+<p><strong>其他</strong></p>
 
-[如何修正NLP问题的bad case](https://mp.weixin.qq.com/s/d6G4jbprAItGp_qiHjO5uA)
+[【科普】 AI是什么？AI可以做什么？AI会取代人的工作吗？](https://mp.weixin.qq.com/s/SfWiGypHV3X4V7NE_A7KtQ)
+
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id：AINLP2)，备注工作/研究方向+加群目的。</p>
