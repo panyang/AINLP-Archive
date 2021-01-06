@@ -6,6 +6,16 @@
 
 [AINLP公众号](http://www.52nlp.cn/%E6%AC%A2%E8%BF%8E%E5%85%B3%E6%B3%A8ainlp-%E4%B8%80%E4%B8%AA%E6%9C%89%E8%B6%A3%E6%9C%89ai%E7%9A%84nlp%E5%85%AC%E4%BC%97%E5%8F%B7) 公众号文章分类存档, 每天更新。
 
+<p><strong>深度学习基础</strong></p>
+
+[四万字全面详解 | 深度学习中的注意力机制（完结篇）](https://mp.weixin.qq.com/s/rWju_3bTAcTdWcP83AGtyA)
+
+[从零开始实现卷积神经网络CNN](https://mp.weixin.qq.com/s/Td5cK5gKzlx6N8mAtnTa8Q)
+
+<p><strong>预训练模型</strong></p>
+
+[语言模型发展思路](https://mp.weixin.qq.com/s/v7YZ_Y2a_u2HfJx0sGqFOw)
+
 <p><strong>命名实体识别</strong></p>
 
 [Transformer为啥在NER上表现不好](https://mp.weixin.qq.com/s/FVPR_PkMcgygTr8LbyRPIw)
@@ -15,6 +25,8 @@
 [如何让BERT具有文本生成能力](https://mp.weixin.qq.com/s/iNY_pk9sby4bC-wLFzrh0g)
 
 <p><strong>推荐系统</strong></p>
+
+[推荐精排模型之经典排序模型](https://mp.weixin.qq.com/s/qPKBjON786i_x2N0OqS1Nw)
 
 [推荐模型之DeepMCP模型](https://mp.weixin.qq.com/s/q2gEnuFoJK77qPZw7JoBKg)
 
@@ -40,6 +52,10 @@
 
 [赛尔笔记 | 概念体系自动构建](https://mp.weixin.qq.com/s/ihYxmCSCNhO-i2-4q_I4fQ)
 
+<p><strong>关系抽取</strong></p>
+
+[刘知远老师的“灵魂发问”：关系抽取到底在乎什么？](https://mp.weixin.qq.com/s/azD5OKyTxYVVZM8eho4JXA)
+
 <p><strong>事件抽取</strong></p>
 
 [超全必读！事件抽取综述（上）](https://mp.weixin.qq.com/s/aQaVEk90_1Axz-67jh7S8Q)
@@ -62,13 +78,11 @@
 
 [四化大业：论算法工程师的自我修养](https://mp.weixin.qq.com/s/qaSaVsYtvWG5EDDOUi82oA)
 
+[NLP算法工程师的日常以及核心竞争力](https://mp.weixin.qq.com/s/v7YZ_Y2a_u2HfJx0sGqFOw)
+
 <p><strong>实战经验分享</strong></p>
 
 [如何修正NLP问题的bad case](https://mp.weixin.qq.com/s/d6G4jbprAItGp_qiHjO5uA)
-
-<p><strong>深度学习基础</strong></p>
-
-[从零开始实现卷积神经网络CNN](https://mp.weixin.qq.com/s/Td5cK5gKzlx6N8mAtnTa8Q)
 
 <p><strong>其他</strong></p>
 
