@@ -43,7 +43,9 @@
 <p><strong>事件抽取</strong></p>
 
 [超全必读！事件抽取综述（上）](https://mp.weixin.qq.com/s/aQaVEk90_1Axz-67jh7S8Q)
+
 [NLP 事件抽取综述（中）—— 模型篇](https://mp.weixin.qq.com/s/S6LvJqOlIpGWXThN212fVg)
+
 [超全必读！NLP 事件抽取综述（下）](https://mp.weixin.qq.com/s/1naWym_yYgdERFogoxPNwQ)
 
 <p><strong>多任务学习</strong></p>
