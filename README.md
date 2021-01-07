@@ -16,6 +16,8 @@
 
 [语言模型发展思路](https://mp.weixin.qq.com/s/v7YZ_Y2a_u2HfJx0sGqFOw)
 
+[GPT-3的最强落地方式？陈丹琦提出小样本微调方法，比普通微调提升11%](https://mp.weixin.qq.com/s/nFuN2kwf-1JbgZflVrkf6w)
+
 <p><strong>命名实体识别</strong></p>
 
 [Transformer为啥在NER上表现不好](https://mp.weixin.qq.com/s/FVPR_PkMcgygTr8LbyRPIw)
@@ -23,6 +25,12 @@
 <p><strong>文本生成</strong></p>
 
 [如何让BERT具有文本生成能力](https://mp.weixin.qq.com/s/iNY_pk9sby4bC-wLFzrh0g)
+
+<p><strong>对话系统</strong></p>
+
+[CRSLab：可能是最适合你的对话推荐系统开源库](https://mp.weixin.qq.com/s/n9xP9R7gY7n3d890W0TXvw)
+
+[达摩院基于元学习的对话系统](https://mp.weixin.qq.com/s/NCum-Qi8j6nTcPU-fm-uvA)
 
 <p><strong>推荐系统</strong></p>
 
@@ -35,6 +43,8 @@
 [情景感知推荐系统](https://mp.weixin.qq.com/s/C-KctLP9tf4k0SGVtHhZww)
 
 [推荐系统中的数据挖掘方法](https://mp.weixin.qq.com/s/SfWiGypHV3X4V7NE_A7KtQ)
+
+[推荐模型之用户行为序列处理](https://mp.weixin.qq.com/s/osor94Qti9CKbPh0RNO6VQ)
 
 [AAAI2021推荐系统论文清单](https://mp.weixin.qq.com/s/Z68OpRSAmMHHdxkMDD1v5g)
 
@@ -79,6 +89,8 @@
 [四化大业：论算法工程师的自我修养](https://mp.weixin.qq.com/s/qaSaVsYtvWG5EDDOUi82oA)
 
 [NLP算法工程师的日常以及核心竞争力](https://mp.weixin.qq.com/s/v7YZ_Y2a_u2HfJx0sGqFOw)
+
+[算法在岗一年的经验总结](https://mp.weixin.qq.com/s/5q-Du1kbpb-ZYqnktsUMaQ)
 
 <p><strong>实战经验分享</strong></p>
 
