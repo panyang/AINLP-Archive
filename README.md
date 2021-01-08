@@ -7,23 +7,41 @@
 [AINLP公众号](http://www.52nlp.cn/%E6%AC%A2%E8%BF%8E%E5%85%B3%E6%B3%A8ainlp-%E4%B8%80%E4%B8%AA%E6%9C%89%E8%B6%A3%E6%9C%89ai%E7%9A%84nlp%E5%85%AC%E4%BC%97%E5%8F%B7) 公众号文章分类存档, 每天更新。
 
 <p><strong>如何学习NLP和NLP相关资源</strong><br>
+
 <a href="https://mp.weixin.qq.com/s/tV26DJeFWfEe0DL3B7Z-cQ" target="_blank" rel="noopener">如何学习自然语言处理：一本书和一门课</a><br>
+
 <a href="https://mp.weixin.qq.com/s/tyLRR2xKbFYEQ9WYM5ZKcg" target="_blank" rel="noopener">如何学习自然语言处理：NLP领域经典《自然语言处理综论》英文版第三版更新</a><br>
+
 <a href="https://mp.weixin.qq.com/s/AdjO7ylfc28Qu_gCfOTFKA" rel="noopener" target="_blank">这门斯坦福大学自然语言处理经典入门课，我放到B站了</a><br>
+
 <a href="https://mp.weixin.qq.com/s/hzv62vVx9jcYv94xZPmHPw" rel="noopener" target="_blank">数学之美中盛赞的 Michael Collins 教授，他的NLP课程要不要收藏？</a><br>
+
 <a href="https://mp.weixin.qq.com/s/IXiAhufR9j5PR_YlRWlhCw" rel="noopener" target="_blank">学自然语言处理，其实更应该学好英语</a><br>
+
 <a href="https://mp.weixin.qq.com/s/qnsvDQvPZSJG6rDtbFGggA" target="_blank" rel="noopener">李纪为博士：初入NLP领域的一些小建议</a><br>
+
 <a href="https://mp.weixin.qq.com/s/E8vvzAP-4Mqd64kh4mL1iw" target="_blank" rel="noopener">老宋同学的学习建议和论文：听说你急缺论文大礼包？</a><br>
+
 <a href="https://mp.weixin.qq.com/s/_0M4WzoAzcd3sNAi4T-Ilg" rel="noopener" target="_blank">从老宋的角度看，自然语言处理领域如何学习？</a><br>
+
 <a href="https://mp.weixin.qq.com/s/N-6CjOLvL3p11v9dU85Gow" target="_blank" rel="noopener">刘知远老师NLP研究入门之道：NLP推荐书目</a><br>
+
 <a href="https://mp.weixin.qq.com/s/wirkEdzEoTmwQn9JR0Np6A" target="_blank" rel="noopener">NLP研究入门之道：自然语言处理简介</a><br>
+
 <a href="https://mp.weixin.qq.com/s/MlIEgLcjxq1-ujl-9Z_j6w" target="_blank" rel="noopener">NLP研究入门之道：走近NLP学术界</a><br>
+
 <a href="https://mp.weixin.qq.com/s/43mjDdSzTv2CLSBjPivLlw" target="_blank" rel="noopener">NLP研究入门之道：如何通过文献掌握学术动态</a><br>
+
 <a href="https://mp.weixin.qq.com/s/W4sOeJi11xxPw0b75Mrwaw" target="_blank" rel="noopener">NLP研究入门之道：如何写一篇合格的学术论文</a><br>
+
 <a href="https://mp.weixin.qq.com/s/sEnmC1rSrZ6U4Iqtiey8eQ" target="_blank" rel="noopener">NLP研究入门之道：本科生如何开始科研训练</a><br>
+
 <a href="https://mp.weixin.qq.com/s/pYSOysXipADV74YmkO9lEA" rel="noopener" target="_blank">自然语言理解难在哪儿？</a><br>
+
 <a href="https://mp.weixin.qq.com/s/88mrVSz1JA0FB2-5toWCSg" rel="noopener" target="_blank">好的研究想法从哪里来</a><br>
+
 <a href="https://mp.weixin.qq.com/s/iqAbAHr3fvyFcm3K1LR3kw" target="_blank" rel="noopener">你是如何了解或者进入NLP这个领域的？</a><br>
+
 <a href="https://mp.weixin.qq.com/s/lfXOu32_0IbNz0lzx3eIog" target="_blank" rel="noopener">NLP is hard! 自然语言处理太难了系列</a></p>
 
 <p><strong>深度学习基础</strong></p>
