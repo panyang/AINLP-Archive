@@ -10,6 +10,10 @@
 
 [四万字全面详解 | 深度学习中的注意力机制（完结篇）](https://mp.weixin.qq.com/s/rWju_3bTAcTdWcP83AGtyA)
 
+[RealFormer：Real 简单，Real 有效](https://mp.weixin.qq.com/s/1CQgLlINHXR_yQxwjFQQ-A)
+
+[Transformer哪家强？Google爸爸辨优良！](https://mp.weixin.qq.com/s/Agrt4Ic9wA59gZW4F5ZFcA)
+
 [从零开始实现卷积神经网络CNN](https://mp.weixin.qq.com/s/Td5cK5gKzlx6N8mAtnTa8Q)
 
 <p><strong>预训练模型</strong></p>
@@ -32,7 +36,7 @@
 
 [达摩院基于元学习的对话系统](https://mp.weixin.qq.com/s/NCum-Qi8j6nTcPU-fm-uvA)
 
-<p><strong>推荐系统</strong></p>
+<p><strong>推荐算法/推荐系统</strong></p>
 
 [推荐精排模型之经典排序模型](https://mp.weixin.qq.com/s/qPKBjON786i_x2N0OqS1Nw)
 
@@ -46,17 +50,23 @@
 
 [推荐模型之用户行为序列处理](https://mp.weixin.qq.com/s/osor94Qti9CKbPh0RNO6VQ)
 
+[NLP+基于内容的推荐](https://mp.weixin.qq.com/s/UE_6ZkS9ENQP4iKTTWzwIA)
+
 [AAAI2021推荐系统论文清单](https://mp.weixin.qq.com/s/Z68OpRSAmMHHdxkMDD1v5g)
 
-<p><strong>广告系统</strong></p>
+<p><strong>计算广告/广告系统</strong></p>
 
 [特征交互新路线|阿里 Co-action Network论文解读](https://mp.weixin.qq.com/s/KEnkwa3ZwnIKi8ZxsPOCaQ)
+
+[计算广告OCPC实践(四) 如何从0开始建立ocpc业务](https://mp.weixin.qq.com/s/InOm3R4Rf5KtPYDiCj2kbw)
 
 <p><strong>搜索引擎</strong></p>
 
 [搜索中涉及的算法问题](https://mp.weixin.qq.com/s/5EtLDC4ox3Yy5kkj2W4DIg)
 
 <p><strong>知识图谱</strong></p>
+
+[知识表示与融入技术前沿进展及应用](https://mp.weixin.qq.com/s/3V6vzrev4xPYKJmGqXNnAg)
 
 [无需人工！无需训练！构建知识图谱 BERT一下就行了！](https://mp.weixin.qq.com/s/fxXpwcQx7ogay8qcLAUXsw)
 
@@ -96,7 +106,17 @@
 
 [如何修正NLP问题的bad case](https://mp.weixin.qq.com/s/d6G4jbprAItGp_qiHjO5uA)
 
+<p><strong>系统架构</strong></p>
+
+[Mesh-Tensorflow: 广义分布式训练大模型](https://mp.weixin.qq.com/s/gr8443SRnBbGT9jtRi2SoA)
+
+<p><strong>开源工具</strong></p>
+
+[安利一个开源的好工具Label Studio, 闭环数据标注和模型训练](https://mp.weixin.qq.com/s/kWJZA0acOPi46c2_Gd9aeA)
+
 <p><strong>其他</strong></p>
+
+[概率图模型系列（一）：概率图模型简介](https://mp.weixin.qq.com/s/mkM0N9eqRIT1Sx9cbBK9dg)
 
 [【科普】 AI是什么？AI可以做什么？AI会取代人的工作吗？](https://mp.weixin.qq.com/s/SfWiGypHV3X4V7NE_A7KtQ)
 
