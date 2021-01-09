@@ -126,8 +126,6 @@
 
 <p><strong>BERT及预训练模型</strong></p>
 
-<p>张俊林博士系列解读：</p>
-
 <a href="https://mp.weixin.qq.com/s/T3XjEir63GlasbXDPK2YUQ" rel="noopener" target="_blank">放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较</a><br>
 
 <a href="https://mp.weixin.qq.com/s/LGJvvhotSg7XMn8mg3TZUw" target="_blank" rel="noopener">预训练在自然语言处理的发展: 从Word Embedding到BERT模型</a><br>
@@ -139,8 +137,6 @@
 <a href="https://mp.weixin.qq.com/s/0pYFb2POAcV1AKTLJ7t1DA" rel="noopener" target="_blank">效果惊人的GPT 2.0模型：它告诉了我们什么</a><br>
 
 <a href="https://mp.weixin.qq.com/s/2nWZkWDWbtHEkWyTCKKuHw" rel="noopener" target="_blank">XLNet:运行机制及和Bert的异同比较</a></p>
-
-<p>高开远同学系列：</p>
 
 <a href="https://mp.weixin.qq.com/s/9b3sqng5GfFFYuIr-qlvdw" rel="noopener" target="_blank">BERT源码分析PART I</a><br>
 
@@ -162,8 +158,6 @@
 
 <a href="https://mp.weixin.qq.com/s/hGT8sKmjmeiD1pdrAepJqA" rel="noopener" target="_blank">中文预训练模型ERNIE超详细使用指南</a></p>
 
-<p>老宋的茶书会系列：</p>
-
 <a href="https://mp.weixin.qq.com/s/SNAPHnUpW6KPyN-dwj5LNw" rel="noopener" target="_blank">听说你还没读过 Bert 源码？</a><br>
 
 <a href="https://mp.weixin.qq.com/s/aEk90uEVIuqqq9639CAQpA" rel="noopener" target="_blank">Bert 之后：预训练语言模型与自然语言生成</a><br>
@@ -174,8 +168,6 @@
 
 <a href="https://mp.weixin.qq.com/s/lYNKXHorx886F2lHPAJHvg" rel="noopener" target="_blank">ALBERT 告诉了我们什么？</a></p>
 
-<p>太子長琴同学系列：</p>
-
 <a href="https://mp.weixin.qq.com/s/oqCRswaOhAEJ9GYZwKaKYA" rel="noopener" target="_blank">BERT论文笔记</a><br>
 
 <a href="https://mp.weixin.qq.com/s/NBJZo8ztIsaaYe4ZvdwrVw" rel="noopener" target="_blank">XLNet 论文笔记</a><br>
@@ -184,15 +176,11 @@
 
 <a href="https://mp.weixin.qq.com/s/HXynRtAAprARWWxEeICG8g" rel="noopener" target="_blank">DistilBERT Understanding</a></p>
 
-<p>邱震宇同学系列：</p>
-
 <a href="https://mp.weixin.qq.com/s/K1R_thLJqegm6QDj2GA5ww" rel="noopener" target="_blank">模型压缩实践系列之——layer dropout</a><br>
 
 <a href="https://mp.weixin.qq.com/s/mkaQb-aauxED1mH1fdYTMA" rel="noopener" target="_blank">模型压缩实践系列之——bert-of-theseus，一个非常亲民的bert压缩方法</a><br>
 
 <a href="https://mp.weixin.qq.com/s/PR_YrbbT8gnAx6A36D3_KQ" rel="noopener" target="_blank">模型压缩实践收尾篇——模型蒸馏以及其他一些技巧实践小结</a></p>
-
-<p>张贵发同学系列：</p>
 
 <a href="https://mp.weixin.qq.com/s/H4at_BDLwZWqlBHLjMZWRQ" rel="noopener" target="_blank">一步步理解BERT</a><br>
 
@@ -200,19 +188,13 @@
 
 <a href="https://mp.weixin.qq.com/s/z4jihwif7Jx7OQ76p7JgxQ" rel="noopener" target="_blank">深度剖析知识增强语义表示模型——ERNIE</a></p>
 
-<p>艾力亚尔同学的文章：<br>
-
 <a href="https://mp.weixin.qq.com/s/t_VQ8-vNrgOoYz_cyVwhmQ" rel="noopener" target="_blank">NLP - 基于 BERT 的中文命名实体识别（NER)</a><br>
 
 <a href="https://mp.weixin.qq.com/s/imPro1LZvGJ44ezoDOL5Dw" rel="noopener" target="_blank">NLP - BERT/ERNIE 文本分类和部署</a></p>
 
-<p>SunYanCN同学的文章：<br>
-
 <a href="https://mp.weixin.qq.com/s/C5B4QO0fxWtBwA5iv3XzcA" rel="noopener" target="_blank">详解BERT阅读理解</a><br>
 
 <a href="https://mp.weixin.qq.com/s/zOcbvoq26hmlniU_k26hrQ" rel="noopener" target="_blank">简单高效的Bert中文文本分类模型开发和部署</a></p>
-
-<p>其他预训练模型相关：<br>
 
 <a href="https://mp.weixin.qq.com/s/q5OyrIycfN4fjQ33uSRmEA" target="_blank" rel="noopener">BERT相关论文、文章和代码资源汇总</a><br>
 
