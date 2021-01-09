@@ -44,6 +44,76 @@
 
 <a href="https://mp.weixin.qq.com/s/lfXOu32_0IbNz0lzx3eIog" target="_blank" rel="noopener">NLP is hard! 自然语言处理太难了系列</a></p>
 
+<p><strong>NLP相关工具及在线测试（公众号对话测试）</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/Sy2hukGVk-7QQY_YNQ10kw" target="_blank" rel="noopener">五款中文分词工具在线PK: Jieba, SnowNLP, PkuSeg, THULAC, HanLP</a><br>
+
+<a href="https://mp.weixin.qq.com/s/YvpVumIdBDA9vBjGeLoPZA" target="_blank" rel="noopener">中文分词工具在线PK新增：FoolNLTK、LTP、StanfordCoreNLP</a><br>
+
+<a href="https://mp.weixin.qq.com/s/rFCBnExyZVHI-SwrSj7pmA" target="_blank" rel="noopener">Python中文分词工具大合集：安装、使用和测试</a><br>
+
+<a href="https://mp.weixin.qq.com/s/LwtQVg9p_VBzwA_2uvX8GA" target="_blank" rel="noopener">八款中文词性标注工具使用及在线测试</a><br>
+
+<a href="https://mp.weixin.qq.com/s/pOGdatZK5Z7uxmveHAX4_Q" target="_blank" rel="noopener">百度深度学习中文词法分析工具LAC试用之旅</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Vj0IKHWD_aXto8NE8alz8g" target="_blank" rel="noopener">来，试试百度的深度学习情感分析工具</a><br>
+
+<a href="https://mp.weixin.qq.com/s/2y-TshJqNHW5ixzjbtdekg" target="_blank" rel="noopener">AINLP公众号新增SnowNLP情感分析模块</a><br>
+
+<a href="https://mp.weixin.qq.com/s/pd_BcCG2DjtlgFsym8PwXw" rel="noopener" target="_blank">斯坦福大学NLP组Python深度学习自然语言处理工具Stanza试用</a><br>
+
+<a href="https://mp.weixin.qq.com/s/gU9BkXzV35_2walQ5ndB_w" rel="noopener" target="_blank">中文命名实体识别工具（NER）哪家强？</a></p>
+
+<p><strong>腾讯词向量和相似词、相似度、词语游戏系列</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/UwPwW8JzWVQrVwbPy9321g" target="_blank" rel="noopener">相似词查询：玩转腾讯 AI Lab 中文词向量</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Q533WJ7Kwtehwm8aLuKbDA" target="_blank" rel="noopener">玩转腾讯词向量：词语相似度计算和在线查询</a><br>
+
+<a href="https://mp.weixin.qq.com/s/oboRxo9k4am4AUGmR5YG9Q" target="_blank" rel="noopener">腾讯词向量实战：通过Annoy进行索引和快速查询</a><br>
+
+<a href="https://mp.weixin.qq.com/s/cMMVCFcBoDfcTZXhRty63w" target="_blank" rel="noopener">玩转腾讯词向量：Game of Words（词语的加减游戏）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/8BVerIljzZHX3KFnYedDgg" target="_blank" rel="noopener">词向量游戏：梅西-阿根廷+葡萄牙=?</a><br>
+
+<a href="https://mp.weixin.qq.com/s/JB3Tg8s8YHfLL0kLtR92kw" rel="noopener" target="_blank">腾讯 800 万中文词向量 API Demo 搭建</a><br>
+
+<a href="https://mp.weixin.qq.com/s/DNkZbxJclzWXPYarN14bPg" rel="noopener" target="_blank">相似词检索，近义词查询，同义词大全，这里不仅仅限于中文</a></p>
+
+<p><strong>自动对联及作诗机</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/A6FMzXS0W7jyTMuyCgzJhw" target="_blank" rel="noopener">风云三尺剑，花鸟一床书---对联数据集和自动对联机器人</a><br>
+
+<a href="https://mp.weixin.qq.com/s/VSPPEVcihLUcJMmh7h3hgA" target="_blank" rel="noopener">自动对联活动获奖结果以及机器对联赏析</a><br>
+
+<a href="https://mp.weixin.qq.com/s/w8e0TixjbqvKXnZksL32tQ" target="_blank" rel="noopener">"自动作诗机"上线，代码和数据都是公开的</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Za1_atH01eUIQHHdo4M-Cg" rel="noopener" target="_blank">鼠年春节，用 GPT-2 自动写对联和对对联</a><br>
+
+<a href="https://mp.weixin.qq.com/s/8nOhe0RDkgEgxWdjAsjpvw" rel="noopener" target="_blank">用 GPT-2 自动写诗，从五言绝句开始</a><br>
+
+<a href="https://mp.weixin.qq.com/s/fdeyf2uwaHNac1_guj5L6Q" rel="noopener" target="_blank">自动作诗机&amp;藏头诗生成器：五言、七言、绝句、律诗全了</a><br>
+
+<a href="https://mp.weixin.qq.com/s/OgWlf7GqidIX2ffVBUo_tQ" rel="noopener" target="_blank">仅供娱乐，藏尾诗生成器来了</a></p>
+
+<p><strong>夸夸聊天机器人及其他技能</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/B0ilgxGnLPMYDny1FYmWHw" target="_blank" rel="noopener">一行Python代码实现夸夸聊天机器人</a><br>
+
+<a href="https://mp.weixin.qq.com/s/pUhugd5WTru32M1l6Qrxzg" target="_blank" rel="noopener">为了夸夸聊天机器人，爬了一份夸夸语料库</a><br>
+
+<a href="https://mp.weixin.qq.com/s/NO2M8_VD29uCaUuTrkzfyA" target="_blank" rel="noopener">夸夸聊天机器人升级：从随机到准个性化</a><br>
+
+<a href="https://mp.weixin.qq.com/s/fSzWY835t1bgZsv901S_FA" target="_blank" rel="noopener">来，试试语音（识别）聊天（机器人）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Fe1WJUaaXpe4gERZFmhUIw">来，试试成语接龙</a><br>
+
+<a href="https://mp.weixin.qq.com/s/c5AXq0iNLC65Nwae-vnjXQ" rel="noopener" target="_blank">推荐一份中文数据，来试试汉字、词语、成语、歇后语在线检索</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Qnt-R_IY7N3eVhAvwNQ1ig" rel="noopener" target="_blank">AINLP公众号新增"狗屁不通文章生成器"接口</a><br>
+
+<a href="https://mp.weixin.qq.com/s/lofYSXsgsFNSEqFyKaWhJA" rel="noopener" target="_blank">来，试试彩虹屁生成器</a></p>
+
 <p><strong>深度学习基础</strong></p>
 
 [四万字全面详解 | 深度学习中的注意力机制（完结篇）](https://mp.weixin.qq.com/s/rWju_3bTAcTdWcP83AGtyA)
