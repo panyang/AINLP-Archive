@@ -124,7 +124,135 @@
 
 [从零开始实现卷积神经网络CNN](https://mp.weixin.qq.com/s/Td5cK5gKzlx6N8mAtnTa8Q)
 
-<p><strong>预训练模型</strong></p>
+<p><strong>BERT及预训练模型</strong></p>
+
+<p>张俊林博士系列解读：</p>
+
+<a href="https://mp.weixin.qq.com/s/T3XjEir63GlasbXDPK2YUQ" rel="noopener" target="_blank">放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较</a><br>
+
+<a href="https://mp.weixin.qq.com/s/LGJvvhotSg7XMn8mg3TZUw" target="_blank" rel="noopener">预训练在自然语言处理的发展: 从Word Embedding到BERT模型</a><br>
+
+<a href="https://mp.weixin.qq.com/s/p16IEzlaDGRNt8h6WkP-dQ" target="_blank" rel="noopener">从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史</a><br>
+
+<a href="https://mp.weixin.qq.com/s/WPkOMeXK5rE-KpBFeI-KAg" rel="noopener" target="_blank">Bert时代的创新（应用篇）：Bert在NLP各领域的应用进展</a><br>
+
+<a href="https://mp.weixin.qq.com/s/0pYFb2POAcV1AKTLJ7t1DA" rel="noopener" target="_blank">效果惊人的GPT 2.0模型：它告诉了我们什么</a><br>
+
+<a href="https://mp.weixin.qq.com/s/2nWZkWDWbtHEkWyTCKKuHw" rel="noopener" target="_blank">XLNet:运行机制及和Bert的异同比较</a></p>
+
+<p>高开远同学系列：</p>
+
+<a href="https://mp.weixin.qq.com/s/9b3sqng5GfFFYuIr-qlvdw" rel="noopener" target="_blank">BERT源码分析PART I</a><br>
+
+<a href="https://mp.weixin.qq.com/s/whZlOBhMpvUsWjCkKjRnAw" rel="noopener" target="_blank">BERT源码分析PART II</a><br>
+
+<a href="https://mp.weixin.qq.com/s/lbL1a1vyU6p_hJ5EEahi5g" rel="noopener" target="_blank">BERT源码分析PART III</a><br>
+
+<a href="https://mp.weixin.qq.com/s/b-HYzrSa4MF2zHYdxbtKcg" rel="noopener" target="_blank">站在BERT肩膀上的NLP新秀们（PART I）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/RIm0S6Psm5cDA4yqDjP49A" rel="noopener" target="_blank">站在BERT肩膀上的NLP新秀们（PART II）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/yXcpgr6oxowOYdQr9UhW0A" rel="noopener" target="_blank">站在BERT肩膀上的NLP新秀们（PART III）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/H-t2t2ccOW_el62ppt8CGg" rel="noopener" target="_blank">Nvidia League Player：来呀比到天荒地老</a><br>
+
+<a href="https://mp.weixin.qq.com/s/K07zCIibmhC03L-JOHoaKg" rel="noopener" target="_blank">Dive into BERT：语言模型与知识</a><br>
+
+<a href="https://mp.weixin.qq.com/s/_-GN-OI9DMYMyKBRKObvKA" rel="noopener" target="_blank">当BERT遇上知识图谱</a><br>
+
+<a href="https://mp.weixin.qq.com/s/hGT8sKmjmeiD1pdrAepJqA" rel="noopener" target="_blank">中文预训练模型ERNIE超详细使用指南</a></p>
+
+<p>老宋的茶书会系列：</p>
+
+<a href="https://mp.weixin.qq.com/s/SNAPHnUpW6KPyN-dwj5LNw" rel="noopener" target="_blank">听说你还没读过 Bert 源码？</a><br>
+
+<a href="https://mp.weixin.qq.com/s/aEk90uEVIuqqq9639CAQpA" rel="noopener" target="_blank">Bert 之后：预训练语言模型与自然语言生成</a><br>
+
+<a href="https://mp.weixin.qq.com/s/aPkPlEPMFS0NrmD5r7Kfkg" rel="noopener" target="_blank">就最近看的paper谈谈预训练语言模型发展</a><br>
+
+<a href="https://mp.weixin.qq.com/s/3b_2VbehBOYsnKCBSEio4w" rel="noopener" target="_blank">Bert 改进： 如何融入知识</a><br>
+
+<a href="https://mp.weixin.qq.com/s/lYNKXHorx886F2lHPAJHvg" rel="noopener" target="_blank">ALBERT 告诉了我们什么？</a></p>
+
+<p>太子長琴同学系列：</p>
+
+<a href="https://mp.weixin.qq.com/s/oqCRswaOhAEJ9GYZwKaKYA" rel="noopener" target="_blank">BERT论文笔记</a><br>
+
+<a href="https://mp.weixin.qq.com/s/NBJZo8ztIsaaYe4ZvdwrVw" rel="noopener" target="_blank">XLNet 论文笔记</a><br>
+
+<a href="https://mp.weixin.qq.com/s/gPKj5x0pSh50fP2fjqjrYA" rel="noopener" target="_blank">ERNIE Tutorial（论文笔记 + 实践指南）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/HXynRtAAprARWWxEeICG8g" rel="noopener" target="_blank">DistilBERT Understanding</a></p>
+
+<p>邱震宇同学系列：</p>
+
+<a href="https://mp.weixin.qq.com/s/K1R_thLJqegm6QDj2GA5ww" rel="noopener" target="_blank">模型压缩实践系列之——layer dropout</a><br>
+
+<a href="https://mp.weixin.qq.com/s/mkaQb-aauxED1mH1fdYTMA" rel="noopener" target="_blank">模型压缩实践系列之——bert-of-theseus，一个非常亲民的bert压缩方法</a><br>
+
+<a href="https://mp.weixin.qq.com/s/PR_YrbbT8gnAx6A36D3_KQ" rel="noopener" target="_blank">模型压缩实践收尾篇——模型蒸馏以及其他一些技巧实践小结</a></p>
+
+<p>张贵发同学系列：</p>
+
+<a href="https://mp.weixin.qq.com/s/H4at_BDLwZWqlBHLjMZWRQ" rel="noopener" target="_blank">一步步理解BERT</a><br>
+
+<a href="https://mp.weixin.qq.com/s/xvsc5RJ3CpiehoGsA-ml1g" rel="noopener" target="_blank">最新语言表示方法XLNet</a><br>
+
+<a href="https://mp.weixin.qq.com/s/z4jihwif7Jx7OQ76p7JgxQ" rel="noopener" target="_blank">深度剖析知识增强语义表示模型——ERNIE</a></p>
+
+<p>艾力亚尔同学的文章：<br>
+
+<a href="https://mp.weixin.qq.com/s/t_VQ8-vNrgOoYz_cyVwhmQ" rel="noopener" target="_blank">NLP - 基于 BERT 的中文命名实体识别（NER)</a><br>
+
+<a href="https://mp.weixin.qq.com/s/imPro1LZvGJ44ezoDOL5Dw" rel="noopener" target="_blank">NLP - BERT/ERNIE 文本分类和部署</a></p>
+
+<p>SunYanCN同学的文章：<br>
+
+<a href="https://mp.weixin.qq.com/s/C5B4QO0fxWtBwA5iv3XzcA" rel="noopener" target="_blank">详解BERT阅读理解</a><br>
+
+<a href="https://mp.weixin.qq.com/s/zOcbvoq26hmlniU_k26hrQ" rel="noopener" target="_blank">简单高效的Bert中文文本分类模型开发和部署</a></p>
+
+<p>其他预训练模型相关：<br>
+
+<a href="https://mp.weixin.qq.com/s/q5OyrIycfN4fjQ33uSRmEA" target="_blank" rel="noopener">BERT相关论文、文章和代码资源汇总</a><br>
+
+<a href="https://mp.weixin.qq.com/s/IndeECchmX_GC8MzuWSVfg" rel="noopener" target="_blank">12个NLP预训练模型的学习笔记</a><br>
+
+<a href="https://mp.weixin.qq.com/s/VBX-EezsgK4QkQqaOKqObQ" rel="noopener" target="_blank">transformer-XL与XLNet笔记</a><br>
+
+<a href="https://mp.weixin.qq.com/s/38Y3xf1F-lXxvi_RYTW76A" rel="noopener" target="_blank">Reformer: The Efficient Transformer</a><br>
+
+<a href="https://mp.weixin.qq.com/s/yWl7EL33vWt64Mo7d9kyIw" rel="noopener" target="_blank">逆向而行，中文轻量级预训练模型的探索之路</a><br>
+
+<a href="https://mp.weixin.qq.com/s/_sTGvbCb7BlKDYQhPYX7eg" rel="noopener" target="_blank">【NLP】ALBERT粗读（李如同学）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/u4k-A3dSb2-6PDodWPePhA" rel="noopener" target="_blank">BERT 的演进和应用</a><br>
+
+<a href="https://mp.weixin.qq.com/s/U_pYc5roODcs_VENDoTbiQ" rel="noopener" target="_blank">吴金龙博士的解读：BERT时代与后时代的NLP</a><br>
+
+<a href="https://mp.weixin.qq.com/s/V_-AHhUk5KLKm4LUfhf8vA" target="_blank" rel="noopener">谷歌BERT模型深度解析</a><br>
+
+<a href="https://mp.weixin.qq.com/s/HhW7PcFhrVWjWt1qNx-anQ" rel="noopener" target="_blank">BERT_Paper_Chinese_Translation: BERT论文中文翻译版</a><br>
+
+<a href="https://mp.weixin.qq.com/s/48y3gpPLs583Vv-QXpcnlQ" rel="noopener" target="_blank">【Github】BERT-train2deploy：BERT模型从训练到部署</a><br>
+
+<a href="https://mp.weixin.qq.com/s/j0sHyTTfgdtMX3eAen0umw" rel="noopener" target="_blank">BERT/注意力机制/Transformer/迁移学习NLP资源大列表：awesome-bert-nlp</a><br>
+
+<a href="https://mp.weixin.qq.com/s/DvbvYppeuMaPn84SRAINcQ" rel="noopener" target="_blank">NLP中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert</a><br>
+
+<a href="https://mp.weixin.qq.com/s/aXudh37BWRRz75BzqSTJ0w" rel="noopener" target="_blank">中文预训练ALBERT模型来了：小模型登顶GLUE，Base版模型小10倍速度快1倍</a><br>
+
+<a href="https://mp.weixin.qq.com/s/pXtPJiY5yYsaRVb2Jn-qZA" rel="noopener" target="_blank">超小型bert横空出世：训练和预测提速10倍</a><br>
+
+<a href="https://mp.weixin.qq.com/s/q3v1nwNrH8VTZIQ9lIxmcA" rel="noopener" target="_blank">RoBERTa for Chinese：大规模中文预训练RoBERTa模型</a><br>
+
+<a href="https://mp.weixin.qq.com/s/8D9kYpoZy6GKN7zudKxNww" rel="noopener" target="_blank">中文语言理解基准测评(chineseGLUE)来了，公开征集数据集进行中</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Lzsuo6fIBPkiOJ6BLCsRPA" rel="noopener" target="_blank">CLUECorpus2020：可能是史上最大的开源中文语料库以及高质量中文预训练模型集合</a><br>
+
+<a href="https://mp.weixin.qq.com/s/0rIXEX2NSmjNNA0PVRtmgQ" rel="noopener" target="_blank">最简单的BERT模型调用方法</a><br>
+
+<a href="https://mp.weixin.qq.com/s/1rj8zGCp_SpyBCD-3PXjBw" rel="noopener" target="_blank">【Github】BERT-NER-Pytorch：三种不同模式的BERT中文NER实验</a></p>
 
 [语言模型发展思路](https://mp.weixin.qq.com/s/v7YZ_Y2a_u2HfJx0sGqFOw)
 
