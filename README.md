@@ -240,21 +240,134 @@
 
 [GPT-3的最强落地方式？陈丹琦提出小样本微调方法，比普通微调提升11%](https://mp.weixin.qq.com/s/nFuN2kwf-1JbgZflVrkf6w)
 
-<p><strong>命名实体识别</strong></p>
+<p><strong>中文分词</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/uATfclTlXqAnkp4ep8ZRMQ" target="_blank" rel="noopener">中文分词文章索引和分词数据资源分享</a><br>
+
+<a href="https://mp.weixin.qq.com/s/vRGhSogb6Kc19eicEchylQ" target="_blank" rel="noopener">自然语言理解太难了之中文分词八级测试</a><br>
+
+<a href="https://mp.weixin.qq.com/s/9ArR_D2Xu2IjKtn9xU0ycA" target="_blank" rel="noopener">中文分词工具评估：chinese-segmentation-evaluation</a><br>
+
+<a href="https://mp.weixin.qq.com/s/p35pGmMYqjRUWIEmZD1iVA" rel="noopener" target="_blank">简单有效的多标准中文分词</a></p>
+
+<p><strong>命名实体识别</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/3fY8XS-6vNUvjr-_qAByVA" rel="noopener" target="_blank">【论文笔记】命名实体识别论文</a><br>
+
+<a href="https://mp.weixin.qq.com/s/-rjUpOZFFQg-E6GkQ_lclw" rel="noopener" target="_blank">一文详解深度学习在命名实体识别(NER)中的应用</a><br>
+
+<a href="https://mp.weixin.qq.com/s/3KWBZsNvvhjsxTIM8Yk3Gw" rel="noopener" target="_blank">中文NER任务实验小结报告——深入模型实现细节</a><br>
+j
+
+<a href="https://mp.weixin.qq.com/s/rlrLYjcoaZmlZTra_K1zRA" rel="noopener" target="_blank">CLUENER2020：中文细粒度命名实体识别数据集来了</a></p>
 
 [Transformer为啥在NER上表现不好](https://mp.weixin.qq.com/s/FVPR_PkMcgygTr8LbyRPIw)
 
-<p><strong>文本生成</strong></p>
+<p><strong>文本分类/情感分析</strong><br>
 
-[如何让BERT具有文本生成能力](https://mp.weixin.qq.com/s/iNY_pk9sby4bC-wLFzrh0g)
+<a href="https://mp.weixin.qq.com/s/jM99a3fFAfgZvSx8tQA4AA" rel="noopener" target="_blank">几个可作为Baseline的文本分类模型</a><br>
 
-<p><strong>对话系统</strong></p>
+<a href="https://mp.weixin.qq.com/s/Z40C_-PM62vpdaJXzcKatw" rel="noopener" target="_blank">清华THUNLP多标签分类论文笔记：基于类别属性的注意力机制解决标签不均衡和标签相似问题</a><br>
+
+<a href="https://mp.weixin.qq.com/s/W5WenUViffvnndsGxeAiRA" rel="noopener" target="_blank">【论文串烧】基于特定实体的文本情感分类总结（PART I）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/g7rAx-A7aSCRpemVV6hRkQ" rel="noopener" target="_blank">基于特定实体的文本情感分类总结（PART II）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/EglEV2IrHjySOqliYjXDrQ" rel="noopener" target="_blank">基于特定实体的文本情感分类总结（PART III）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/qndGMdeiFl08KdGpJ5AMZA">深度学习实践：从零开始做电影评论文本情感分析</a><br>
+
+<a href="https://mp.weixin.qq.com/s/b1uQOulaJ8p9F1pJkuxdjw" rel="noopener" target="_blank">5个例子，秒懂分类算法（达观数据王子豪）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/ypY81UjIsFSgoIHrH5S9Pw" rel="noopener" target="_blank">NLP - 15 分钟搭建中文文本分类模型</a></p>
+
+<p><strong>文本摘要</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/tCRYxCWyduhY9GDiTDzmgA" rel="noopener" target="_blank">抛开模型，探究文本自动摘要的本质——ACL2019 论文佳作研读系列</a><br>
+
+<a href="https://mp.weixin.qq.com/s/qLK9rXwEjkx5y7auEq_c3A" rel="noopener" target="_blank">文本自动摘要任务的“不完全”心得总结</a><br>
+
+<a href="https://mp.weixin.qq.com/s/7maIQFxaY6eOV9cGlLEvEQ" rel="noopener" target="_blank">BottleSum——文本摘要论文系列解读</a><br>
+
+<a href="https://mp.weixin.qq.com/s/xtFDe2AVn1O296fWUeo6yQ" rel="noopener" target="_blank">文本自动摘要任务的“不完全”心得总结番外篇——submodular函数优化</a><br>
+
+<a href="https://mp.weixin.qq.com/s/oKDBYthSf5ZFwu8IvX-Azw" rel="noopener" target="_blank">文本摘要(text summarization)最新研究热点、发展趋势，里程碑论文推荐</a><br>
+
+<a href="https://mp.weixin.qq.com/s/JF9bmJdRwpPpY09z3V98LA" rel="noopener" target="_blank">2015-2019年摘要模型（Summarization Model）发展综述（一）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/2ageS8g6ZUrqH9XI9jmdWw" rel="noopener" target="_blank">2015-2019年摘要模型（Summarization Model）发展综述（二）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/owe_3Mm2J0IzzCS-nxcxQA" rel="noopener" target="_blank">真正理解指针生成网络——Summarization with Pointer-Generator Networks</a></p>
+
+<p><strong>对话系统/对话系统/聊天机器人</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/qUxPgsgP-4XFmVMMzLH5Ow" rel="noopener" target="_blank">生成式对话seq2seq：从rnn到transformer</a><br>
+
+<a href="https://mp.weixin.qq.com/s/1P9Ow0vqoMJ9PsgoigaEig" rel="noopener" target="_blank">QA问答系统中的深度学习技术实现</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Sxhb-BFY9tjj14GBWJlPBw" rel="noopener" target="_blank">从产品完整性的角度浅谈chatbot</a><br>
+
+<a href="https://mp.weixin.qq.com/s/ao0E9lqbosW1HQQo4TnngQ" rel="noopener" target="_blank">来谈谈那些很棒的检索式Chatbots论文（一）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Dyb8SHZ2RCKQl1t2ORayHg" rel="noopener" target="_blank">来谈谈那些很棒的检索式Chatbots论文（二）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/c2FNetQBXOEwRByW1yS2bw" rel="noopener" target="_blank">Rasa介绍：对话系统、产品与技术</a><br>
+
+<a href="https://mp.weixin.qq.com/s/_DeCOK5MT0MGvkuY4Y2GNg" rel="noopener" target="_blank">基于RASA的task-orient对话系统解析（一）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/_zu1McixZWS-YJiTaJ6rvg" rel="noopener" target="_blank">基于RASA的task-orient对话系统解析（二）——对话管理核心模块</a><br>
+
+<a href="https://mp.weixin.qq.com/s/xyZlx64FikRqXBST-9QgeA" rel="noopener" target="_blank">基于RASA的task-orient对话系统解析（三）——基于rasa的会议室预定对话系统实例</a><br>
+
+<a href="https://mp.weixin.qq.com/s/_Q09A5GqE84dXItYZ_0djw" rel="noopener" target="_blank">Rasa入坑指南一：初识Rasa</a><br>
+
+<a href="https://mp.weixin.qq.com/s/uuzk3AyShSjA2vdbAGy02g" rel="noopener" target="_blank">Rasa 入坑指南二：基于 Rasa 构建天气查询机器人</a><br>
+
+<a href="https://mp.weixin.qq.com/s/vjsBpZdbVuO2cNfMDVhKXQ" rel="noopener" target="_blank">做对话机器人的各家企业，都在关注哪些问题</a><br>
+
+<a href="https://mp.weixin.qq.com/s/caAH-8zi0DJ5b-rEQyTR9A" rel="noopener" target="_blank">从互联网爬虫、自动驾驶到对话机器人，什么是Semantic（语义）？</a><br>
+
+<a href="https://mp.weixin.qq.com/s/uoEX0TjJZmyquNch5Wikvg" rel="noopener" target="_blank">谈谈文本匹配和多轮检索</a></p>
 
 [CRSLab：可能是最适合你的对话推荐系统开源库](https://mp.weixin.qq.com/s/n9xP9R7gY7n3d890W0TXvw)
 
 [达摩院基于元学习的对话系统](https://mp.weixin.qq.com/s/NCum-Qi8j6nTcPU-fm-uvA)
 
+<p><strong>文本生成</strong></p>
+
+<a href="https://mp.weixin.qq.com/s/PSZwJaY7j1ADnWU1X5qORw" rel="noopener" target="_blank">电脑也能写出连贯的文章吗?</a></p>
+
+[如何让BERT具有文本生成能力](https://mp.weixin.qq.com/s/iNY_pk9sby4bC-wLFzrh0g)
+
+<p><strong>阅读理解</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/BinBNYVAJ5v7NyuiSECHoA" rel="noopener" target="_blank">阅读理解之（bidaf）双向注意力流网络</a><br>
+
+<a href="https://mp.weixin.qq.com/s/3c1SMqHroyy3yXKW4cvITA" rel="noopener" target="_blank">陈丹琦博士论文翻译：神经阅读理解与超越（Neural Reading Comprehension and Beyond）</a></p>
+
+<p><strong>机器翻译</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/Au3cFnsiSKKgxQx1UZLt1Q" rel="noopener" target="_blank">Philipp Koehn大神的神经网络机器翻译学习资料：NMT Book</a><br>
+
+<a href="https://mp.weixin.qq.com/s/WuHU9_MG-I4T2IlyW2_tkw" rel="noopener" target="_blank">清华大学NLP组整理的机器翻译论文阅读清单</a><br>
+
+<a href="https://mp.weixin.qq.com/s/yILXP7EJFC_ST75mrhi8ng" rel="noopener" target="_blank">机器翻译中的强化学习：优点、缺点以及不足</a></p>
+
 <p><strong>推荐算法/推荐系统</strong></p>
+
+<a href="https://mp.weixin.qq.com/s/B-6uslNc56VpB0fJRoPraw" rel="noopener" target="_blank">当我们谈论“推荐系统”时在谈论什么？</a><br>
+
+<a href="https://mp.weixin.qq.com/s/ys8qmUlUmGZfSYEChezENg" rel="noopener" target="_blank">推荐系统中的矩阵分解技术</a><br>
+
+<a href="https://mp.weixin.qq.com/s/ih6cNMGojbDdhwou-cjmyA" rel="noopener" target="_blank">受限玻尔兹曼机原理及在推荐系统中的应用</a><br>
+
+<a href="https://mp.weixin.qq.com/s/TGDyZTc3mPPQPXRJ75kWfQ" rel="noopener" target="_blank">推荐系统召回四模型之：全能的FM模型</a><br>
+
+<a href="https://mp.weixin.qq.com/s/4LhFTGGWN-f2IIhUJx-e5g" rel="noopener" target="_blank">推荐系统召回四模型之二：沉重的FFM模型</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Wc73Om-pyxBGjIn_PhlRtQ" rel="noopener" target="_blank">推荐系统技术演进趋势：从召回到排序再到重排</a><br>
+
+<a href="https://mp.weixin.qq.com/s/FQoIM1568MTOIgS4HzO_9Q" rel="noopener" target="_blank">【Github】深度学习在推荐系统中的应用及论文小结</a></p>
 
 [推荐精排模型之经典排序模型](https://mp.weixin.qq.com/s/qPKBjON786i_x2N0OqS1Nw)
 
@@ -282,15 +395,20 @@
 
 [搜索中涉及的算法问题](https://mp.weixin.qq.com/s/5EtLDC4ox3Yy5kkj2W4DIg)
 
-<p><strong>知识图谱</strong></p>
-
-[知识表示与融入技术前沿进展及应用](https://mp.weixin.qq.com/s/3V6vzrev4xPYKJmGqXNnAg)
-
-[无需人工！无需训练！构建知识图谱 BERT一下就行了！](https://mp.weixin.qq.com/s/fxXpwcQx7ogay8qcLAUXsw)
-
-[赛尔笔记 | 概念体系自动构建](https://mp.weixin.qq.com/s/ihYxmCSCNhO-i2-4q_I4fQ)
-
 <p><strong>关系抽取</strong></p>
+
+<a href="https://mp.weixin.qq.com/s/4lcnqp60045CIHa_mMXgVw" rel="noopener" target="_blank">关系提取简述</a><br>
+
+<a href="https://mp.weixin.qq.com/s/-OoOIrqjzT_a8KBjYqleAw" rel="noopener" target="_blank">【论文】Awesome Relation Classification Paper（关系分类）（PART I）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Pu1XVXdwlMPHri191X353w" rel="noopener" target="_blank">【论文】Awesome Relation Classification Paper（关系分类）（PART II）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/m7XhqvqIqmRzA6FZLew5pA" rel="noopener" target="_blank">【论文】Awesome Relation Extraction Paper（关系抽取）（PART III</a>）<br>
+
+<a href="https://mp.weixin.qq.com/s/8rcZkwhj8vZrGSda2OKMDQ" rel="noopener" target="_blank">【论文】Awesome Relation Extraction Paper（关系抽取）（PART IV）</a><br>
+j
+<a href="https://mp.weixin.qq.com/s/pLxrevn-77nTcYgcghJHeA" rel="noopener" target="_blank">【论文】Awesome Relation Extraction Paper（关系抽取）（PART V）</a></p>
+:w
 
 [刘知远老师的“灵魂发问”：关系抽取到底在乎什么？](https://mp.weixin.qq.com/s/azD5OKyTxYVVZM8eho4JXA)
 
@@ -302,15 +420,77 @@
 
 [超全必读！NLP 事件抽取综述（下）](https://mp.weixin.qq.com/s/1naWym_yYgdERFogoxPNwQ)
 
+<p><strong>知识图谱</strong></p>
+
+[知识表示与融入技术前沿进展及应用](https://mp.weixin.qq.com/s/3V6vzrev4xPYKJmGqXNnAg)
+
+[无需人工！无需训练！构建知识图谱 BERT一下就行了！](https://mp.weixin.qq.com/s/fxXpwcQx7ogay8qcLAUXsw)
+
+[赛尔笔记 | 概念体系自动构建](https://mp.weixin.qq.com/s/ihYxmCSCNhO-i2-4q_I4fQ)
+
+<a href="https://mp.weixin.qq.com/s/3sJw1IwXfgntwar68EqEQg" rel="noopener" target="_blank">“原子”因果常识图谱</a><br>
+
+<a href="https://mp.weixin.qq.com/s/JUfARWjHQC_M7XctMud7Ig" rel="noopener" target="_blank">知识图谱存储与查询：自然语言记忆模块（NLM）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/SZzJW-tOg-ZJE3jTmYHY7A" rel="noopener" target="_blank">知识图谱从哪里来：实体关系抽取的现状与未来</a></p>
+
 <p><strong>多任务学习</strong></p>
 
 [Multi-Task 多任务学习， 那些你不知道的事](https://mp.weixin.qq.com/s/MOSMR3Ue9i3jYklPRvmWwA)
 
 <p><strong>竞赛之路</strong></p>
 
+<a href="https://mp.weixin.qq.com/s/mIuT9RaJ5q1mQ_9K3U-_UQ" rel="noopener" target="_blank">AI Challenger 2017 奇遇记</a><br>
+
+<a href="https://mp.weixin.qq.com/s/pbMQBf5wOLNlZChLe5MgkA" rel="noopener" target="_blank">AI Challenger 2018 简记</a><br>
+
+<a href="https://mp.weixin.qq.com/s/qzXewYCs6JqSra2wUOHvAQ" rel="noopener" target="_blank">AI Challenger 2018 文本挖掘类竞赛相关代码及解决方案汇总</a><br>
+
+<a href="https://mp.weixin.qq.com/s/zCtl_q8S7dI75P_flQBjOA" rel="noopener" target="_blank">AI Challenger 2018 机器翻译冠军参赛总结</a><br>
+
+<a href="https://mp.weixin.qq.com/s/ceuhsE-bhbZ8HzpWNOzFBg" rel="noopener" target="_blank">AI Challenger_2018英中文本机器翻译_参赛小结</a><br>
+
+<a href="https://mp.weixin.qq.com/s/NHhY2pD4DtyFMbUN3RljJQ" rel="noopener" target="_blank">AI Challenger 2018 冠军 PPT 分享---细粒度情感分析赛道</a><br>
+
+<a href="https://mp.weixin.qq.com/s/NHhY2pD4DtyFMbUN3RljJQ" rel="noopener" target="_blank">AI Challenger 2018 冠军代码分享---细粒度情感分析赛道</a><br>
+
+<a href="https://mp.weixin.qq.com/s/J6jPxIToPJsA7aSb7wzIuQ" rel="noopener" target="_blank">AI Challenger 2018 第4名PPT分享---细粒度情感分析赛道</a><br>
+
+<a href="https://mp.weixin.qq.com/s/zhJ_7upADgQeYidFxryabw" rel="noopener" target="_blank">提供一个10分钟跑通 AI Challenger 细粒度用户评论情感分析的fastText Baseline</a><br>
+
+<a href="https://mp.weixin.qq.com/s/eBwEhB0LIWsP8m4g6NuAug" rel="noopener" target="_blank">法研杯要素识别第二名方案总结：多标签分类实践与效果对比</a><br>
+
+<a href="https://mp.weixin.qq.com/s/OLVz6-02OURoT9MjjWAiWA" rel="noopener" target="_blank">2019法研杯比赛--阅读理解任务第4名团队参赛总结</a><br>
+
+<a href="https://mp.weixin.qq.com/s/bKTJLAR5eAzPzpXttfelIA" rel="noopener" target="_blank">法研杯cail2019阅读理解比赛记录（第5名团队分享）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/p5HkqHs5l56FNPKWQztoKw" rel="noopener" target="_blank">【Github】2019年达观信息提取比赛第九名代码和答辩PPT</a><br>
+
+<a href="https://mp.weixin.qq.com/s/9tbH73KcYKITIEmlBjoPXg" rel="noopener" target="_blank">CCF BDCI2019 金融信息负面及主体判定 冠军方案解析</a><br>
+
+<a href="https://mp.weixin.qq.com/s/R9A0iTlVGL0w783aWc31Rg" rel="noopener" target="_blank">flyai医疗智能问答比赛小结</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Ox2nQDfPUB4lGpwmaGdbsA" rel="noopener" target="_blank">【Github】Data Competition Top Solution: 数据竞赛top解决方案开源整理</a></p>
+
 [2020 Kaggle 10大竞赛方案汇总](https://mp.weixin.qq.com/s/CLZsq01Zw_yEdtvkTyyiGg)
 
 [一人之力，刷爆三路榜单！信息抽取竞赛夺冠经验分享](https://mp.weixin.qq.com/s/nXblUywY3b5HFwej5DNToA)
+
+<p><strong>求职相关</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/kf3zxn8wPxwgvOqRws_qKw" rel="noopener" target="_blank">2021 校招算法岗， 劝退还是继续</a><br>
+
+<a href="https://mp.weixin.qq.com/s/D5egPoXs1gpJ65a6Y119qg" rel="noopener" target="_blank">EE转CS，拿了多个行业offer，最终选择NLP算法岗的同学的秋招总结</a><br>
+
+<a href="https://mp.weixin.qq.com/s/sWRY63_HoSeexL6TL-P9hw" rel="noopener" target="_blank">14种模式解决面试算法编程题（PART I）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/YVma18tC642BuEIbHjWjzQ" rel="noopener" target="_blank">14种模式解决面试算法编程题（PART II）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/UeXI9WuDKFveALqjdv44mQ" rel="noopener" target="_blank">2020秋招总结：凡是过往，皆为序章</a><br>
+
+<a href="https://mp.weixin.qq.com/s/c3Pgaz3wgjDdm15Zyd3_FQ" rel="noopener" target="_blank">【Github】NLPer-Interview: NLP 算法工程师相关的面试题</a><br>
+
+<a href="https://mp.weixin.qq.com/s/k8JsOWT5mnEeLET10DPE1g" rel="noopener" target="_blank">【Github】ML-NLP：机器学习、NLP面试中常考到的知识点和代码实现</a></p>
 
 <p><strong>算法工程师之路</strong></p>
 
@@ -328,16 +508,170 @@
 
 [Mesh-Tensorflow: 广义分布式训练大模型](https://mp.weixin.qq.com/s/gr8443SRnBbGT9jtRi2SoA)
 
-<p><strong>开源工具</strong></p>
+
+<p><strong>论文笔记</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/z6h9b63Dj5P7Wq-gVNwQog" rel="noopener" target="_blank">用腻了 CRF，试试 LAN 吧？</a><br>
+
+<a href="https://mp.weixin.qq.com/s/UI0QjUq7SsZpqV5xeoD0kg" rel="noopener" target="_blank">Meta-Learning：Learning to Learn and Applications</a><br>
+
+<a href="https://mp.weixin.qq.com/s/PwWdk_QXGzuHtuYylieCuw" rel="noopener" target="_blank">可解释性论文阅读笔记1-Tree Regularization</a><br>
+
+<a href="https://mp.weixin.qq.com/s/sTy6tGdVUJrvQTFlN-XYow" rel="noopener" target="_blank">可解释性论文阅读笔记2-Leveraging Language Models</a><br>
+
+<a href="https://mp.weixin.qq.com/s/qeItb20Q-SQlR9wxNuBP8g" rel="noopener" target="_blank">使用Python复现SIGKDD2017的PAMAE算法(并行k-medoids算法)</a><br>
+
+<a href="https://mp.weixin.qq.com/s/hEtQvk_FSNeggJ4DqRUlSQ" rel="noopener" target="_blank">From Word Embeddings To Document Distances 阅读笔记</a><br>
+
+<a href="https://mp.weixin.qq.com/s/soH6jX7_fjq0iBBH-5bMsA" rel="noopener" target="_blank">Node2Vec 论文+代码笔记</a></p>
+
+<p><strong>开源项目及资源</strong><br>
 
 [安利一个开源的好工具Label Studio, 闭环数据标注和模型训练](https://mp.weixin.qq.com/s/kWJZA0acOPi46c2_Gd9aeA)
 
-<p><strong>其他</strong></p>
+<a href="https://mp.weixin.qq.com/s/ockkygJOaSvJTct5_8GtnQ" rel="noopener" target="_blank">中文自然语言处理相关的开放任务，数据集，以及当前最佳结果</a><br>
+
+<a href="https://mp.weixin.qq.com/s/84NYmm84jKbGkIouDdRLTw" rel="noopener" target="_blank">【Github】nlp-paper: 按主题分类的自然语言处理文献大列表</a><br>
+
+<a href="https://mp.weixin.qq.com/s/V_jPDaMWVLREhE6prttf0g" rel="noopener" target="_blank">CLUEDatasetSearch：搜索所有中文数据集，附常用英文数据集</a><br>
+
+<a href="https://mp.weixin.qq.com/s/KAX5tjE-VvqNC2DaK2ruvw" rel="noopener" target="_blank">用于中文闲聊的GPT2模型：GPT2-chitchat</a><br>
+
+<a href="https://mp.weixin.qq.com/s/QKC46npREiCgJr6HKKLqpw" rel="noopener" target="_blank">中文歌词生成，缺不缺语料？这里有一个开源项目值得推荐</a><br>
+
+<a href="https://mp.weixin.qq.com/s/iJPh_iU5leFc-R1mteD8BQ" rel="noopener" target="_blank">深度学习资源大列表：关于深度学习你需要了解的一切</a><br>
+
+<a href="https://mp.weixin.qq.com/s/DXkKiEYiSh9Im7gzyUqExA" rel="noopener" target="_blank">funNLP: 从文本中抽取结构化信息的超级资源包</a><br>
+
+<a href="https://mp.weixin.qq.com/s/LEoyzZLn21DdXnrAVSFWpw" rel="noopener" target="_blank">NLP 2018 Highlights：2018自然语言处理技术亮点汇总</a><br>
+
+<a href="https://mp.weixin.qq.com/s/a6rF_6c2WdeZu-np5cV6jA" rel="noopener" target="_blank">NLP Chinese Corpus项目：大规模中文自然语言处理语料</a><br>
+
+<a href="https://mp.weixin.qq.com/s/UlVTbUdVHs-tKHNjvg97QQ" rel="noopener" target="_blank">Awesome-Chinese-NLP：中文自然语言处理相关资料</a><br>
+
+<a href="https://mp.weixin.qq.com/s/cs0hus7zFbLJAPSNOauhcA" rel="noopener" target="_blank">Jiagu：中文深度学习自然语言处理工具</a><br>
+
+<a href="https://mp.weixin.qq.com/s/M8J0-8EGfxqjwrap1pPuYw" rel="noopener" target="_blank">上百种预训练中文词向量：Chinese-Word-Vectors</a><br>
+
+<a href="https://mp.weixin.qq.com/s/J3GiHsKPO2s8zyinXDpn6g" rel="noopener" target="_blank">lazynlp：构建大规模语料库的"懒人"工具箱</a><br>
+
+<a href="https://mp.weixin.qq.com/s/QbjpqTaYQDVW0UkGnOoiHg" rel="noopener" target="_blank">关于聊天机器人，这里有一份中文聊天语料库资源</a><br>
+
+<a href="https://mp.weixin.qq.com/s/CUOntFVy6_hnmYHaFVCW_A" rel="noopener" target="_blank">复旦NLP实验室NLP上手教程</a><br>
+
+<a href="https://mp.weixin.qq.com/s/l8hpOQ4l3VMkQD9eSnzM1Q" rel="noopener" target="_blank">AI算法工程师手册</a><br>
+
+<a href="https://mp.weixin.qq.com/s/KKZRm3_LKVu1SZSqkFwFJQ" rel="noopener" target="_blank">NLP学习新资料：旧金山大学2019夏季自然语言处理课程</a><br>
+
+<a href="https://mp.weixin.qq.com/s/lNV7hVqM2KoNqYGJkigDTg" rel="noopener" target="_blank">中文自然语言处理数据集：ChineseNLPCorpus</a><br>
+
+<a href="https://mp.weixin.qq.com/s/ha3lUK5EK7UK8ppxN3hY6A" rel="noopener" target="_blank">【Github】nlp-journey: NLP相关代码、书目、论文、博文、算法、项目资源链接</a><br>
+
+<a href="https://mp.weixin.qq.com/s/TTVkoT-0uFmR81cSoXausA" rel="noopener" target="_blank">NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具</a><br>
+
+<a href="https://mp.weixin.qq.com/s/WItaykFX1k-hej77g_nN7w" rel="noopener" target="_blank">【Github】Chinese-poetry: 最全中华古诗词数据库</a><br>
+
+<a href="https://mp.weixin.qq.com/s/B25tigbXBK1vsxNak5RRnw" rel="noopener" target="_blank">【Github】ML-NOTE：注重数学推导的机器学习算法整理</a><br>
+
+<a href="https://mp.weixin.qq.com/s/zoq-2QSP0KncJ9G_gJCT9w" rel="noopener" target="_blank">【Github】All4NLP：自然语言处理相关资源整理</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Gp8ldfXRJZbOnoLGICipTQ" rel="noopener" target="_blank">【Github】GPT2-Chinese：中文的GPT2训练代码</a><br>
+
+<a href="https://mp.weixin.qq.com/s/fzxYCh6-FkMhIvOG8c0-4w" rel="noopener" target="_blank">【Github】nlp-tutorial：TensorFlow 和 PyTorch 实现各种NLP模型</a><br>
+
+<a href="https://mp.weixin.qq.com/s/ys6sIM4FHrwDm_qLvH6hgQ" rel="noopener" target="_blank">【Github】nlp-roadmap：自然语言处理路相关路线图（思维导图）和关键词（知识点）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/bUoVKa-L-h_jSByvjJVF8w" rel="noopener" target="_blank">【Github】TextCluster：短文本聚类预处理模块 Short text cluster</a><br>
+
+<a href="https://mp.weixin.qq.com/s/eAIFA3OBU4FJMkgCfBanZA" rel="noopener" target="_blank">基于Netty的联机版坦克大战</a><br>
+
+<a href="https://mp.weixin.qq.com/s/8ORG1CEbD8cDNAE92Eta6g" rel="noopener" target="_blank">【数据集】OCR_DataSet：有关OCR的数据集并统一标注格式</a></p>
+
+<p><strong>公开课、开源书籍或者学习笔记等</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/pezyz0iKPS_yZDWHWIurew" rel="noopener" target="_blank">认真推荐一份深度学习笔记：简约而不简单</a><br>
+
+<a href="https://mp.weixin.qq.com/s/qO7Fu4jPjAzdSEJ2YolquQ" rel="noopener" target="_blank">自然语言处理经典《Speech and Language Processing》第三版最新版下载（含第二版）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/0Itft64-QbLd5dF7Qh5F4w" rel="noopener" target="_blank">强化学习圣经：《强化学习导论》第二版（附PDF下载）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/KBKPicxtmL0MOCbdY2dUiw" target="_blank" rel="noopener">2019斯坦福CS224n深度学习自然语言处理课程视频和相关资料分享</a><br>
+
+<a href="https://mp.weixin.qq.com/s/If2RnsNzB8sbTiHnKp3sDQ" target="_blank" rel="noopener">CS224N 2019最全20视频分享：斯坦福大学深度学习自然语言处理课程资源索引</a><br>
+
+<a href="https://mp.weixin.qq.com/s/DUYZ-rsfHwGsnuUE5DIcRw" rel="noopener" target="_blank">CMU-2020最新《神经网络自然语言处理》课程视频+课件+代码分享（附下载）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/vACF815joC4lqBEjSazxIA" rel="noopener" target="_blank">宅家追课正当时，李宏毅老师2020新课深度学习与人类语言处理正式开放上线</a><br>
+
+<a href="https://mp.weixin.qq.com/s/pjz52wsIm4jdeCD5ZHJLKA" rel="noopener" target="_blank">86岁MIT教授Gilbert Strang的线性代数小课：2020新视野下的线性代数</a><br>
+
+<a href="https://mp.weixin.qq.com/s/feSrtkAbJK6USySz4nTbTw" rel="noopener" target="_blank">Springer面向公众开放电子书籍，附65本数学、编程、机器学习、深度学习、数据挖掘、数据科学等书籍链接及打包下载</a><br>
+
+<a href="https://mp.weixin.qq.com/s/r_3D5MniUboANAx2teXLHg" rel="noopener" target="_blank">新书下载 | 面向机器学习的数学（Mathematics for Machine Learning）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/HPqevUpSOp3mopN83EviFg" rel="noopener" target="_blank">【新书】从Word2Vec到BERT的自然语言处理嵌入进展，附下载</a><br>
+
+<a href="https://mp.weixin.qq.com/s/UzdicLaDSpjalcl52Dw6HA" rel="noopener" target="_blank">机器学习数学全书，1900 页 PDF 下载</a><br>
+
+<a href="https://mp.weixin.qq.com/s/v7s62QM4qAhJkbw2OA_l5A" rel="noopener" target="_blank">李航老师《统计学习方法（第二版）》清华大学课件完整版下载！</a><br>
+
+<a href="https://mp.weixin.qq.com/s/LOKX9T2DQjpu7n2eX-fQEw" rel="noopener" target="_blank">400页《TensorFlow 2.0 深度学习算法实战》中文版教材免费下载（附随书代码+pdf）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/wPHAREyxhuTqEKY49yNiyQ" rel="noopener" target="_blank">图文并茂！746页机器学习笔记等你领取（附下载）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/oBEzvR30fFvsF6Nmb5DJYQ" rel="noopener" target="_blank">2020最新版《神经网络与深度学习》中文版更新完毕，pdf开放下载</a></p>
+
+<a href="https://mp.weixin.qq.com/s/Xxa70pNJNSSjaCxSbWknVA" rel="noopener" target="_blank">中国科学技术大学计算机学院课程资源：USTC-CS-Courses-Resource</a><br>
+
+<a href="https://mp.weixin.qq.com/s/AmWuB7ZEs85QS8fL5T8rYA" rel="noopener" target="_blank">那些值得推荐和收藏的线性代数学习资源</a></p>
+
+<p><strong>其他相关文章</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/2pv59oAqzvMc6JoW-8Y5CQ" rel="noopener" target="_blank">神经网络佛系炼丹手册</a><br>
+
+<a href="https://mp.weixin.qq.com/s/CZ9sOAqE-D1cq40ZzBETnw" rel="noopener" target="_blank">通过Docker部署深度学习项目环境</a><br>
+
+<a href="https://mp.weixin.qq.com/s/MzoUhOMK4QhSmgJztECyEw" rel="noopener" target="_blank">GPU 显存不足怎么办？</a><br>
+
+<a href="https://mp.weixin.qq.com/s/j6-x9ANF9b3Q1I_os_LJSw">大幅减少GPU显存占用：可逆残差网络(The Reversible Residual Network)</a><br>
+
+<a href="https://mp.weixin.qq.com/s/oY5vv_1zBj_eW9f8Ma-hxA" rel="noopener" target="_blank">AINLP-DBC GPU 使用体验指南</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Vhyh6ESKGuS4-LPJO-qtpw" rel="noopener" target="_blank">用 SQL 而不是 Python 处理文本数据</a><br>
+
+<a href="https://mp.weixin.qq.com/s/GOGI6exhfitgXKzokgAcvw" rel="noopener" target="_blank">200行写一个自动微分工具</a><br>
+
+<a href="https://mp.weixin.qq.com/s/xLoLCHY6WtjFUF5oT_9dtQ" rel="noopener" target="_blank">定个小目标，发它一个亿条微博语料</a><br>
+
+<a href="https://mp.weixin.qq.com/s/xuu5pXXylSSMv8Ht5dAd8g" rel="noopener" target="_blank">推荐两份NLP读书笔记和一份NLTK书籍代码中文注释版</a><br>
+
+<a href="https://mp.weixin.qq.com/s/KOwIVjli9zjODyqUAUwR6g" rel="noopener" target="_blank">微软深度学习入门教程更新</a><br>
+
+<a href="https://mp.weixin.qq.com/s/gi0RppHB4UFo4Vh2Neonfw" rel="noopener" target="_blank">Gilbert Strang教授的MIT公开课：数据分析、信号处理和机器学习中的矩阵方法</a><br>
+
+<a href="https://mp.weixin.qq.com/s/DYIFkHz44U4yV4F6m0nFkw" rel="noopener" target="_blank">Python 网页爬虫 &amp; 文本处理 &amp; 科学计算 &amp; 机器学习 &amp; 数据挖掘兵器谱</a><br>
+
+<a href="https://mp.weixin.qq.com/s/UrsEbFNLQa9KdoSRxOCPlA" rel="noopener" target="_blank">如何计算两个文档的相似度一</a><br>
+
+<a href="https://mp.weixin.qq.com/s/5ei7kMY_twRCVA96w4XV7g" rel="noopener" target="_blank">如何计算两个文档的相似度二</a><br>
+
+<a href="https://mp.weixin.qq.com/s/ZnGT3HzJ0BHc9td8GFbgqw" rel="noopener" target="_blank">如何计算两个文档的相似度三</a><br>
+
+<a href="https://mp.weixin.qq.com/s/z8aQcuLxNHXcM6qmPYqjMg" rel="noopener" target="_blank">Hands-on Machine Learning with Scikit-Learn and TensorFlow 学习笔记</a><br>
+
+<a href="https://mp.weixin.qq.com/s/TQzRaB-bPgQ5DeKppiis5Q" rel="noopener" target="_blank">感知智能到认知智能中对知识的思考</a><br>
+
+<a href="https://mp.weixin.qq.com/s/8tShNF4snfIHgso1i0IGaA" rel="noopener" target="_blank">polyglot：Pipeline 多语言NLP工具</a><br>
+
+<a href="https://mp.weixin.qq.com/s/2AHnBb55TnEq2A73adY-0w" rel="noopener" target="_blank">A/B测试的数学原理与深入理解</a><br>
+
+<a href="https://mp.weixin.qq.com/s/uLwIJWrvAJssFMAxWfr0BA" rel="noopener" target="_blank">详解TensorFlow™ GPU 安装</a><br>
+
+<a href="https://mp.weixin.qq.com/s/EM1d9Jn4RcghSZe-qptdqA" rel="noopener" target="_blank">fastText原理及实践</a><br>
 
 [概率图模型系列（一）：概率图模型简介](https://mp.weixin.qq.com/s/mkM0N9eqRIT1Sx9cbBK9dg)
 
 [【科普】 AI是什么？AI可以做什么？AI会取代人的工作吗？](https://mp.weixin.qq.com/s/SfWiGypHV3X4V7NE_A7KtQ)
-
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id：AINLP2)，备注工作/研究方向+加群目的。</p>
