@@ -44,6 +44,8 @@
 
 <a href="https://mp.weixin.qq.com/s/lfXOu32_0IbNz0lzx3eIog" target="_blank" rel="noopener">NLP is hard! 自然语言处理太难了系列</a></p>
 
+[2021年NLP入门书籍推荐｜理论&实战](https://mp.weixin.qq.com/s/zHTvH6JMSeDa-6k82tsaJg)
+
 <p><strong>NLP相关工具及在线测试（公众号对话测试）</strong><br>
 
 <a href="https://mp.weixin.qq.com/s/Sy2hukGVk-7QQY_YNQ10kw" target="_blank" rel="noopener">五款中文分词工具在线PK: Jieba, SnowNLP, PkuSeg, THULAC, HanLP</a><br>
