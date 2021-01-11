@@ -242,6 +242,12 @@
 
 [GPT-3的最强落地方式？陈丹琦提出小样本微调方法，比普通微调提升11%](https://mp.weixin.qq.com/s/nFuN2kwf-1JbgZflVrkf6w)
 
+[小米在预训练模型的探索与优化](https://mp.weixin.qq.com/s/ldX0UtsxrL8heOa4impjfg)
+
+[拿到参考资料的预训练模型，太可怕了！](https://mp.weixin.qq.com/s/rfEYUCCVaZs7CQETZ7tg6A)
+
+[如何又好又快的做文本匹配](https://mp.weixin.qq.com/s/8m5SI6kBHJEjV9N1PlfcRg)
+
 <p><strong>中文分词</strong><br>
 
 <a href="https://mp.weixin.qq.com/s/uATfclTlXqAnkp4ep8ZRMQ" target="_blank" rel="noopener">中文分词文章索引和分词数据资源分享</a><br>
@@ -387,6 +393,10 @@ j
 
 [AAAI2021推荐系统论文清单](https://mp.weixin.qq.com/s/Z68OpRSAmMHHdxkMDD1v5g)
 
+[从零开始写一个自己的推荐算法库](https://mp.weixin.qq.com/s/9LQy7YI04vt4KYShtk0ILw)
+
+[推荐系统之Exploitation & Exploration](https://mp.weixin.qq.com/s/1lLdNlj9EgarmQFgRpXS3g)
+
 <p><strong>计算广告/广告系统</strong></p>
 
 [特征交互新路线|阿里 Co-action Network论文解读](https://mp.weixin.qq.com/s/KEnkwa3ZwnIKi8ZxsPOCaQ)
@@ -477,6 +487,8 @@ j
 [2020 Kaggle 10大竞赛方案汇总](https://mp.weixin.qq.com/s/CLZsq01Zw_yEdtvkTyyiGg)
 
 [一人之力，刷爆三路榜单！信息抽取竞赛夺冠经验分享](https://mp.weixin.qq.com/s/nXblUywY3b5HFwej5DNToA)
+
+[数据科学竞赛：你从未见过的究极进化秘笈](https://mp.weixin.qq.com/s/SGCswkqjkf55BeisbAmGGQ)
 
 <p><strong>求职相关</strong><br>
 
