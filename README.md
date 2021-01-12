@@ -341,11 +341,15 @@ j
 
 [达摩院基于元学习的对话系统](https://mp.weixin.qq.com/s/NCum-Qi8j6nTcPU-fm-uvA)
 
+[百分点智能对话技术探索实践](https://mp.weixin.qq.com/s/i4wGBMe1KoB-khVTIjgHEg)
+
 <p><strong>文本生成</strong></p>
 
 <a href="https://mp.weixin.qq.com/s/PSZwJaY7j1ADnWU1X5qORw" rel="noopener" target="_blank">电脑也能写出连贯的文章吗?</a></p>
 
 [如何让BERT具有文本生成能力](https://mp.weixin.qq.com/s/iNY_pk9sby4bC-wLFzrh0g)
+
+[聊聊这两天刷屏的OpenAI新作，你注意到CLIP了吗](https://mp.weixin.qq.com/s/P-aOAGn1iSpNMhfKsAOQTQ)
 
 <p><strong>阅读理解</strong><br>
 
@@ -403,9 +407,11 @@ j
 
 [计算广告OCPC实践(四) 如何从0开始建立ocpc业务](https://mp.weixin.qq.com/s/InOm3R4Rf5KtPYDiCj2kbw)
 
-<p><strong>搜索引擎</strong></p>
+<p><strong>搜索引擎/搜索系统</strong></p>
 
 [搜索中涉及的算法问题](https://mp.weixin.qq.com/s/5EtLDC4ox3Yy5kkj2W4DIg)
+
+[搜索系统中的召回](https://mp.weixin.qq.com/s/HpamEwjQHDjdAE9PEGFuqw)
 
 <p><strong>关系抽取</strong></p>
 
@@ -538,6 +544,8 @@ j
 <a href="https://mp.weixin.qq.com/s/hEtQvk_FSNeggJ4DqRUlSQ" rel="noopener" target="_blank">From Word Embeddings To Document Distances 阅读笔记</a><br>
 
 <a href="https://mp.weixin.qq.com/s/soH6jX7_fjq0iBBH-5bMsA" rel="noopener" target="_blank">Node2Vec 论文+代码笔记</a></p>
+
+[树模型奠基性论文解读| GBM: Gradient Boosting Machine](https://mp.weixin.qq.com/s/jeuWxi908cJfooSoniu1Ew)
 
 <p><strong>开源项目及资源</strong><br>
 
