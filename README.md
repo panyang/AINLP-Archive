@@ -433,7 +433,6 @@ j
 <a href="https://mp.weixin.qq.com/s/8rcZkwhj8vZrGSda2OKMDQ" rel="noopener" target="_blank">【论文】Awesome Relation Extraction Paper（关系抽取）（PART IV）</a><br>
 j
 <a href="https://mp.weixin.qq.com/s/pLxrevn-77nTcYgcghJHeA" rel="noopener" target="_blank">【论文】Awesome Relation Extraction Paper（关系抽取）（PART V）</a></p>
-:w
 
 [刘知远老师的“灵魂发问”：关系抽取到底在乎什么？](https://mp.weixin.qq.com/s/azD5OKyTxYVVZM8eho4JXA)
 
