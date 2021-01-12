@@ -126,6 +126,8 @@
 
 [从零开始实现卷积神经网络CNN](https://mp.weixin.qq.com/s/Td5cK5gKzlx6N8mAtnTa8Q)
 
+[从零开始实现循环神经网络（无框架）](https://mp.weixin.qq.com/s/QPtbRcOf9P_nnCpr9DKyoA)
+
 <p><strong>BERT及预训练模型</strong></p>
 
 <a href="https://mp.weixin.qq.com/s/T3XjEir63GlasbXDPK2YUQ" rel="noopener" target="_blank">放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较</a><br>
@@ -289,6 +291,8 @@ j
 
 <a href="https://mp.weixin.qq.com/s/ypY81UjIsFSgoIHrH5S9Pw" rel="noopener" target="_blank">NLP - 15 分钟搭建中文文本分类模型</a></p>
 
+[LCM：缓解标签不独立+噪声标签问题](https://mp.weixin.qq.com/s/HJvy2Q9DNHLf1fKUJvhf2w)
+
 <p><strong>文本摘要</strong><br>
 
 <a href="https://mp.weixin.qq.com/s/tCRYxCWyduhY9GDiTDzmgA" rel="noopener" target="_blank">抛开模型，探究文本自动摘要的本质——ACL2019 论文佳作研读系列</a><br>
@@ -350,6 +354,9 @@ j
 [如何让BERT具有文本生成能力](https://mp.weixin.qq.com/s/iNY_pk9sby4bC-wLFzrh0g)
 
 [聊聊这两天刷屏的OpenAI新作，你注意到CLIP了吗](https://mp.weixin.qq.com/s/P-aOAGn1iSpNMhfKsAOQTQ)
+
+["妙笔"生花：一个易用、高效的文本生成开源库](https://mp.weixin.qq.com/s/KRC8bwoci55o3a0Lr7rkAg
+)
 
 <p><strong>阅读理解</strong><br>
 
@@ -546,6 +553,8 @@ j
 <a href="https://mp.weixin.qq.com/s/soH6jX7_fjq0iBBH-5bMsA" rel="noopener" target="_blank">Node2Vec 论文+代码笔记</a></p>
 
 [树模型奠基性论文解读| GBM: Gradient Boosting Machine](https://mp.weixin.qq.com/s/jeuWxi908cJfooSoniu1Ew)
+
+[AdaBelief：一个有“信仰”的优化器](https://mp.weixin.qq.com/s/9ZrFtB2JMkHZWNrXojCPKA)
 
 <p><strong>开源项目及资源</strong><br>
 
