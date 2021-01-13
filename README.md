@@ -8,6 +8,8 @@
 
 <p><strong>如何学习NLP和NLP相关资源</strong><br>
 
+[自然语言处理圣经SLP3终于又更新了](https://mp.weixin.qq.com/s/7aZ4tODP5j6yzEJDawgBOg)
+
 <a href="https://mp.weixin.qq.com/s/tV26DJeFWfEe0DL3B7Z-cQ" target="_blank" rel="noopener">如何学习自然语言处理：一本书和一门课</a><br>
 
 <a href="https://mp.weixin.qq.com/s/tyLRR2xKbFYEQ9WYM5ZKcg" target="_blank" rel="noopener">如何学习自然语言处理：NLP领域经典《自然语言处理综论》英文版第三版更新</a><br>
