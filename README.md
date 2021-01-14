@@ -313,6 +313,14 @@ j
 
 <a href="https://mp.weixin.qq.com/s/owe_3Mm2J0IzzCS-nxcxQA" rel="noopener" target="_blank">真正理解指针生成网络——Summarization with Pointer-Generator Networks</a></p>
 
+<p><strong>主题挖掘</strong><br>
+
+[医疗领域热门话题挖掘](https://mp.weixin.qq.com/s/L4BoQveB3uM6wC9bwj9wfg)
+
+<p><strong>文本匹配</strong><br>
+
+[阿里RE2：如何将残差与文本匹配模型融合](https://mp.weixin.qq.com/s/Yh9Cz5TxnZmN8nOOkI6N0A)
+
 <p><strong>对话系统/对话系统/聊天机器人</strong><br>
 
 <a href="https://mp.weixin.qq.com/s/qUxPgsgP-4XFmVMMzLH5Ow" rel="noopener" target="_blank">生成式对话seq2seq：从rnn到transformer</a><br>
@@ -348,6 +356,8 @@ j
 [达摩院基于元学习的对话系统](https://mp.weixin.qq.com/s/NCum-Qi8j6nTcPU-fm-uvA)
 
 [百分点智能对话技术探索实践](https://mp.weixin.qq.com/s/i4wGBMe1KoB-khVTIjgHEg)
+
+[支持多值带权重、稀疏、共享embedding权重的DSSM召回实现（tensorflow2）](https://mp.weixin.qq.com/s/Omdwr7bnFym09a5oNpd9uQ)
 
 <p><strong>文本生成</strong></p>
 
@@ -527,6 +537,8 @@ j
 [NLP算法工程师的日常以及核心竞争力](https://mp.weixin.qq.com/s/v7YZ_Y2a_u2HfJx0sGqFOw)
 
 [算法在岗一年的经验总结](https://mp.weixin.qq.com/s/5q-Du1kbpb-ZYqnktsUMaQ)
+
+[20->21：算法工程师的成长思考](https://mp.weixin.qq.com/s/SDyTWKMafmu-YtxXfJ0OLA)
 
 <p><strong>实战经验分享</strong></p>
 
