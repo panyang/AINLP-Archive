@@ -357,7 +357,7 @@ j
 
 [百分点智能对话技术探索实践](https://mp.weixin.qq.com/s/i4wGBMe1KoB-khVTIjgHEg)
 
-[支持多值带权重、稀疏、共享embedding权重的DSSM召回实现（tensorflow2）](https://mp.weixin.qq.com/s/Omdwr7bnFym09a5oNpd9uQ)
+[赛尔原创@AAAI 2021 | 数据增强没效果？试试用Cluster-to-Cluster生成更多样化的新数据吧](https://mp.weixin.qq.com/s/p9Rmmdnhdrl_FWtzXvjg2Q)
 
 <p><strong>文本生成</strong></p>
 
@@ -385,6 +385,8 @@ j
 <a href="https://mp.weixin.qq.com/s/yILXP7EJFC_ST75mrhi8ng" rel="noopener" target="_blank">机器翻译中的强化学习：优点、缺点以及不足</a></p>
 
 <p><strong>推荐算法/推荐系统</strong></p>
+
+[FM：推荐算法中的瑞士军刀](https://mp.weixin.qq.com/s/mdxZm5YDcWlmbKmQDEjPgg)
 
 <a href="https://mp.weixin.qq.com/s/B-6uslNc56VpB0fJRoPraw" rel="noopener" target="_blank">当我们谈论“推荐系统”时在谈论什么？</a><br>
 
@@ -419,6 +421,8 @@ j
 [从零开始写一个自己的推荐算法库](https://mp.weixin.qq.com/s/9LQy7YI04vt4KYShtk0ILw)
 
 [推荐系统之Exploitation & Exploration](https://mp.weixin.qq.com/s/1lLdNlj9EgarmQFgRpXS3g)
+
+[支持多值带权重、稀疏、共享embedding权重的DSSM召回实现（tensorflow2）](https://mp.weixin.qq.com/s/Omdwr7bnFym09a5oNpd9uQ)
 
 <p><strong>计算广告/广告系统</strong></p>
 
@@ -463,6 +467,8 @@ j
 [无需人工！无需训练！构建知识图谱 BERT一下就行了！](https://mp.weixin.qq.com/s/fxXpwcQx7ogay8qcLAUXsw)
 
 [赛尔笔记 | 概念体系自动构建](https://mp.weixin.qq.com/s/ihYxmCSCNhO-i2-4q_I4fQ)
+
+[知识图谱补全技术](https://mp.weixin.qq.com/s/sTofodm-hBRBxn2D5e_wLA)
 
 <a href="https://mp.weixin.qq.com/s/3sJw1IwXfgntwar68EqEQg" rel="noopener" target="_blank">“原子”因果常识图谱</a><br>
 
@@ -515,6 +521,8 @@ j
 [数据科学竞赛：你从未见过的究极进化秘笈](https://mp.weixin.qq.com/s/SGCswkqjkf55BeisbAmGGQ)
 
 <p><strong>求职相关</strong><br>
+
+[入职半年小结 | 给应届校招算法同学的几点建议](https://mp.weixin.qq.com/s/0c8yCXJ7iciJSl_BF7NoIw)
 
 <a href="https://mp.weixin.qq.com/s/kf3zxn8wPxwgvOqRws_qKw" rel="noopener" target="_blank">2021 校招算法岗， 劝退还是继续</a><br>
 
