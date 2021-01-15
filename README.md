@@ -388,6 +388,8 @@ j
 
 [FM：推荐算法中的瑞士军刀](https://mp.weixin.qq.com/s/mdxZm5YDcWlmbKmQDEjPgg)
 
+[一文梳理工业界大规模推荐系统Serving架构分析](https://mp.weixin.qq.com/s/Idr1GHGUiyk3QBUHVyv3Ng)
+
 <a href="https://mp.weixin.qq.com/s/B-6uslNc56VpB0fJRoPraw" rel="noopener" target="_blank">当我们谈论“推荐系统”时在谈论什么？</a><br>
 
 <a href="https://mp.weixin.qq.com/s/ys8qmUlUmGZfSYEChezENg" rel="noopener" target="_blank">推荐系统中的矩阵分解技术</a><br>
