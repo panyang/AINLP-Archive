@@ -170,6 +170,12 @@
 
 <a href="https://mp.weixin.qq.com/s/aPkPlEPMFS0NrmD5r7Kfkg" rel="noopener" target="_blank">就最近看的paper谈谈预训练语言模型发展</a><br>
 
+[超赞，以QA形式对NLP预训练模型进行的全面总结！](https://mp.weixin.qq.com/s/bvcU5WI8CcTfLIlxwu3xhQ)
+
+[NLP前沿预训练语言模型大赏](https://mp.weixin.qq.com/s/x-bIRWOLwoAWGJhQK3g7Yg)
+
+[bert之我见-attention篇](https://mp.weixin.qq.com/s/4-t5N5F0YyF5klfwG2hgAw)
+
 <a href="https://mp.weixin.qq.com/s/3b_2VbehBOYsnKCBSEio4w" rel="noopener" target="_blank">Bert 改进： 如何融入知识</a><br>
 
 <a href="https://mp.weixin.qq.com/s/lYNKXHorx886F2lHPAJHvg" rel="noopener" target="_blank">ALBERT 告诉了我们什么？</a></p>
@@ -361,6 +367,8 @@ j
 
 <p><strong>文本生成</strong></p>
 
+[超详细中文注释的GPT2新闻标题生成项目](https://mp.weixin.qq.com/s/KzSxN3QWSG-ha62s4K8Qwg)
+
 <a href="https://mp.weixin.qq.com/s/PSZwJaY7j1ADnWU1X5qORw" rel="noopener" target="_blank">电脑也能写出连贯的文章吗?</a></p>
 
 [如何让BERT具有文本生成能力](https://mp.weixin.qq.com/s/iNY_pk9sby4bC-wLFzrh0g)
@@ -389,6 +397,8 @@ j
 [FM：推荐算法中的瑞士军刀](https://mp.weixin.qq.com/s/mdxZm5YDcWlmbKmQDEjPgg)
 
 [一文梳理工业界大规模推荐系统Serving架构分析](https://mp.weixin.qq.com/s/Idr1GHGUiyk3QBUHVyv3Ng)
+
+[推荐系统之线上Serving](https://mp.weixin.qq.com/s/LjjY2qC2daoMTX73J-Y5EA)
 
 <a href="https://mp.weixin.qq.com/s/B-6uslNc56VpB0fJRoPraw" rel="noopener" target="_blank">当我们谈论“推荐系统”时在谈论什么？</a><br>
 
@@ -462,6 +472,8 @@ j
 
 [超全必读！NLP 事件抽取综述（下）](https://mp.weixin.qq.com/s/1naWym_yYgdERFogoxPNwQ)
 
+[科大讯飞大赛 事件抽取挑战赛冠军分享](https://mp.weixin.qq.com/s/MbeTRfnvbYy4QOJCwoDAjw)
+
 <p><strong>知识图谱</strong></p>
 
 [知识表示与融入技术前沿进展及应用](https://mp.weixin.qq.com/s/3V6vzrev4xPYKJmGqXNnAg)
@@ -477,6 +489,11 @@ j
 <a href="https://mp.weixin.qq.com/s/JUfARWjHQC_M7XctMud7Ig" rel="noopener" target="_blank">知识图谱存储与查询：自然语言记忆模块（NLM）</a><br>
 
 <a href="https://mp.weixin.qq.com/s/SZzJW-tOg-ZJE3jTmYHY7A" rel="noopener" target="_blank">知识图谱从哪里来：实体关系抽取的现状与未来</a></p>
+
+
+<p><strong>图神经网络</strong></p>
+
+[KDD20 | 基于差分变量去相关的稳定学习](https://mp.weixin.qq.com/s/3RMEzXK0Lz6Fk20JKn4tfg)
 
 <p><strong>多任务学习</strong></p>
 
