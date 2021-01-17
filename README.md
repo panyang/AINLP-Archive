@@ -319,6 +319,8 @@ j
 
 <a href="https://mp.weixin.qq.com/s/owe_3Mm2J0IzzCS-nxcxQA" rel="noopener" target="_blank">真正理解指针生成网络——Summarization with Pointer-Generator Networks</a></p>
 
+[中文摘要数据集汇总](https://mp.weixin.qq.com/s/Odjby70Rn9P4m9Z0TtqHRA)
+
 <p><strong>主题挖掘</strong><br>
 
 [医疗领域热门话题挖掘](https://mp.weixin.qq.com/s/L4BoQveB3uM6wC9bwj9wfg)
@@ -327,7 +329,7 @@ j
 
 [阿里RE2：如何将残差与文本匹配模型融合](https://mp.weixin.qq.com/s/Yh9Cz5TxnZmN8nOOkI6N0A)
 
-<p><strong>对话系统/对话系统/聊天机器人</strong><br>
+<p><strong>问答系统/对话系统/聊天机器人</strong><br>
 
 <a href="https://mp.weixin.qq.com/s/qUxPgsgP-4XFmVMMzLH5Ow" rel="noopener" target="_blank">生成式对话seq2seq：从rnn到transformer</a><br>
 
@@ -364,6 +366,8 @@ j
 [百分点智能对话技术探索实践](https://mp.weixin.qq.com/s/i4wGBMe1KoB-khVTIjgHEg)
 
 [赛尔原创@AAAI 2021 | 数据增强没效果？试试用Cluster-to-Cluster生成更多样化的新数据吧](https://mp.weixin.qq.com/s/p9Rmmdnhdrl_FWtzXvjg2Q)
+
+[美团智能问答技术探索与实践](https://mp.weixin.qq.com/s/O7j0rb2FuzsyzAmrzAjiQg)
 
 <p><strong>文本生成</strong></p>
 
@@ -436,6 +440,8 @@ j
 
 [支持多值带权重、稀疏、共享embedding权重的DSSM召回实现（tensorflow2）](https://mp.weixin.qq.com/s/Omdwr7bnFym09a5oNpd9uQ)
 
+[YouTube基于多任务学习的视频排序推荐系统](https://mp.weixin.qq.com/s/b5hRvFn-oJ5U91UQhlGN-w)
+
 <p><strong>计算广告/广告系统</strong></p>
 
 [特征交互新路线|阿里 Co-action Network论文解读](https://mp.weixin.qq.com/s/KEnkwa3ZwnIKi8ZxsPOCaQ)
@@ -492,6 +498,8 @@ j
 
 
 <p><strong>图神经网络</strong></p>
+
+[GNN教程：图神经网络“开山之作”！](https://mp.weixin.qq.com/s/ZdH2_N3JyUQ76TPK3fRzhg)
 
 [KDD20 | 基于差分变量去相关的稳定学习](https://mp.weixin.qq.com/s/3RMEzXK0Lz6Fk20JKn4tfg)
 
@@ -743,6 +751,8 @@ j
 [概率图模型系列（一）：概率图模型简介](https://mp.weixin.qq.com/s/mkM0N9eqRIT1Sx9cbBK9dg)
 
 [【科普】 AI是什么？AI可以做什么？AI会取代人的工作吗？](https://mp.weixin.qq.com/s/SfWiGypHV3X4V7NE_A7KtQ)
+
+[将神拉到人间(Linus 自传读后感)](https://mp.weixin.qq.com/s/506sbn_cHgHQI9LRxFiUsg)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
