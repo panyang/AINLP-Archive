@@ -275,7 +275,6 @@
 <a href="https://mp.weixin.qq.com/s/-rjUpOZFFQg-E6GkQ_lclw" rel="noopener" target="_blank">一文详解深度学习在命名实体识别(NER)中的应用</a><br>
 
 <a href="https://mp.weixin.qq.com/s/3KWBZsNvvhjsxTIM8Yk3Gw" rel="noopener" target="_blank">中文NER任务实验小结报告——深入模型实现细节</a><br>
-j
 
 <a href="https://mp.weixin.qq.com/s/rlrLYjcoaZmlZTra_K1zRA" rel="noopener" target="_blank">CLUENER2020：中文细粒度命名实体识别数据集来了</a></p>
 
