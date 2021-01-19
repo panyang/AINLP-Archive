@@ -256,6 +256,8 @@
 
 [如何又好又快的做文本匹配](https://mp.weixin.qq.com/s/8m5SI6kBHJEjV9N1PlfcRg)
 
+[【模型压缩系列】一：模型替换](https://mp.weixin.qq.com/s/cgF2kjHExdNvUIKf8g4_6A)
+
 <p><strong>中文分词</strong><br>
 
 <a href="https://mp.weixin.qq.com/s/uATfclTlXqAnkp4ep8ZRMQ" target="_blank" rel="noopener">中文分词文章索引和分词数据资源分享</a><br>
@@ -401,6 +403,8 @@
 
 [推荐系统之线上Serving](https://mp.weixin.qq.com/s/LjjY2qC2daoMTX73J-Y5EA)
 
+[推荐多目标之自适应权重学习](https://mp.weixin.qq.com/s/PZXaY_WYPakommbD7PyWQg)
+
 <a href="https://mp.weixin.qq.com/s/B-6uslNc56VpB0fJRoPraw" rel="noopener" target="_blank">当我们谈论“推荐系统”时在谈论什么？</a><br>
 
 <a href="https://mp.weixin.qq.com/s/ys8qmUlUmGZfSYEChezENg" rel="noopener" target="_blank">推荐系统中的矩阵分解技术</a><br>
@@ -440,6 +444,8 @@
 [YouTube基于多任务学习的视频排序推荐系统](https://mp.weixin.qq.com/s/b5hRvFn-oJ5U91UQhlGN-w)
 
 <p><strong>计算广告/广告系统</strong></p>
+
+[CTR学习笔记&代码实现1-深度学习的前奏LR->FFM](https://mp.weixin.qq.com/s/lphTXdbYOyomMU6O0CH2Pw)
 
 [特征交互新路线|阿里 Co-action Network论文解读](https://mp.weixin.qq.com/s/KEnkwa3ZwnIKi8ZxsPOCaQ)
 
@@ -493,12 +499,17 @@ j
 
 <a href="https://mp.weixin.qq.com/s/SZzJW-tOg-ZJE3jTmYHY7A" rel="noopener" target="_blank">知识图谱从哪里来：实体关系抽取的现状与未来</a></p>
 
-
 <p><strong>图神经网络</strong></p>
+
+[万物皆可Graph | 当推荐系统遇上图神经网络](https://mp.weixin.qq.com/s/6li74AYwsw64DeYzaXzBug)
 
 [GNN教程：图神经网络“开山之作”！](https://mp.weixin.qq.com/s/ZdH2_N3JyUQ76TPK3fRzhg)
 
 [KDD20 | 基于差分变量去相关的稳定学习](https://mp.weixin.qq.com/s/3RMEzXK0Lz6Fk20JKn4tfg)
+
+<p><strong>强化学习</strong></p>
+
+[解读TRPO论文，深度强化学习结合传统优化方法](https://mp.weixin.qq.com/s/09JCUUhsXKhvYGfXT2gDLg)
 
 <p><strong>多任务学习</strong></p>
 
