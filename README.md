@@ -128,6 +128,8 @@
 
 [从零开始实现循环神经网络（无框架）](https://mp.weixin.qq.com/s/QPtbRcOf9P_nnCpr9DKyoA)
 
+[【重温序列模型】再回首DeepLearning遇见了LSTM和GRU](https://mp.weixin.qq.com/s/ndNyLJSNXoZ1gP69-XZ9nA)
+
 <p><strong>BERT及预训练模型</strong></p>
 
 <a href="https://mp.weixin.qq.com/s/T3XjEir63GlasbXDPK2YUQ" rel="noopener" target="_blank">放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较</a><br>
@@ -173,6 +175,8 @@
 [NLP前沿预训练语言模型大赏](https://mp.weixin.qq.com/s/x-bIRWOLwoAWGJhQK3g7Yg)
 
 [bert之我见-attention篇](https://mp.weixin.qq.com/s/4-t5N5F0YyF5klfwG2hgAw)
+
+[bert之我见-positional encoding](https://mp.weixin.qq.com/s/HphBSFykUQDYzuwfRInaWQ)
 
 <a href="https://mp.weixin.qq.com/s/3b_2VbehBOYsnKCBSEio4w" rel="noopener" target="_blank">Bert 改进： 如何融入知识</a><br>
 
@@ -399,6 +403,8 @@
 
 [FM：推荐算法中的瑞士军刀](https://mp.weixin.qq.com/s/mdxZm5YDcWlmbKmQDEjPgg)
 
+[MIND新闻推荐冠军分享细节揭秘](https://mp.weixin.qq.com/s/u6RLf0OQWtwqmb4nB5FxYw)
+
 [一文梳理工业界大规模推荐系统Serving架构分析](https://mp.weixin.qq.com/s/Idr1GHGUiyk3QBUHVyv3Ng)
 
 [推荐系统之线上Serving](https://mp.weixin.qq.com/s/LjjY2qC2daoMTX73J-Y5EA)
@@ -586,6 +592,8 @@ j
 <p><strong>实战经验分享</strong></p>
 
 [如何修正NLP问题的bad case](https://mp.weixin.qq.com/s/d6G4jbprAItGp_qiHjO5uA)
+
+[Apex 到 PyTorch 自带混合精度代码修改](https://mp.weixin.qq.com/s/AK-Qowbl9s2MHoWYn-8EHw)
 
 <p><strong>系统架构</strong></p>
 
