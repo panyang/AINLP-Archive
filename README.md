@@ -106,6 +106,8 @@
 
 <a href="https://mp.weixin.qq.com/s/NO2M8_VD29uCaUuTrkzfyA" target="_blank" rel="noopener">夸夸聊天机器人升级：从随机到准个性化</a><br>
 
+[Unilm对话生成之夸夸式闲聊机器人](https://mp.weixin.qq.com/s/RjXQRntFXaVC6fBidnhGIw)
+
 <a href="https://mp.weixin.qq.com/s/fSzWY835t1bgZsv901S_FA" target="_blank" rel="noopener">来，试试语音（识别）聊天（机器人）</a><br>
 
 <a href="https://mp.weixin.qq.com/s/Fe1WJUaaXpe4gERZFmhUIw">来，试试成语接龙</a><br>
@@ -443,6 +445,8 @@
 
 [从零开始写一个自己的推荐算法库](https://mp.weixin.qq.com/s/9LQy7YI04vt4KYShtk0ILw)
 
+[推荐实践(2)：数据集的载入与切割](https://mp.weixin.qq.com/s/U4UZJnoEXbokwxMl6eD4Zw)
+
 [推荐系统之Exploitation & Exploration](https://mp.weixin.qq.com/s/1lLdNlj9EgarmQFgRpXS3g)
 
 [支持多值带权重、稀疏、共享embedding权重的DSSM召回实现（tensorflow2）](https://mp.weixin.qq.com/s/Omdwr7bnFym09a5oNpd9uQ)
@@ -561,7 +565,11 @@ j
 
 [数据科学竞赛：你从未见过的究极进化秘笈](https://mp.weixin.qq.com/s/SGCswkqjkf55BeisbAmGGQ)
 
+[天池NLP赛道top指南](https://mp.weixin.qq.com/s/UGBVJj6YkZpmomb8BiYgYA)
+
 <p><strong>求职相关</strong><br>
+
+[腾讯、百度、滴滴最新NLP算法面经](https://mp.weixin.qq.com/s/uy5ctChDI2kJZjkcFUW2_Q)
 
 [入职半年小结 | 给应届校招算法同学的几点建议](https://mp.weixin.qq.com/s/0c8yCXJ7iciJSl_BF7NoIw)
 
@@ -601,6 +609,8 @@ j
 
 
 <p><strong>论文笔记</strong><br>
+
+[KDD'19| ConcepT 腾讯如何打造概念标签体系？](https://mp.weixin.qq.com/s/7X37ftyLVaZ3-W_JwznyJQ)
 
 <a href="https://mp.weixin.qq.com/s/z6h9b63Dj5P7Wq-gVNwQog" rel="noopener" target="_blank">用腻了 CRF，试试 LAN 吧？</a><br>
 
