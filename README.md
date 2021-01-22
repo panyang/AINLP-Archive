@@ -276,6 +276,8 @@
 
 <p><strong>命名实体识别</strong><br>
 
+[打开你的脑洞：NER如何进行数据增强 ？](https://mp.weixin.qq.com/s/oY8UE9CrA9AjBJ1wlAJDJw)
+
 <a href="https://mp.weixin.qq.com/s/3fY8XS-6vNUvjr-_qAByVA" rel="noopener" target="_blank">【论文笔记】命名实体识别论文</a><br>
 
 <a href="https://mp.weixin.qq.com/s/-rjUpOZFFQg-E6GkQ_lclw" rel="noopener" target="_blank">一文详解深度学习在命名实体识别(NER)中的应用</a><br>
@@ -372,6 +374,8 @@
 
 [赛尔原创@AAAI 2021 | 数据增强没效果？试试用Cluster-to-Cluster生成更多样化的新数据吧](https://mp.weixin.qq.com/s/p9Rmmdnhdrl_FWtzXvjg2Q)
 
+[赛尔原创@AAAI 2021 | 纠结于联合学习中的建模方法？快来看看图网络显式建模!](https://mp.weixin.qq.com/s/6JA9Ki9EiR5IIbIo7s0g2g)
+
 [美团智能问答技术探索与实践](https://mp.weixin.qq.com/s/O7j0rb2FuzsyzAmrzAjiQg)
 
 <p><strong>文本生成</strong></p>
@@ -404,6 +408,8 @@
 <p><strong>推荐算法/推荐系统</strong></p>
 
 [FM：推荐算法中的瑞士军刀](https://mp.weixin.qq.com/s/mdxZm5YDcWlmbKmQDEjPgg)
+
+[万变不离其宗：用统一框架理解向量化召回](https://mp.weixin.qq.com/s/5lRQqmTG9_-me3FOWAmmWQ)
 
 [MIND新闻推荐冠军分享细节揭秘](https://mp.weixin.qq.com/s/u6RLf0OQWtwqmb4nB5FxYw)
 
@@ -466,6 +472,8 @@
 [搜索中涉及的算法问题](https://mp.weixin.qq.com/s/5EtLDC4ox3Yy5kkj2W4DIg)
 
 [搜索系统中的召回](https://mp.weixin.qq.com/s/HpamEwjQHDjdAE9PEGFuqw)
+
+[知乎搜索文本相关性与知识蒸馏](https://mp.weixin.qq.com/s/89rGFT1QNKKjkt9QKJGmyA)
 
 <p><strong>关系抽取</strong></p>
 
@@ -566,6 +574,8 @@ j
 [数据科学竞赛：你从未见过的究极进化秘笈](https://mp.weixin.qq.com/s/SGCswkqjkf55BeisbAmGGQ)
 
 [天池NLP赛道top指南](https://mp.weixin.qq.com/s/UGBVJj6YkZpmomb8BiYgYA)
+
+[竞赛中的文本相似性！](https://mp.weixin.qq.com/s/lcVtkr2wKQ8y7zqSsbb4Tg)
 
 <p><strong>求职相关</strong><br>
 
@@ -731,6 +741,8 @@ j
 <a href="https://mp.weixin.qq.com/s/AmWuB7ZEs85QS8fL5T8rYA" rel="noopener" target="_blank">那些值得推荐和收藏的线性代数学习资源</a></p>
 
 <p><strong>其他相关文章</strong><br>
+
+[Meta Learning 1: 基于度量的方法](https://mp.weixin.qq.com/s/83Og49hh93GPr0CHHBUJPA)
 
 <a href="https://mp.weixin.qq.com/s/2pv59oAqzvMc6JoW-8Y5CQ" rel="noopener" target="_blank">神经网络佛系炼丹手册</a><br>
 
