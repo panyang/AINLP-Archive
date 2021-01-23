@@ -378,6 +378,8 @@
 
 [美团智能问答技术探索与实践](https://mp.weixin.qq.com/s/O7j0rb2FuzsyzAmrzAjiQg)
 
+[EMNLP 2020 | 大道至简，后浪选手DPR暴打前浪BM25](https://mp.weixin.qq.com/s/UywD4imkRFlqKSDwBPwV0w)
+
 <p><strong>文本生成</strong></p>
 
 [超详细中文注释的GPT2新闻标题生成项目](https://mp.weixin.qq.com/s/KzSxN3QWSG-ha62s4K8Qwg)
@@ -452,6 +454,8 @@
 [从零开始写一个自己的推荐算法库](https://mp.weixin.qq.com/s/9LQy7YI04vt4KYShtk0ILw)
 
 [推荐实践(2)：数据集的载入与切割](https://mp.weixin.qq.com/s/U4UZJnoEXbokwxMl6eD4Zw)
+
+[推荐实践(3)：调用算法接口实现一个 demo](https://mp.weixin.qq.com/s/8lA_5-769klECYnQlmDItA)
 
 [推荐系统之Exploitation & Exploration](https://mp.weixin.qq.com/s/1lLdNlj9EgarmQFgRpXS3g)
 
@@ -579,6 +583,10 @@ j
 
 <p><strong>求职相关</strong><br>
 
+[【NLP高频面试题】文本处理](https://mp.weixin.qq.com/s/9T1a7tnvjw6RviIy8mU2aw)
+
+[面试-RNN的梯度消失有什么与众不同的地方](https://mp.weixin.qq.com/s/zvsfADnrElWDSZWsQOGo7Q)
+
 [腾讯、百度、滴滴最新NLP算法面经](https://mp.weixin.qq.com/s/uy5ctChDI2kJZjkcFUW2_Q)
 
 [入职半年小结 | 给应届校招算法同学的几点建议](https://mp.weixin.qq.com/s/0c8yCXJ7iciJSl_BF7NoIw)
@@ -606,6 +614,8 @@ j
 [算法在岗一年的经验总结](https://mp.weixin.qq.com/s/5q-Du1kbpb-ZYqnktsUMaQ)
 
 [20->21：算法工程师的成长思考](https://mp.weixin.qq.com/s/SDyTWKMafmu-YtxXfJ0OLA)
+
+[那一年，让我整个人升华的C++ BERT项目](https://mp.weixin.qq.com/s/wAylygXnMP1kHGE-D7Vqng)
 
 <p><strong>实战经验分享</strong></p>
 
