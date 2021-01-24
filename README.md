@@ -174,6 +174,8 @@
 
 [超赞，以QA形式对NLP预训练模型进行的全面总结！](https://mp.weixin.qq.com/s/bvcU5WI8CcTfLIlxwu3xhQ)
 
+[万万没想到，BERT学会写SQL了](https://mp.weixin.qq.com/s/p9MRoiBZe0GMpqfQVEWvsg)
+
 [NLP前沿预训练语言模型大赏](https://mp.weixin.qq.com/s/x-bIRWOLwoAWGJhQK3g7Yg)
 
 [bert之我见-attention篇](https://mp.weixin.qq.com/s/4-t5N5F0YyF5klfwG2hgAw)
@@ -473,11 +475,15 @@
 
 <p><strong>搜索引擎/搜索系统</strong></p>
 
+[谈谈工业界落地能力最强的机器学习算法](https://mp.weixin.qq.com/s/9s97UZF9OkDrI9xKoSha4Q)
+
 [搜索中涉及的算法问题](https://mp.weixin.qq.com/s/5EtLDC4ox3Yy5kkj2W4DIg)
 
 [搜索系统中的召回](https://mp.weixin.qq.com/s/HpamEwjQHDjdAE9PEGFuqw)
 
 [知乎搜索文本相关性与知识蒸馏](https://mp.weixin.qq.com/s/89rGFT1QNKKjkt9QKJGmyA)
+
+[CVR预估之延迟反馈问题](https://mp.weixin.qq.com/s/5kAlRzsCvOd1BwthkmVrOA)
 
 <p><strong>关系抽取</strong></p>
 
@@ -522,6 +528,8 @@ j
 <a href="https://mp.weixin.qq.com/s/SZzJW-tOg-ZJE3jTmYHY7A" rel="noopener" target="_blank">知识图谱从哪里来：实体关系抽取的现状与未来</a></p>
 
 <p><strong>图神经网络</strong></p>
+
+[图神经网络综述（一）](https://mp.weixin.qq.com/s/PSrgm7frsXIobSrlcoCWxw)
 
 [万物皆可Graph | 当推荐系统遇上图神经网络](https://mp.weixin.qq.com/s/6li74AYwsw64DeYzaXzBug)
 
@@ -618,6 +626,8 @@ j
 [那一年，让我整个人升华的C++ BERT项目](https://mp.weixin.qq.com/s/wAylygXnMP1kHGE-D7Vqng)
 
 <p><strong>实战经验分享</strong></p>
+
+[浅谈模型的局限性](https://mp.weixin.qq.com/s/zqL_CPm7_FslKnXJt4n9dg)
 
 [如何修正NLP问题的bad case](https://mp.weixin.qq.com/s/d6G4jbprAItGp_qiHjO5uA)
 
