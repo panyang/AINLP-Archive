@@ -465,6 +465,8 @@
 
 [YouTube基于多任务学习的视频排序推荐系统](https://mp.weixin.qq.com/s/b5hRvFn-oJ5U91UQhlGN-w)
 
+[推荐系统产品概述](https://mp.weixin.qq.com/s/M_DglkdeBw6Gmj4bO2LjcA)
+
 <p><strong>计算广告/广告系统</strong></p>
 
 [CTR学习笔记&代码实现1-深度学习的前奏LR->FFM](https://mp.weixin.qq.com/s/lphTXdbYOyomMU6O0CH2Pw)
@@ -510,6 +512,8 @@ j
 [超全必读！NLP 事件抽取综述（下）](https://mp.weixin.qq.com/s/1naWym_yYgdERFogoxPNwQ)
 
 [科大讯飞大赛 事件抽取挑战赛冠军分享](https://mp.weixin.qq.com/s/MbeTRfnvbYy4QOJCwoDAjw)
+
+[百度事件图谱技术与应用](https://mp.weixin.qq.com/s/gfED4_dLmtn1EC6Yc8PQjQ)
 
 <p><strong>知识图谱</strong></p>
 
@@ -591,13 +595,15 @@ j
 
 <p><strong>求职相关</strong><br>
 
-[【NLP高频面试题】文本处理](https://mp.weixin.qq.com/s/9T1a7tnvjw6RviIy8mU2aw)
-
 [面试-RNN的梯度消失有什么与众不同的地方](https://mp.weixin.qq.com/s/zvsfADnrElWDSZWsQOGo7Q)
 
 [腾讯、百度、滴滴最新NLP算法面经](https://mp.weixin.qq.com/s/uy5ctChDI2kJZjkcFUW2_Q)
 
 [入职半年小结 | 给应届校招算法同学的几点建议](https://mp.weixin.qq.com/s/0c8yCXJ7iciJSl_BF7NoIw)
+
+[【NLP高频面试题】文本处理](https://mp.weixin.qq.com/s/9T1a7tnvjw6RviIy8mU2aw)
+
+[【NLP高频面试题】神经网络及其优化](https://mp.weixin.qq.com/s/WYaRV2rhARrMYz5hjR1jog)
 
 <a href="https://mp.weixin.qq.com/s/kf3zxn8wPxwgvOqRws_qKw" rel="noopener" target="_blank">2021 校招算法岗， 劝退还是继续</a><br>
 
