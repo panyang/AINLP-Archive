@@ -280,6 +280,8 @@
 
 [打开你的脑洞：NER如何进行数据增强 ？](https://mp.weixin.qq.com/s/oY8UE9CrA9AjBJ1wlAJDJw)
 
+[如何在只有词典的情况下提升NER落地效果](https://mp.weixin.qq.com/s/KMtGnRgYyLUS9UgzXgiXPA)
+
 <a href="https://mp.weixin.qq.com/s/3fY8XS-6vNUvjr-_qAByVA" rel="noopener" target="_blank">【论文笔记】命名实体识别论文</a><br>
 
 <a href="https://mp.weixin.qq.com/s/-rjUpOZFFQg-E6GkQ_lclw" rel="noopener" target="_blank">一文详解深度学习在命名实体识别(NER)中的应用</a><br>
@@ -449,6 +451,8 @@
 
 [推荐模型之用户行为序列处理](https://mp.weixin.qq.com/s/osor94Qti9CKbPh0RNO6VQ)
 
+[推荐系统之Exploitation & Exploration](https://mp.weixin.qq.com/s/1lLdNlj9EgarmQFgRpXS3g)
+
 [NLP+基于内容的推荐](https://mp.weixin.qq.com/s/UE_6ZkS9ENQP4iKTTWzwIA)
 
 [AAAI2021推荐系统论文清单](https://mp.weixin.qq.com/s/Z68OpRSAmMHHdxkMDD1v5g)
@@ -459,7 +463,7 @@
 
 [推荐实践(3)：调用算法接口实现一个 demo](https://mp.weixin.qq.com/s/8lA_5-769klECYnQlmDItA)
 
-[推荐系统之Exploitation & Exploration](https://mp.weixin.qq.com/s/1lLdNlj9EgarmQFgRpXS3g)
+[推荐实践(4)：从KNNBasic() 了解整个算法部分的结构梳理](https://mp.weixin.qq.com/s/5rh-3TR0zeGeG5TGVUjXKQ)
 
 [支持多值带权重、稀疏、共享embedding权重的DSSM召回实现（tensorflow2）](https://mp.weixin.qq.com/s/Omdwr7bnFym09a5oNpd9uQ)
 
@@ -472,6 +476,8 @@
 [CTR学习笔记&代码实现1-深度学习的前奏LR->FFM](https://mp.weixin.qq.com/s/lphTXdbYOyomMU6O0CH2Pw)
 
 [特征交互新路线|阿里 Co-action Network论文解读](https://mp.weixin.qq.com/s/KEnkwa3ZwnIKi8ZxsPOCaQ)
+
+[Normalization在CTR问题中的迷之效果！](https://mp.weixin.qq.com/s/UVo_ibGh0fTNuHiPYByd_A)
 
 [计算广告OCPC实践(四) 如何从0开始建立ocpc业务](https://mp.weixin.qq.com/s/InOm3R4Rf5KtPYDiCj2kbw)
 
