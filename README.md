@@ -4,7 +4,7 @@
 
 <p align=center><img src="./images/ainlp.jpg" width="300" height="300"></p>
 
-<p><strong>如何学习NLP和NLP相关资源</strong><br>
+<p><strong>如何学习NLP和相关学习资源</strong><br>
 
 [自然语言处理圣经SLP3终于又更新了](https://mp.weixin.qq.com/s/7aZ4tODP5j6yzEJDawgBOg)
 
@@ -118,7 +118,7 @@
 
 <a href="https://mp.weixin.qq.com/s/lofYSXsgsFNSEqFyKaWhJA" rel="noopener" target="_blank">来，试试彩虹屁生成器</a></p>
 
-<p><strong>深度学习基础</strong></p>
+<p><strong>深度学习相关基础</strong></p>
 
 [四万字全面详解 | 深度学习中的注意力机制（完结篇）](https://mp.weixin.qq.com/s/rWju_3bTAcTdWcP83AGtyA)
 
