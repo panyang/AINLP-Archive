@@ -120,6 +120,8 @@
 
 <p><strong>深度学习相关基础</strong></p>
 
+[Hello NLP(1)——词向量Why&How](https://mp.weixin.qq.com/s/6_qiPZQvz6l5DN-73uyODg)
+
 [四万字全面详解 | 深度学习中的注意力机制（完结篇）](https://mp.weixin.qq.com/s/rWju_3bTAcTdWcP83AGtyA)
 
 [RealFormer：Real 简单，Real 有效](https://mp.weixin.qq.com/s/1CQgLlINHXR_yQxwjFQQ-A)
@@ -281,6 +283,8 @@
 [打开你的脑洞：NER如何进行数据增强 ？](https://mp.weixin.qq.com/s/oY8UE9CrA9AjBJ1wlAJDJw)
 
 [如何在只有词典的情况下提升NER落地效果](https://mp.weixin.qq.com/s/KMtGnRgYyLUS9UgzXgiXPA)
+
+[Lex-BERT：超越FLAT的中文NER模型？](https://mp.weixin.qq.com/s/YDfNZE21mnENhaJTCFVh7g)
 
 <a href="https://mp.weixin.qq.com/s/3fY8XS-6vNUvjr-_qAByVA" rel="noopener" target="_blank">【论文笔记】命名实体识别论文</a><br>
 
@@ -453,6 +457,8 @@
 
 [推荐系统之Exploitation & Exploration](https://mp.weixin.qq.com/s/1lLdNlj9EgarmQFgRpXS3g)
 
+[推荐多目标之自适应权重学习进阶](https://mp.weixin.qq.com/s/h58nn3-CQypCtqBV9wY85Q)
+
 [NLP+基于内容的推荐](https://mp.weixin.qq.com/s/UE_6ZkS9ENQP4iKTTWzwIA)
 
 [AAAI2021推荐系统论文清单](https://mp.weixin.qq.com/s/Z68OpRSAmMHHdxkMDD1v5g)
@@ -475,6 +481,8 @@
 
 [CTR学习笔记&代码实现1-深度学习的前奏LR->FFM](https://mp.weixin.qq.com/s/lphTXdbYOyomMU6O0CH2Pw)
 
+[CTR学习笔记&代码实现2-深度ctr模型 MLP->Wide&Deep](https://mp.weixin.qq.com/s/wJjg7BASLgdEZI4twBwUoQ)
+
 [特征交互新路线|阿里 Co-action Network论文解读](https://mp.weixin.qq.com/s/KEnkwa3ZwnIKi8ZxsPOCaQ)
 
 [Normalization在CTR问题中的迷之效果！](https://mp.weixin.qq.com/s/UVo_ibGh0fTNuHiPYByd_A)
@@ -492,6 +500,8 @@
 [知乎搜索文本相关性与知识蒸馏](https://mp.weixin.qq.com/s/89rGFT1QNKKjkt9QKJGmyA)
 
 [CVR预估之延迟反馈问题](https://mp.weixin.qq.com/s/5kAlRzsCvOd1BwthkmVrOA)
+
+[效果远超FM,CF最新利器HFM！](https://mp.weixin.qq.com/s/KNpJqj_dTSAiERAhJ8xSHA)
 
 <p><strong>关系抽取</strong></p>
 
@@ -607,9 +617,11 @@ j
 
 [入职半年小结 | 给应届校招算法同学的几点建议](https://mp.weixin.qq.com/s/0c8yCXJ7iciJSl_BF7NoIw)
 
-[【NLP高频面试题】文本处理](https://mp.weixin.qq.com/s/9T1a7tnvjw6RviIy8mU2aw)
-
 [【NLP高频面试题】神经网络及其优化](https://mp.weixin.qq.com/s/WYaRV2rhARrMYz5hjR1jog)
+
+[【NLP高频面试题】词表征](https://mp.weixin.qq.com/s/wBS8T1VleORqzbZrC0YxVA)
+
+[【NLP高频面试题】文本处理](https://mp.weixin.qq.com/s/9T1a7tnvjw6RviIy8mU2aw)
 
 <a href="https://mp.weixin.qq.com/s/kf3zxn8wPxwgvOqRws_qKw" rel="noopener" target="_blank">2021 校招算法岗， 劝退还是继续</a><br>
 
@@ -772,6 +784,8 @@ j
 
 <a href="https://mp.weixin.qq.com/s/AmWuB7ZEs85QS8fL5T8rYA" rel="noopener" target="_blank">那些值得推荐和收藏的线性代数学习资源</a></p>
 
+[【CS224N课程笔记】词向量II: GloVe, 评估和训练](https://mp.weixin.qq.com/s/QKbwHRICPNWcpr-o-55JIA)
+
 <p><strong>其他相关文章</strong><br>
 
 [Meta Learning 1: 基于度量的方法](https://mp.weixin.qq.com/s/83Og49hh93GPr0CHHBUJPA)
@@ -823,6 +837,8 @@ j
 [【科普】 AI是什么？AI可以做什么？AI会取代人的工作吗？](https://mp.weixin.qq.com/s/SfWiGypHV3X4V7NE_A7KtQ)
 
 [将神拉到人间(Linus 自传读后感)](https://mp.weixin.qq.com/s/506sbn_cHgHQI9LRxFiUsg)
+
+[ML中的数学学习](https://mp.weixin.qq.com/s/BbV9SP75ixPSsKq2TdMKGA)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
