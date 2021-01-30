@@ -122,6 +122,8 @@
 
 [Hello NLP(1)——词向量Why&How](https://mp.weixin.qq.com/s/6_qiPZQvz6l5DN-73uyODg)
 
+[【Hello NLP】CS224n笔记[2]:Word2Vec算法推导&实现](https://mp.weixin.qq.com/s/ihagpeoUfyMRh3AJxB1gIQ)
+
 [四万字全面详解 | 深度学习中的注意力机制（完结篇）](https://mp.weixin.qq.com/s/rWju_3bTAcTdWcP83AGtyA)
 
 [RealFormer：Real 简单，Real 有效](https://mp.weixin.qq.com/s/1CQgLlINHXR_yQxwjFQQ-A)
@@ -265,6 +267,8 @@
 [拿到参考资料的预训练模型，太可怕了！](https://mp.weixin.qq.com/s/rfEYUCCVaZs7CQETZ7tg6A)
 
 [如何又好又快的做文本匹配](https://mp.weixin.qq.com/s/8m5SI6kBHJEjV9N1PlfcRg)
+
+[ICLR 2021 | 微软DeBERTa超越人类,造就SuperGLUE上的新王者](https://mp.weixin.qq.com/s/iAe9cQfpHqP5iIUB3sIz_Q)
 
 [【模型压缩系列】一：模型替换](https://mp.weixin.qq.com/s/cgF2kjHExdNvUIKf8g4_6A)
 
@@ -499,9 +503,13 @@
 
 [知乎搜索文本相关性与知识蒸馏](https://mp.weixin.qq.com/s/89rGFT1QNKKjkt9QKJGmyA)
 
+[知乎搜索排序模型的演进](https://mp.weixin.qq.com/s/zJ5LCwib3KFb5diNJ3IszA)
+
 [CVR预估之延迟反馈问题](https://mp.weixin.qq.com/s/5kAlRzsCvOd1BwthkmVrOA)
 
 [效果远超FM,CF最新利器HFM！](https://mp.weixin.qq.com/s/KNpJqj_dTSAiERAhJ8xSHA)
+
+[Transformer是巧合还是必然？搜索推荐领域的新潮流](https://mp.weixin.qq.com/s/tzLvKfV_0EVkTZZiE8J5eQ)
 
 <p><strong>关系抽取</strong></p>
 
@@ -532,6 +540,8 @@ j
 [百度事件图谱技术与应用](https://mp.weixin.qq.com/s/gfED4_dLmtn1EC6Yc8PQjQ)
 
 <p><strong>知识图谱</strong></p>
+
+[问答知识图谱还缺少什么信息？](https://mp.weixin.qq.com/s/hrq45NFAert9R8mvdVRUKw)
 
 [知识表示与融入技术前沿进展及应用](https://mp.weixin.qq.com/s/3V6vzrev4xPYKJmGqXNnAg)
 
@@ -650,6 +660,8 @@ j
 [那一年，让我整个人升华的C++ BERT项目](https://mp.weixin.qq.com/s/wAylygXnMP1kHGE-D7Vqng)
 
 <p><strong>实战经验分享</strong></p>
+
+[模型debug实战| Ng算法诊断理论的应用](https://mp.weixin.qq.com/s/DxoVXIuHsy07HCHlHtQZ5Q)
 
 [浅谈模型的局限性](https://mp.weixin.qq.com/s/zqL_CPm7_FslKnXJt4n9dg)
 
@@ -839,6 +851,8 @@ j
 [将神拉到人间(Linus 自传读后感)](https://mp.weixin.qq.com/s/506sbn_cHgHQI9LRxFiUsg)
 
 [ML中的数学学习](https://mp.weixin.qq.com/s/BbV9SP75ixPSsKq2TdMKGA)
+
+[什么是NLP、NLU、NLG](https://mp.weixin.qq.com/s/zCfQceIk1OrQuzXRCo7zCQ)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
