@@ -394,6 +394,8 @@
 
 <p><strong>文本生成</strong></p>
 
+[【ICLR2021】CoCon:一种自监督的可控文本生成方法](https://mp.weixin.qq.com/s/Iq3ziXr78TXga-5MS0fcjw)
+
 [超详细中文注释的GPT2新闻标题生成项目](https://mp.weixin.qq.com/s/KzSxN3QWSG-ha62s4K8Qwg)
 
 <a href="https://mp.weixin.qq.com/s/PSZwJaY7j1ADnWU1X5qORw" rel="noopener" target="_blank">电脑也能写出连贯的文章吗?</a></p>
@@ -420,6 +422,8 @@
 <a href="https://mp.weixin.qq.com/s/yILXP7EJFC_ST75mrhi8ng" rel="noopener" target="_blank">机器翻译中的强化学习：优点、缺点以及不足</a></p>
 
 <p><strong>推荐算法/推荐系统</strong></p>
+
+[当推荐系统遇见知识图谱](https://mp.weixin.qq.com/s/25rsWBNbTSQTJZzS-Op-kQ)
 
 [FM：推荐算法中的瑞士军刀](https://mp.weixin.qq.com/s/mdxZm5YDcWlmbKmQDEjPgg)
 
@@ -619,13 +623,15 @@ j
 
 [竞赛中的文本相似性！](https://mp.weixin.qq.com/s/lcVtkr2wKQ8y7zqSsbb4Tg)
 
-<p><strong>求职相关</strong><br>
+<p><strong>求职面试相关</strong><br>
 
 [面试-RNN的梯度消失有什么与众不同的地方](https://mp.weixin.qq.com/s/zvsfADnrElWDSZWsQOGo7Q)
 
 [腾讯、百度、滴滴最新NLP算法面经](https://mp.weixin.qq.com/s/uy5ctChDI2kJZjkcFUW2_Q)
 
 [入职半年小结 | 给应届校招算法同学的几点建议](https://mp.weixin.qq.com/s/0c8yCXJ7iciJSl_BF7NoIw)
+
+[2021算法阿里&腾讯&快手上岸，菜鸟小硕经验分享](https://mp.weixin.qq.com/s/i9s4gzWE-Y2UG2db9SmqUw
 
 [【NLP高频面试题】神经网络及其优化](https://mp.weixin.qq.com/s/WYaRV2rhARrMYz5hjR1jog)
 
@@ -669,6 +675,8 @@ j
 
 [Apex 到 PyTorch 自带混合精度代码修改](https://mp.weixin.qq.com/s/AK-Qowbl9s2MHoWYn-8EHw)
 
+[算法工程师常说的【处理数据】究竟是在做什么](https://mp.weixin.qq.com/s/-1JBic6xQlRsfO6t8JiVVQ)
+
 <p><strong>系统架构</strong></p>
 
 [Mesh-Tensorflow: 广义分布式训练大模型](https://mp.weixin.qq.com/s/gr8443SRnBbGT9jtRi2SoA)
@@ -695,6 +703,8 @@ j
 [树模型奠基性论文解读| GBM: Gradient Boosting Machine](https://mp.weixin.qq.com/s/jeuWxi908cJfooSoniu1Ew)
 
 [AdaBelief：一个有“信仰”的优化器](https://mp.weixin.qq.com/s/9ZrFtB2JMkHZWNrXojCPKA)
+
+[不要浪费没有标注的数据！超强文本半监督方法MixText来袭！](https://mp.weixin.qq.com/s/fVefi21_-_SDTXcyORZ6Xg)
 
 <p><strong>开源项目及资源</strong><br>
 
