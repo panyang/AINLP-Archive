@@ -148,6 +148,8 @@
 
 <a href="https://mp.weixin.qq.com/s/0pYFb2POAcV1AKTLJ7t1DA" rel="noopener" target="_blank">效果惊人的GPT 2.0模型：它告诉了我们什么</a><br>
 
+[GPT 的野望](https://mp.weixin.qq.com/s/td7WVXlI9p8D8kO9Ioe50Q)
+
 <a href="https://mp.weixin.qq.com/s/2nWZkWDWbtHEkWyTCKKuHw" rel="noopener" target="_blank">XLNet:运行机制及和Bert的异同比较</a></p>
 
 <a href="https://mp.weixin.qq.com/s/9b3sqng5GfFFYuIr-qlvdw" rel="noopener" target="_blank">BERT源码分析PART I</a><br>
@@ -479,6 +481,8 @@
 
 [推荐实践(4)：从KNNBasic() 了解整个算法部分的结构梳理](https://mp.weixin.qq.com/s/5rh-3TR0zeGeG5TGVUjXKQ)
 
+[推荐实践(5)：Algo_base() 类的功能介绍](https://mp.weixin.qq.com/s/iwUTdvW_VxNO--CqSenCYw)
+
 [支持多值带权重、稀疏、共享embedding权重的DSSM召回实现（tensorflow2）](https://mp.weixin.qq.com/s/Omdwr7bnFym09a5oNpd9uQ)
 
 [YouTube基于多任务学习的视频排序推荐系统](https://mp.weixin.qq.com/s/b5hRvFn-oJ5U91UQhlGN-w)
@@ -568,6 +572,8 @@ j
 [万物皆可Graph | 当推荐系统遇上图神经网络](https://mp.weixin.qq.com/s/6li74AYwsw64DeYzaXzBug)
 
 [GNN教程：图神经网络“开山之作”！](https://mp.weixin.qq.com/s/ZdH2_N3JyUQ76TPK3fRzhg)
+
+[GNN教程：GraghSAGE算法细节详解！](https://mp.weixin.qq.com/s/afnlwSIFgm2S9Im5iOdu7Q)
 
 [KDD20 | 基于差分变量去相关的稳定学习](https://mp.weixin.qq.com/s/3RMEzXK0Lz6Fk20JKn4tfg)
 
@@ -863,6 +869,8 @@ j
 [ML中的数学学习](https://mp.weixin.qq.com/s/BbV9SP75ixPSsKq2TdMKGA)
 
 [什么是NLP、NLU、NLG](https://mp.weixin.qq.com/s/zCfQceIk1OrQuzXRCo7zCQ)
+
+[Spark NLP：Spark可以完成NLP任务？](https://mp.weixin.qq.com/s/lnzWc2dTuusYcyeNzJa8gQ)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
