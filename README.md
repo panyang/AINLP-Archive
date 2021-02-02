@@ -178,6 +178,8 @@
 
 <a href="https://mp.weixin.qq.com/s/aPkPlEPMFS0NrmD5r7Kfkg" rel="noopener" target="_blank">就最近看的paper谈谈预训练语言模型发展</a><br>
 
+[我不懂BERT系列——有关RealFormer的一些有趣现象](https://mp.weixin.qq.com/s/wv1kDW2XmPgCPPzNWVG2VA)
+
 [超赞，以QA形式对NLP预训练模型进行的全面总结！](https://mp.weixin.qq.com/s/bvcU5WI8CcTfLIlxwu3xhQ)
 
 [万万没想到，BERT学会写SQL了](https://mp.weixin.qq.com/s/p9MRoiBZe0GMpqfQVEWvsg)
@@ -315,6 +317,8 @@
 <a href="https://mp.weixin.qq.com/s/EglEV2IrHjySOqliYjXDrQ" rel="noopener" target="_blank">基于特定实体的文本情感分类总结（PART III）</a><br>
 
 <a href="https://mp.weixin.qq.com/s/qndGMdeiFl08KdGpJ5AMZA">深度学习实践：从零开始做电影评论文本情感分析</a><br>
+
+[从零实现爬虫和情感分类模型（二）](https://mp.weixin.qq.com/s/jUF0hhY9RwHNsSgfTAo7Og)
 
 <a href="https://mp.weixin.qq.com/s/b1uQOulaJ8p9F1pJkuxdjw" rel="noopener" target="_blank">5个例子，秒懂分类算法（达观数据王子豪）</a><br>
 
@@ -499,6 +503,8 @@
 
 [Normalization在CTR问题中的迷之效果！](https://mp.weixin.qq.com/s/UVo_ibGh0fTNuHiPYByd_A)
 
+[神级特征交叉, 基于张量的多语义交叉网络TFNET！](https://mp.weixin.qq.com/s/4802G24YlEEu6Puzx_BQWA)
+
 [计算广告OCPC实践(四) 如何从0开始建立ocpc业务](https://mp.weixin.qq.com/s/InOm3R4Rf5KtPYDiCj2kbw)
 
 <p><strong>搜索引擎/搜索系统</strong></p>
@@ -665,11 +671,14 @@ j
 
 [NLP算法工程师的日常以及核心竞争力](https://mp.weixin.qq.com/s/v7YZ_Y2a_u2HfJx0sGqFOw)
 
+[程序员之算法攻城撕的就业方向、日常、技能及职业规划](https://mp.weixin.qq.com/s/VjhkpLE4pbfRoAJVTWaR7A)
+
 [算法在岗一年的经验总结](https://mp.weixin.qq.com/s/5q-Du1kbpb-ZYqnktsUMaQ)
 
 [20->21：算法工程师的成长思考](https://mp.weixin.qq.com/s/SDyTWKMafmu-YtxXfJ0OLA)
 
 [那一年，让我整个人升华的C++ BERT项目](https://mp.weixin.qq.com/s/wAylygXnMP1kHGE-D7Vqng)
+
 
 <p><strong>实战经验分享</strong></p>
 
@@ -682,6 +691,8 @@ j
 [Apex 到 PyTorch 自带混合精度代码修改](https://mp.weixin.qq.com/s/AK-Qowbl9s2MHoWYn-8EHw)
 
 [算法工程师常说的【处理数据】究竟是在做什么](https://mp.weixin.qq.com/s/-1JBic6xQlRsfO6t8JiVVQ)
+
+[ML&DEV | bad case分析](https://mp.weixin.qq.com/s/USDKyZDtXDQZRL4GPsaTRw)
 
 <p><strong>系统架构</strong></p>
 
