@@ -166,6 +166,8 @@
 
 <a href="https://mp.weixin.qq.com/s/H-t2t2ccOW_el62ppt8CGg" rel="noopener" target="_blank">Nvidia League Player：来呀比到天荒地老</a><br>
 
+[Transformer家族简史（PART II）](https://mp.weixin.qq.com/s/SPllU8IxvnqEK8Xud-1w-w)
+
 <a href="https://mp.weixin.qq.com/s/K07zCIibmhC03L-JOHoaKg" rel="noopener" target="_blank">Dive into BERT：语言模型与知识</a><br>
 
 <a href="https://mp.weixin.qq.com/s/_-GN-OI9DMYMyKBRKObvKA" rel="noopener" target="_blank">当BERT遇上知识图谱</a><br>
@@ -305,6 +307,8 @@
 [Transformer为啥在NER上表现不好](https://mp.weixin.qq.com/s/FVPR_PkMcgygTr8LbyRPIw)
 
 <p><strong>文本分类/情感分析</strong><br>
+
+[深度学习文本分类｜模型&代码&技巧](https://mp.weixin.qq.com/s/8rF2VXeKMKMpBAOlgPep8A)
 
 <a href="https://mp.weixin.qq.com/s/jM99a3fFAfgZvSx8tQA4AA" rel="noopener" target="_blank">几个可作为Baseline的文本分类模型</a><br>
 
@@ -882,6 +886,10 @@ j
 [什么是NLP、NLU、NLG](https://mp.weixin.qq.com/s/zCfQceIk1OrQuzXRCo7zCQ)
 
 [Spark NLP：Spark可以完成NLP任务？](https://mp.weixin.qq.com/s/lnzWc2dTuusYcyeNzJa8gQ)
+
+[Hulu在Content Embedding的探索与实践](https://mp.weixin.qq.com/s/4cfACWN1R2MIFrg8usOiHg)
+
+[测试集没标签，可以拿来测模型吗？](https://mp.weixin.qq.com/s/gJaU8-JsU9dYNqsj9rtFJg)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
