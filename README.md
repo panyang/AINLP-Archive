@@ -198,6 +198,8 @@
 
 <a href="https://mp.weixin.qq.com/s/oqCRswaOhAEJ9GYZwKaKYA" rel="noopener" target="_blank">BERT论文笔记</a><br>
 
+[如何有效的降低BERT参数量](https://mp.weixin.qq.com/s/1R5R230jFtVXpaFMX9GyaQ)
+
 <a href="https://mp.weixin.qq.com/s/NBJZo8ztIsaaYe4ZvdwrVw" rel="noopener" target="_blank">XLNet 论文笔记</a><br>
 
 <a href="https://mp.weixin.qq.com/s/gPKj5x0pSh50fP2fjqjrYA" rel="noopener" target="_blank">ERNIE Tutorial（论文笔记 + 实践指南）</a><br>
@@ -321,6 +323,8 @@
 <a href="https://mp.weixin.qq.com/s/EglEV2IrHjySOqliYjXDrQ" rel="noopener" target="_blank">基于特定实体的文本情感分类总结（PART III）</a><br>
 
 <a href="https://mp.weixin.qq.com/s/qndGMdeiFl08KdGpJ5AMZA">深度学习实践：从零开始做电影评论文本情感分析</a><br>
+
+[从零实现爬虫和情感分类模型（一）](https://mp.weixin.qq.com/s/UTU1Oy6lIJJVDxAruhBthA)
 
 [从零实现爬虫和情感分类模型（二）](https://mp.weixin.qq.com/s/jUF0hhY9RwHNsSgfTAo7Og)
 
@@ -497,6 +501,8 @@
 
 [推荐系统产品概述](https://mp.weixin.qq.com/s/M_DglkdeBw6Gmj4bO2LjcA)
 
+[智能重排序在推荐场景中的应用](https://mp.weixin.qq.com/s/hC337cwbceLxq2kra8kzpw)
+
 <p><strong>计算广告/广告系统</strong></p>
 
 [CTR学习笔记&代码实现1-深度学习的前奏LR->FFM](https://mp.weixin.qq.com/s/lphTXdbYOyomMU6O0CH2Pw)
@@ -596,6 +602,8 @@ j
 [Multi-Task 多任务学习， 那些你不知道的事](https://mp.weixin.qq.com/s/MOSMR3Ue9i3jYklPRvmWwA)
 
 <p><strong>竞赛之路</strong></p>
+
+[iFLYTEK 多语种文本挖掘挑战赛冠军分享](https://mp.weixin.qq.com/s/eP54KW_sBkHS0XSn5pHq6w)
 
 <a href="https://mp.weixin.qq.com/s/mIuT9RaJ5q1mQ_9K3U-_UQ" rel="noopener" target="_blank">AI Challenger 2017 奇遇记</a><br>
 
