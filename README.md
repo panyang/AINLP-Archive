@@ -124,6 +124,8 @@
 
 [【Hello NLP】CS224n笔记[2]:Word2Vec算法推导&实现](https://mp.weixin.qq.com/s/ihagpeoUfyMRh3AJxB1gIQ)
 
+[【Hello NLP】CS224n学习笔记[3]:共现矩阵、SVD与GloVe词向量](https://mp.weixin.qq.com/s/kl6UlHGfMvoQhTt5ewb6Og)
+
 [四万字全面详解 | 深度学习中的注意力机制（完结篇）](https://mp.weixin.qq.com/s/rWju_3bTAcTdWcP83AGtyA)
 
 [RealFormer：Real 简单，Real 有效](https://mp.weixin.qq.com/s/1CQgLlINHXR_yQxwjFQQ-A)
@@ -435,6 +437,9 @@
 
 <a href="https://mp.weixin.qq.com/s/yILXP7EJFC_ST75mrhi8ng" rel="noopener" target="_blank">机器翻译中的强化学习：优点、缺点以及不足</a></p>
 
+<p><strong>自然语言推理</strong></p>
+[迈向NLP大师 | 自然语言推理入门](https://mp.weixin.qq.com/s/dkuI479XEOEoMkiFWxABsQ)
+
 <p><strong>推荐算法/推荐系统</strong></p>
 
 [当推荐系统遇见知识图谱](https://mp.weixin.qq.com/s/25rsWBNbTSQTJZzS-Op-kQ)
@@ -514,6 +519,8 @@
 [Normalization在CTR问题中的迷之效果！](https://mp.weixin.qq.com/s/UVo_ibGh0fTNuHiPYByd_A)
 
 [神级特征交叉, 基于张量的多语义交叉网络TFNET！](https://mp.weixin.qq.com/s/4802G24YlEEu6Puzx_BQWA)
+
+[曾今的CTR竞赛王者NFM](https://mp.weixin.qq.com/s/ANqpzEgIQONegsnrZAPSug)
 
 [计算广告OCPC实践(四) 如何从0开始建立ocpc业务](https://mp.weixin.qq.com/s/InOm3R4Rf5KtPYDiCj2kbw)
 
@@ -686,6 +693,8 @@ j
 [程序员之算法攻城撕的就业方向、日常、技能及职业规划](https://mp.weixin.qq.com/s/VjhkpLE4pbfRoAJVTWaR7A)
 
 [算法在岗一年的经验总结](https://mp.weixin.qq.com/s/5q-Du1kbpb-ZYqnktsUMaQ)
+
+[浅谈NLP算法工程师的核心竞争力](https://mp.weixin.qq.com/s/PeEJiuZhOOlnAwx8iROLzQ)
 
 [20->21：算法工程师的成长思考](https://mp.weixin.qq.com/s/SDyTWKMafmu-YtxXfJ0OLA)
 
