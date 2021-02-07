@@ -118,7 +118,7 @@
 
 <a href="https://mp.weixin.qq.com/s/lofYSXsgsFNSEqFyKaWhJA" rel="noopener" target="_blank">来，试试彩虹屁生成器</a></p>
 
-<p><strong>深度学习相关基础</strong></p>
+<p><strong>深度学习基础</strong></p>
 
 [Hello NLP(1)——词向量Why&How](https://mp.weixin.qq.com/s/6_qiPZQvz6l5DN-73uyODg)
 
@@ -128,17 +128,15 @@
 
 [四万字全面详解 | 深度学习中的注意力机制（完结篇）](https://mp.weixin.qq.com/s/rWju_3bTAcTdWcP83AGtyA)
 
-[RealFormer：Real 简单，Real 有效](https://mp.weixin.qq.com/s/1CQgLlINHXR_yQxwjFQQ-A)
-
-[Transformer哪家强？Google爸爸辨优良！](https://mp.weixin.qq.com/s/Agrt4Ic9wA59gZW4F5ZFcA)
-
 [从零开始实现卷积神经网络CNN](https://mp.weixin.qq.com/s/Td5cK5gKzlx6N8mAtnTa8Q)
 
 [从零开始实现循环神经网络（无框架）](https://mp.weixin.qq.com/s/QPtbRcOf9P_nnCpr9DKyoA)
 
 [【重温序列模型】再回首DeepLearning遇见了LSTM和GRU](https://mp.weixin.qq.com/s/ndNyLJSNXoZ1gP69-XZ9nA)
 
-<p><strong>BERT及预训练模型</strong></p>
+[Transformer家族简史（PART II）](https://mp.weixin.qq.com/s/SPllU8IxvnqEK8Xud-1w-w)
+
+<p><strong>BERT基础</strong></p>
 
 <a href="https://mp.weixin.qq.com/s/T3XjEir63GlasbXDPK2YUQ" rel="noopener" target="_blank">放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较</a><br>
 
@@ -146,19 +144,49 @@
 
 <a href="https://mp.weixin.qq.com/s/p16IEzlaDGRNt8h6WkP-dQ" target="_blank" rel="noopener">从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史</a><br>
 
-<a href="https://mp.weixin.qq.com/s/WPkOMeXK5rE-KpBFeI-KAg" rel="noopener" target="_blank">Bert时代的创新（应用篇）：Bert在NLP各领域的应用进展</a><br>
 
-<a href="https://mp.weixin.qq.com/s/0pYFb2POAcV1AKTLJ7t1DA" rel="noopener" target="_blank">效果惊人的GPT 2.0模型：它告诉了我们什么</a><br>
+<a href="https://mp.weixin.qq.com/s/K07zCIibmhC03L-JOHoaKg" rel="noopener" target="_blank">Dive into BERT：语言模型与知识</a><br>
 
-[GPT 的野望](https://mp.weixin.qq.com/s/td7WVXlI9p8D8kO9Ioe50Q)
+<a href="https://mp.weixin.qq.com/s/oqCRswaOhAEJ9GYZwKaKYA" rel="noopener" target="_blank">BERT论文笔记</a><br>
 
-<a href="https://mp.weixin.qq.com/s/2nWZkWDWbtHEkWyTCKKuHw" rel="noopener" target="_blank">XLNet:运行机制及和Bert的异同比较</a></p>
+
+[bert之我见-attention篇](https://mp.weixin.qq.com/s/4-t5N5F0YyF5klfwG2hgAw)
+
+[bert之我见-positional encoding](https://mp.weixin.qq.com/s/HphBSFykUQDYzuwfRInaWQ)
+
+<p><strong>BERT源码</strong></p>
 
 <a href="https://mp.weixin.qq.com/s/9b3sqng5GfFFYuIr-qlvdw" rel="noopener" target="_blank">BERT源码分析PART I</a><br>
 
 <a href="https://mp.weixin.qq.com/s/whZlOBhMpvUsWjCkKjRnAw" rel="noopener" target="_blank">BERT源码分析PART II</a><br>
 
 <a href="https://mp.weixin.qq.com/s/lbL1a1vyU6p_hJ5EEahi5g" rel="noopener" target="_blank">BERT源码分析PART III</a><br>
+
+<a href="https://mp.weixin.qq.com/s/SNAPHnUpW6KPyN-dwj5LNw" rel="noopener" target="_blank">听说你还没读过 Bert 源码？</a><br>
+
+<p><strong>BERT应用</strong></p>
+
+<a href="https://mp.weixin.qq.com/s/WPkOMeXK5rE-KpBFeI-KAg" rel="noopener" target="_blank">Bert时代的创新（应用篇）：Bert在NLP各领域的应用进展</a><br>
+
+<a href="https://mp.weixin.qq.com/s/_-GN-OI9DMYMyKBRKObvKA" rel="noopener" target="_blank">当BERT遇上知识图谱</a><br>
+
+[万万没想到，BERT学会写SQL了](https://mp.weixin.qq.com/s/p9MRoiBZe0GMpqfQVEWvsg)
+
+<a href="https://mp.weixin.qq.com/s/3b_2VbehBOYsnKCBSEio4w" rel="noopener" target="_blank">Bert 改进： 如何融入知识</a><br>
+
+<p><strong>BERT实战</strong></p>
+
+[我不懂BERT系列——有关RealFormer的一些有趣现象](https://mp.weixin.qq.com/s/wv1kDW2XmPgCPPzNWVG2VA)
+
+[如何有效的降低BERT参数量](https://mp.weixin.qq.com/s/1R5R230jFtVXpaFMX9GyaQ)
+
+<p><strong>BERT之外</strong></p>
+
+<a href="https://mp.weixin.qq.com/s/0pYFb2POAcV1AKTLJ7t1DA" rel="noopener" target="_blank">效果惊人的GPT 2.0模型：它告诉了我们什么</a><br>
+
+[GPT 的野望](https://mp.weixin.qq.com/s/td7WVXlI9p8D8kO9Ioe50Q)
+
+<a href="https://mp.weixin.qq.com/s/2nWZkWDWbtHEkWyTCKKuHw" rel="noopener" target="_blank">XLNet:运行机制及和Bert的异同比较</a></p>
 
 <a href="https://mp.weixin.qq.com/s/b-HYzrSa4MF2zHYdxbtKcg" rel="noopener" target="_blank">站在BERT肩膀上的NLP新秀们（PART I）</a><br>
 
@@ -168,39 +196,23 @@
 
 <a href="https://mp.weixin.qq.com/s/H-t2t2ccOW_el62ppt8CGg" rel="noopener" target="_blank">Nvidia League Player：来呀比到天荒地老</a><br>
 
-[Transformer家族简史（PART II）](https://mp.weixin.qq.com/s/SPllU8IxvnqEK8Xud-1w-w)
-
-<a href="https://mp.weixin.qq.com/s/K07zCIibmhC03L-JOHoaKg" rel="noopener" target="_blank">Dive into BERT：语言模型与知识</a><br>
-
-<a href="https://mp.weixin.qq.com/s/_-GN-OI9DMYMyKBRKObvKA" rel="noopener" target="_blank">当BERT遇上知识图谱</a><br>
-
 <a href="https://mp.weixin.qq.com/s/hGT8sKmjmeiD1pdrAepJqA" rel="noopener" target="_blank">中文预训练模型ERNIE超详细使用指南</a></p>
-
-<a href="https://mp.weixin.qq.com/s/SNAPHnUpW6KPyN-dwj5LNw" rel="noopener" target="_blank">听说你还没读过 Bert 源码？</a><br>
 
 <a href="https://mp.weixin.qq.com/s/aEk90uEVIuqqq9639CAQpA" rel="noopener" target="_blank">Bert 之后：预训练语言模型与自然语言生成</a><br>
 
 <a href="https://mp.weixin.qq.com/s/aPkPlEPMFS0NrmD5r7Kfkg" rel="noopener" target="_blank">就最近看的paper谈谈预训练语言模型发展</a><br>
 
-[我不懂BERT系列——有关RealFormer的一些有趣现象](https://mp.weixin.qq.com/s/wv1kDW2XmPgCPPzNWVG2VA)
+[RealFormer：Real 简单，Real 有效](https://mp.weixin.qq.com/s/1CQgLlINHXR_yQxwjFQQ-A)
+
+[Transformer哪家强？Google爸爸辨优良！](https://mp.weixin.qq.com/s/Agrt4Ic9wA59gZW4F5ZFcA)
 
 [超赞，以QA形式对NLP预训练模型进行的全面总结！](https://mp.weixin.qq.com/s/bvcU5WI8CcTfLIlxwu3xhQ)
 
-[万万没想到，BERT学会写SQL了](https://mp.weixin.qq.com/s/p9MRoiBZe0GMpqfQVEWvsg)
-
 [NLP前沿预训练语言模型大赏](https://mp.weixin.qq.com/s/x-bIRWOLwoAWGJhQK3g7Yg)
-
-[bert之我见-attention篇](https://mp.weixin.qq.com/s/4-t5N5F0YyF5klfwG2hgAw)
-
-[bert之我见-positional encoding](https://mp.weixin.qq.com/s/HphBSFykUQDYzuwfRInaWQ)
-
-<a href="https://mp.weixin.qq.com/s/3b_2VbehBOYsnKCBSEio4w" rel="noopener" target="_blank">Bert 改进： 如何融入知识</a><br>
 
 <a href="https://mp.weixin.qq.com/s/lYNKXHorx886F2lHPAJHvg" rel="noopener" target="_blank">ALBERT 告诉了我们什么？</a></p>
 
-<a href="https://mp.weixin.qq.com/s/oqCRswaOhAEJ9GYZwKaKYA" rel="noopener" target="_blank">BERT论文笔记</a><br>
 
-[如何有效的降低BERT参数量](https://mp.weixin.qq.com/s/1R5R230jFtVXpaFMX9GyaQ)
 
 <a href="https://mp.weixin.qq.com/s/NBJZo8ztIsaaYe4ZvdwrVw" rel="noopener" target="_blank">XLNet 论文笔记</a><br>
 
