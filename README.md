@@ -118,6 +118,10 @@
 
 <a href="https://mp.weixin.qq.com/s/lofYSXsgsFNSEqFyKaWhJA" rel="noopener" target="_blank">来，试试彩虹屁生成器</a></p>
 
+<p><strong>词向量</strong></p>
+
+[机器学习竞赛必备基础知识Word2Vec](https://mp.weixin.qq.com/s/fdg2J3fi65EsCKEYBJ-Ajw)
+
 <p><strong>深度学习基础</strong></p>
 
 [Hello NLP(1)——词向量Why&How](https://mp.weixin.qq.com/s/6_qiPZQvz6l5DN-73uyODg)
@@ -468,6 +472,8 @@
 
 [推荐多目标之自适应权重学习](https://mp.weixin.qq.com/s/PZXaY_WYPakommbD7PyWQg)
 
+[推荐系统之推荐引擎](https://mp.weixin.qq.com/s/caguhLwKlwSjf1EdH6WQ_g)
+
 <a href="https://mp.weixin.qq.com/s/B-6uslNc56VpB0fJRoPraw" rel="noopener" target="_blank">当我们谈论“推荐系统”时在谈论什么？</a><br>
 
 <a href="https://mp.weixin.qq.com/s/ys8qmUlUmGZfSYEChezENg" rel="noopener" target="_blank">推荐系统中的矩阵分解技术</a><br>
@@ -612,6 +618,8 @@ j
 
 [KDD20 | 基于差分变量去相关的稳定学习](https://mp.weixin.qq.com/s/3RMEzXK0Lz6Fk20JKn4tfg)
 
+[经验谈 | 边生万物：关于近期GNN进展的一点思考](https://mp.weixin.qq.com/s/LuX26esg-yP1qJP9fsmqHw)
+
 <p><strong>强化学习</strong></p>
 
 [解读TRPO论文，深度强化学习结合传统优化方法](https://mp.weixin.qq.com/s/09JCUUhsXKhvYGfXT2gDLg)
@@ -731,6 +739,9 @@ j
 
 [Mesh-Tensorflow: 广义分布式训练大模型](https://mp.weixin.qq.com/s/gr8443SRnBbGT9jtRi2SoA)
 
+<p><strong>机器学习基础</strong></p>
+
+[认真的聊一聊决策树和随机森林](https://mp.weixin.qq.com/s/KIzT501x149-gvg1p8isrQ)
 
 <p><strong>论文笔记</strong><br>
 
