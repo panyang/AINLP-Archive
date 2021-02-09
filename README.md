@@ -124,12 +124,6 @@
 
 <p><strong>深度学习基础</strong></p>
 
-[Hello NLP(1)——词向量Why&How](https://mp.weixin.qq.com/s/6_qiPZQvz6l5DN-73uyODg)
-
-[【Hello NLP】CS224n笔记[2]:Word2Vec算法推导&实现](https://mp.weixin.qq.com/s/ihagpeoUfyMRh3AJxB1gIQ)
-
-[【Hello NLP】CS224n学习笔记[3]:共现矩阵、SVD与GloVe词向量](https://mp.weixin.qq.com/s/kl6UlHGfMvoQhTt5ewb6Og)
-
 [四万字全面详解 | 深度学习中的注意力机制（完结篇）](https://mp.weixin.qq.com/s/rWju_3bTAcTdWcP83AGtyA)
 
 [从零开始实现卷积神经网络CNN](https://mp.weixin.qq.com/s/Td5cK5gKzlx6N8mAtnTa8Q)
@@ -148,15 +142,25 @@
 
 <a href="https://mp.weixin.qq.com/s/p16IEzlaDGRNt8h6WkP-dQ" target="_blank" rel="noopener">从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史</a><br>
 
-
 <a href="https://mp.weixin.qq.com/s/K07zCIibmhC03L-JOHoaKg" rel="noopener" target="_blank">Dive into BERT：语言模型与知识</a><br>
 
 <a href="https://mp.weixin.qq.com/s/oqCRswaOhAEJ9GYZwKaKYA" rel="noopener" target="_blank">BERT论文笔记</a><br>
 
-
 [bert之我见-attention篇](https://mp.weixin.qq.com/s/4-t5N5F0YyF5klfwG2hgAw)
 
 [bert之我见-positional encoding](https://mp.weixin.qq.com/s/HphBSFykUQDYzuwfRInaWQ)
+
+<a href="https://mp.weixin.qq.com/s/u4k-A3dSb2-6PDodWPePhA" rel="noopener" target="_blank">BERT 的演进和应用</a><br>
+
+<a href="https://mp.weixin.qq.com/s/U_pYc5roODcs_VENDoTbiQ" rel="noopener" target="_blank">BERT时代与后时代的NLP</a><br>
+
+<a href="https://mp.weixin.qq.com/s/V_-AHhUk5KLKm4LUfhf8vA" target="_blank" rel="noopener">谷歌BERT模型深度解析</a><br>
+
+<a href="https://mp.weixin.qq.com/s/HhW7PcFhrVWjWt1qNx-anQ" rel="noopener" target="_blank">BERT_Paper_Chinese_Translation: BERT论文中文翻译版</a><br>
+
+[一步步理解BERT](https://mp.weixin.qq.com/s/H4at_BDLwZWqlBHLjMZWRQ)
+
+<a href="https://mp.weixin.qq.com/s/q5OyrIycfN4fjQ33uSRmEA" target="_blank" rel="noopener">BERT相关论文、文章和代码资源汇总</a><br>
 
 <p><strong>BERT源码</strong></p>
 
@@ -178,11 +182,27 @@
 
 <a href="https://mp.weixin.qq.com/s/3b_2VbehBOYsnKCBSEio4w" rel="noopener" target="_blank">Bert 改进： 如何融入知识</a><br>
 
+<a href="https://mp.weixin.qq.com/s/t_VQ8-vNrgOoYz_cyVwhmQ" rel="noopener" target="_blank">NLP - 基于 BERT 的中文命名实体识别（NER)</a><br>
+
+<a href="https://mp.weixin.qq.com/s/imPro1LZvGJ44ezoDOL5Dw" rel="noopener" target="_blank">NLP - BERT/ERNIE 文本分类和部署</a></p>
+
+<a href="https://mp.weixin.qq.com/s/C5B4QO0fxWtBwA5iv3XzcA" rel="noopener" target="_blank">详解BERT阅读理解</a><br>
+
+<a href="https://mp.weixin.qq.com/s/zOcbvoq26hmlniU_k26hrQ" rel="noopener" target="_blank">简单高效的Bert中文文本分类模型开发和部署</a></p>
+
+
 <p><strong>BERT实战</strong></p>
+
+<a href="https://mp.weixin.qq.com/s/K1R_thLJqegm6QDj2GA5ww" rel="noopener" target="_blank">模型压缩实践系列之——layer dropout</a><br>
+
+<a href="https://mp.weixin.qq.com/s/mkaQb-aauxED1mH1fdYTMA" rel="noopener" target="_blank">模型压缩实践系列之——bert-of-theseus，一个非常亲民的bert压缩方法</a><br>
+
+<a href="https://mp.weixin.qq.com/s/PR_YrbbT8gnAx6A36D3_KQ" rel="noopener" target="_blank">模型压缩实践收尾篇——模型蒸馏以及其他一些技巧实践小结</a></p>
 
 [我不懂BERT系列——有关RealFormer的一些有趣现象](https://mp.weixin.qq.com/s/wv1kDW2XmPgCPPzNWVG2VA)
 
 [如何有效的降低BERT参数量](https://mp.weixin.qq.com/s/1R5R230jFtVXpaFMX9GyaQ)
+
 
 <p><strong>BERT之外</strong></p>
 
@@ -216,35 +236,15 @@
 
 <a href="https://mp.weixin.qq.com/s/lYNKXHorx886F2lHPAJHvg" rel="noopener" target="_blank">ALBERT 告诉了我们什么？</a></p>
 
-
-
 <a href="https://mp.weixin.qq.com/s/NBJZo8ztIsaaYe4ZvdwrVw" rel="noopener" target="_blank">XLNet 论文笔记</a><br>
 
 <a href="https://mp.weixin.qq.com/s/gPKj5x0pSh50fP2fjqjrYA" rel="noopener" target="_blank">ERNIE Tutorial（论文笔记 + 实践指南）</a><br>
 
 <a href="https://mp.weixin.qq.com/s/HXynRtAAprARWWxEeICG8g" rel="noopener" target="_blank">DistilBERT Understanding</a></p>
 
-<a href="https://mp.weixin.qq.com/s/K1R_thLJqegm6QDj2GA5ww" rel="noopener" target="_blank">模型压缩实践系列之——layer dropout</a><br>
-
-<a href="https://mp.weixin.qq.com/s/mkaQb-aauxED1mH1fdYTMA" rel="noopener" target="_blank">模型压缩实践系列之——bert-of-theseus，一个非常亲民的bert压缩方法</a><br>
-
-<a href="https://mp.weixin.qq.com/s/PR_YrbbT8gnAx6A36D3_KQ" rel="noopener" target="_blank">模型压缩实践收尾篇——模型蒸馏以及其他一些技巧实践小结</a></p>
-
-<a href="https://mp.weixin.qq.com/s/H4at_BDLwZWqlBHLjMZWRQ" rel="noopener" target="_blank">一步步理解BERT</a><br>
-
 <a href="https://mp.weixin.qq.com/s/xvsc5RJ3CpiehoGsA-ml1g" rel="noopener" target="_blank">最新语言表示方法XLNet</a><br>
 
 <a href="https://mp.weixin.qq.com/s/z4jihwif7Jx7OQ76p7JgxQ" rel="noopener" target="_blank">深度剖析知识增强语义表示模型——ERNIE</a></p>
-
-<a href="https://mp.weixin.qq.com/s/t_VQ8-vNrgOoYz_cyVwhmQ" rel="noopener" target="_blank">NLP - 基于 BERT 的中文命名实体识别（NER)</a><br>
-
-<a href="https://mp.weixin.qq.com/s/imPro1LZvGJ44ezoDOL5Dw" rel="noopener" target="_blank">NLP - BERT/ERNIE 文本分类和部署</a></p>
-
-<a href="https://mp.weixin.qq.com/s/C5B4QO0fxWtBwA5iv3XzcA" rel="noopener" target="_blank">详解BERT阅读理解</a><br>
-
-<a href="https://mp.weixin.qq.com/s/zOcbvoq26hmlniU_k26hrQ" rel="noopener" target="_blank">简单高效的Bert中文文本分类模型开发和部署</a></p>
-
-<a href="https://mp.weixin.qq.com/s/q5OyrIycfN4fjQ33uSRmEA" target="_blank" rel="noopener">BERT相关论文、文章和代码资源汇总</a><br>
 
 <a href="https://mp.weixin.qq.com/s/IndeECchmX_GC8MzuWSVfg" rel="noopener" target="_blank">12个NLP预训练模型的学习笔记</a><br>
 
@@ -256,13 +256,6 @@
 
 <a href="https://mp.weixin.qq.com/s/_sTGvbCb7BlKDYQhPYX7eg" rel="noopener" target="_blank">【NLP】ALBERT粗读（李如同学）</a><br>
 
-<a href="https://mp.weixin.qq.com/s/u4k-A3dSb2-6PDodWPePhA" rel="noopener" target="_blank">BERT 的演进和应用</a><br>
-
-<a href="https://mp.weixin.qq.com/s/U_pYc5roODcs_VENDoTbiQ" rel="noopener" target="_blank">吴金龙博士的解读：BERT时代与后时代的NLP</a><br>
-
-<a href="https://mp.weixin.qq.com/s/V_-AHhUk5KLKm4LUfhf8vA" target="_blank" rel="noopener">谷歌BERT模型深度解析</a><br>
-
-<a href="https://mp.weixin.qq.com/s/HhW7PcFhrVWjWt1qNx-anQ" rel="noopener" target="_blank">BERT_Paper_Chinese_Translation: BERT论文中文翻译版</a><br>
 
 <a href="https://mp.weixin.qq.com/s/48y3gpPLs583Vv-QXpcnlQ" rel="noopener" target="_blank">【Github】BERT-train2deploy：BERT模型从训练到部署</a><br>
 
@@ -767,6 +760,16 @@ j
 
 [不要浪费没有标注的数据！超强文本半监督方法MixText来袭！](https://mp.weixin.qq.com/s/fVefi21_-_SDTXcyORZ6Xg)
 
+<p><strong>课程笔记</strong><br>
+
+[Hello NLP(1)——词向量Why&How](https://mp.weixin.qq.com/s/6_qiPZQvz6l5DN-73uyODg)
+
+[【Hello NLP】CS224n笔记[2]:Word2Vec算法推导&实现](https://mp.weixin.qq.com/s/ihagpeoUfyMRh3AJxB1gIQ)
+
+[【Hello NLP】CS224n学习笔记[3]:共现矩阵、SVD与GloVe词向量](https://mp.weixin.qq.com/s/kl6UlHGfMvoQhTt5ewb6Og)
+
+[【CS224N课程笔记】词向量II: GloVe, 评估和训练](https://mp.weixin.qq.com/s/QKbwHRICPNWcpr-o-55JIA)
+
 <p><strong>开源项目及资源</strong><br>
 
 [安利一个开源的好工具Label Studio, 闭环数据标注和模型训练](https://mp.weixin.qq.com/s/kWJZA0acOPi46c2_Gd9aeA)
@@ -867,7 +870,7 @@ j
 
 <a href="https://mp.weixin.qq.com/s/AmWuB7ZEs85QS8fL5T8rYA" rel="noopener" target="_blank">那些值得推荐和收藏的线性代数学习资源</a></p>
 
-[【CS224N课程笔记】词向量II: GloVe, 评估和训练](https://mp.weixin.qq.com/s/QKbwHRICPNWcpr-o-55JIA)
+
 
 <p><strong>其他相关文章</strong><br>
 
