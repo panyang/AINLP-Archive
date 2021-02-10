@@ -134,6 +134,8 @@
 
 [Transformer家族简史（PART II）](https://mp.weixin.qq.com/s/SPllU8IxvnqEK8Xud-1w-w)
 
+[AAAI21最佳论文Informer：效果远超Transformer的长序列预测神器！](https://mp.weixin.qq.com/s/3LhMRjbeaT0RmQ6VeSOCaw)
+
 <p><strong>BERT基础</strong></p>
 
 <a href="https://mp.weixin.qq.com/s/T3XjEir63GlasbXDPK2YUQ" rel="noopener" target="_blank">放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较</a><br>
@@ -323,6 +325,8 @@
 
 [深度学习文本分类｜模型&代码&技巧](https://mp.weixin.qq.com/s/8rF2VXeKMKMpBAOlgPep8A)
 
+[韩家炜课题组重磅发文：文本分类只需标签名称，不需要任何标注数据！](https://mp.weixin.qq.com/s/IKfcUvrJIfGaL0uxcxvg4g)
+
 <a href="https://mp.weixin.qq.com/s/jM99a3fFAfgZvSx8tQA4AA" rel="noopener" target="_blank">几个可作为Baseline的文本分类模型</a><br>
 
 <a href="https://mp.weixin.qq.com/s/Z40C_-PM62vpdaJXzcKatw" rel="noopener" target="_blank">清华THUNLP多标签分类论文笔记：基于类别属性的注意力机制解决标签不均衡和标签相似问题</a><br>
@@ -422,6 +426,8 @@
 [【ICLR2021】CoCon:一种自监督的可控文本生成方法](https://mp.weixin.qq.com/s/Iq3ziXr78TXga-5MS0fcjw)
 
 [超详细中文注释的GPT2新闻标题生成项目](https://mp.weixin.qq.com/s/KzSxN3QWSG-ha62s4K8Qwg)
+
+[Facebook大公开：解决NLG模型落地难题！工业界的新一波春天？](https://mp.weixin.qq.com/s/Z79dhxjo8l52UUYF6FIDdQ)
 
 <a href="https://mp.weixin.qq.com/s/PSZwJaY7j1ADnWU1X5qORw" rel="noopener" target="_blank">电脑也能写出连贯的文章吗?</a></p>
 
@@ -711,8 +717,7 @@ j
 
 [20->21：算法工程师的成长思考](https://mp.weixin.qq.com/s/SDyTWKMafmu-YtxXfJ0OLA)
 
-[那一年，让我整个人升华的C++ BERT项目](https://mp.weixin.qq.com/s/wAylygXnMP1kHGE-D7Vqng)
-
+[那一年，让我整个人升华的C++ BERT项目](https://mp.weixin.qq.com/s/emvQOJNMnf0QqsjcqD6M7w)
 
 <p><strong>实战经验分享</strong></p>
 
@@ -767,6 +772,8 @@ j
 [【Hello NLP】CS224n笔记[2]:Word2Vec算法推导&实现](https://mp.weixin.qq.com/s/ihagpeoUfyMRh3AJxB1gIQ)
 
 [【Hello NLP】CS224n学习笔记[3]:共现矩阵、SVD与GloVe词向量](https://mp.weixin.qq.com/s/kl6UlHGfMvoQhTt5ewb6Og)
+
+[【Hello NLP】CS224n笔记[4]:自然语言中的依存分析(Dependency Parsing)](https://mp.weixin.qq.com/s/CYDeyVlDuPdOaYDdC8e8ug)
 
 [【CS224N课程笔记】词向量II: GloVe, 评估和训练](https://mp.weixin.qq.com/s/QKbwHRICPNWcpr-o-55JIA)
 
