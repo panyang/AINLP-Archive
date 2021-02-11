@@ -122,6 +122,8 @@
 
 [机器学习竞赛必备基础知识Word2Vec](https://mp.weixin.qq.com/s/fdg2J3fi65EsCKEYBJ-Ajw)
 
+<a href="https://mp.weixin.qq.com/s/DvbvYppeuMaPn84SRAINcQ" rel="noopener" target="_blank">NLP中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert</a><br>
+
 <p><strong>深度学习基础</strong></p>
 
 [四万字全面详解 | 深度学习中的注意力机制（完结篇）](https://mp.weixin.qq.com/s/rWju_3bTAcTdWcP83AGtyA)
@@ -205,6 +207,7 @@
 
 [如何有效的降低BERT参数量](https://mp.weixin.qq.com/s/1R5R230jFtVXpaFMX9GyaQ)
 
+<a href="https://mp.weixin.qq.com/s/48y3gpPLs583Vv-QXpcnlQ" rel="noopener" target="_blank">【Github】BERT-train2deploy：BERT模型从训练到部署</a><br>
 
 <p><strong>BERT之外</strong></p>
 
@@ -258,12 +261,8 @@
 
 <a href="https://mp.weixin.qq.com/s/_sTGvbCb7BlKDYQhPYX7eg" rel="noopener" target="_blank">【NLP】ALBERT粗读（李如同学）</a><br>
 
-
-<a href="https://mp.weixin.qq.com/s/48y3gpPLs583Vv-QXpcnlQ" rel="noopener" target="_blank">【Github】BERT-train2deploy：BERT模型从训练到部署</a><br>
-
 <a href="https://mp.weixin.qq.com/s/j0sHyTTfgdtMX3eAen0umw" rel="noopener" target="_blank">BERT/注意力机制/Transformer/迁移学习NLP资源大列表：awesome-bert-nlp</a><br>
 
-<a href="https://mp.weixin.qq.com/s/DvbvYppeuMaPn84SRAINcQ" rel="noopener" target="_blank">NLP中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert</a><br>
 
 <a href="https://mp.weixin.qq.com/s/aXudh37BWRRz75BzqSTJ0w" rel="noopener" target="_blank">中文预训练ALBERT模型来了：小模型登顶GLUE，Base版模型小10倍速度快1倍</a><br>
 
