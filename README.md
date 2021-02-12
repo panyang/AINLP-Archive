@@ -680,7 +680,7 @@ j
 
 [入职半年小结 | 给应届校招算法同学的几点建议](https://mp.weixin.qq.com/s/0c8yCXJ7iciJSl_BF7NoIw)
 
-[2021算法阿里&腾讯&快手上岸，菜鸟小硕经验分享](https://mp.weixin.qq.com/s/i9s4gzWE-Y2UG2db9SmqUw
+[2021算法阿里&腾讯&快手上岸，菜鸟小硕经验分享](https://mp.weixin.qq.com/s/i9s4gzWE-Y2UG2db9SmqUw)
 
 [【NLP高频面试题】神经网络及其优化](https://mp.weixin.qq.com/s/WYaRV2rhARrMYz5hjR1jog)
 
