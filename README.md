@@ -194,6 +194,7 @@
 
 <a href="https://mp.weixin.qq.com/s/zOcbvoq26hmlniU_k26hrQ" rel="noopener" target="_blank">简单高效的Bert中文文本分类模型开发和部署</a></p>
 
+[当BERT遇上搜索引擎](https://mp.weixin.qq.com/s/9jOAdUIx3ZUnf-JaWN6rUg)
 
 <p><strong>BERT实战</strong></p>
 
@@ -472,6 +473,8 @@
 
 [推荐系统之推荐引擎](https://mp.weixin.qq.com/s/caguhLwKlwSjf1EdH6WQ_g)
 
+[推荐特征工程之特征抽取](https://mp.weixin.qq.com/s/4kIuk8ApkOUwoTk5hdguWg)
+
 <a href="https://mp.weixin.qq.com/s/B-6uslNc56VpB0fJRoPraw" rel="noopener" target="_blank">当我们谈论“推荐系统”时在谈论什么？</a><br>
 
 <a href="https://mp.weixin.qq.com/s/ys8qmUlUmGZfSYEChezENg" rel="noopener" target="_blank">推荐系统中的矩阵分解技术</a><br>
@@ -548,6 +551,8 @@
 
 [搜索系统中的召回](https://mp.weixin.qq.com/s/HpamEwjQHDjdAE9PEGFuqw)
 
+[搜索系统中的纠错问题](https://mp.weixin.qq.com/s/gpcv-lN6DvEvbFfSC25ODQ)
+
 [知乎搜索文本相关性与知识蒸馏](https://mp.weixin.qq.com/s/89rGFT1QNKKjkt9QKJGmyA)
 
 [知乎搜索排序模型的演进](https://mp.weixin.qq.com/s/zJ5LCwib3KFb5diNJ3IszA)
@@ -597,6 +602,8 @@ j
 [赛尔笔记 | 概念体系自动构建](https://mp.weixin.qq.com/s/ihYxmCSCNhO-i2-4q_I4fQ)
 
 [知识图谱补全技术](https://mp.weixin.qq.com/s/sTofodm-hBRBxn2D5e_wLA)
+
+[DGL-KE：亚马逊开源知识图谱嵌入库，亲测快到飞起](https://mp.weixin.qq.com/s/8SAJAUqfSPIbKK-NXAOO2w)
 
 <a href="https://mp.weixin.qq.com/s/3sJw1IwXfgntwar68EqEQg" rel="noopener" target="_blank">“原子”因果常识图谱</a><br>
 
