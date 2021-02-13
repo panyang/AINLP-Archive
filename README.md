@@ -188,6 +188,8 @@
 
 <a href="https://mp.weixin.qq.com/s/t_VQ8-vNrgOoYz_cyVwhmQ" rel="noopener" target="_blank">NLP - 基于 BERT 的中文命名实体识别（NER)</a><br>
 
+<a href="https://mp.weixin.qq.com/s/1rj8zGCp_SpyBCD-3PXjBw" rel="noopener" target="_blank">【Github】BERT-NER-Pytorch：三种不同模式的BERT中文NER实验</a></p>
+
 <a href="https://mp.weixin.qq.com/s/imPro1LZvGJ44ezoDOL5Dw" rel="noopener" target="_blank">NLP - BERT/ERNIE 文本分类和部署</a></p>
 
 <a href="https://mp.weixin.qq.com/s/C5B4QO0fxWtBwA5iv3XzcA" rel="noopener" target="_blank">详解BERT阅读理解</a><br>
@@ -197,6 +199,8 @@
 [当BERT遇上搜索引擎](https://mp.weixin.qq.com/s/9jOAdUIx3ZUnf-JaWN6rUg)
 
 <p><strong>BERT实战</strong></p>
+
+<a href="https://mp.weixin.qq.com/s/0rIXEX2NSmjNNA0PVRtmgQ" rel="noopener" target="_blank">最简单的BERT模型调用方法</a><br>
 
 <a href="https://mp.weixin.qq.com/s/K1R_thLJqegm6QDj2GA5ww" rel="noopener" target="_blank">模型压缩实践系列之——layer dropout</a><br>
 
@@ -264,7 +268,6 @@
 
 <a href="https://mp.weixin.qq.com/s/j0sHyTTfgdtMX3eAen0umw" rel="noopener" target="_blank">BERT/注意力机制/Transformer/迁移学习NLP资源大列表：awesome-bert-nlp</a><br>
 
-
 <a href="https://mp.weixin.qq.com/s/aXudh37BWRRz75BzqSTJ0w" rel="noopener" target="_blank">中文预训练ALBERT模型来了：小模型登顶GLUE，Base版模型小10倍速度快1倍</a><br>
 
 <a href="https://mp.weixin.qq.com/s/pXtPJiY5yYsaRVb2Jn-qZA" rel="noopener" target="_blank">超小型bert横空出世：训练和预测提速10倍</a><br>
@@ -275,9 +278,6 @@
 
 <a href="https://mp.weixin.qq.com/s/Lzsuo6fIBPkiOJ6BLCsRPA" rel="noopener" target="_blank">CLUECorpus2020：可能是史上最大的开源中文语料库以及高质量中文预训练模型集合</a><br>
 
-<a href="https://mp.weixin.qq.com/s/0rIXEX2NSmjNNA0PVRtmgQ" rel="noopener" target="_blank">最简单的BERT模型调用方法</a><br>
-
-<a href="https://mp.weixin.qq.com/s/1rj8zGCp_SpyBCD-3PXjBw" rel="noopener" target="_blank">【Github】BERT-NER-Pytorch：三种不同模式的BERT中文NER实验</a></p>
 
 [语言模型发展思路](https://mp.weixin.qq.com/s/v7YZ_Y2a_u2HfJx0sGqFOw)
 
