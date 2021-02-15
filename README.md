@@ -214,6 +214,8 @@
 
 <a href="https://mp.weixin.qq.com/s/48y3gpPLs583Vv-QXpcnlQ" rel="noopener" target="_blank">【Github】BERT-train2deploy：BERT模型从训练到部署</a><br>
 
+[【模型压缩系列】一：模型替换](https://mp.weixin.qq.com/s/cgF2kjHExdNvUIKf8g4_6A)
+
 <p><strong>BERT之外</strong></p>
 
 <a href="https://mp.weixin.qq.com/s/0pYFb2POAcV1AKTLJ7t1DA" rel="noopener" target="_blank">效果惊人的GPT 2.0模型：它告诉了我们什么</a><br>
@@ -278,7 +280,6 @@
 
 <a href="https://mp.weixin.qq.com/s/Lzsuo6fIBPkiOJ6BLCsRPA" rel="noopener" target="_blank">CLUECorpus2020：可能是史上最大的开源中文语料库以及高质量中文预训练模型集合</a><br>
 
-
 [语言模型发展思路](https://mp.weixin.qq.com/s/v7YZ_Y2a_u2HfJx0sGqFOw)
 
 [GPT-3的最强落地方式？陈丹琦提出小样本微调方法，比普通微调提升11%](https://mp.weixin.qq.com/s/nFuN2kwf-1JbgZflVrkf6w)
@@ -291,7 +292,6 @@
 
 [ICLR 2021 | 微软DeBERTa超越人类,造就SuperGLUE上的新王者](https://mp.weixin.qq.com/s/iAe9cQfpHqP5iIUB3sIz_Q)
 
-[【模型压缩系列】一：模型替换](https://mp.weixin.qq.com/s/cgF2kjHExdNvUIKf8g4_6A)
 
 <p><strong>中文分词</strong><br>
 
