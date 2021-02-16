@@ -292,6 +292,7 @@
 
 [ICLR 2021 | 微软DeBERTa超越人类,造就SuperGLUE上的新王者](https://mp.weixin.qq.com/s/iAe9cQfpHqP5iIUB3sIz_Q)
 
+[【微软力作】虚拟对抗训练：让预训练模型再次强大！](https://mp.weixin.qq.com/s/iTp8mdaDf9CyfFN4hcqcqw)
 
 <p><strong>中文分词</strong><br>
 
@@ -519,6 +520,8 @@
 
 [推荐实践(5)：Algo_base() 类的功能介绍](https://mp.weixin.qq.com/s/iwUTdvW_VxNO--CqSenCYw)
 
+[推荐实践(6)：accuracy()--surprise 支持哪些指标测量呢？](https://mp.weixin.qq.com/s/57nbnCEhpIdEMueLOlzPMQ)
+
 [支持多值带权重、稀疏、共享embedding权重的DSSM召回实现（tensorflow2）](https://mp.weixin.qq.com/s/Omdwr7bnFym09a5oNpd9uQ)
 
 [YouTube基于多任务学习的视频排序推荐系统](https://mp.weixin.qq.com/s/b5hRvFn-oJ5U91UQhlGN-w)
@@ -526,6 +529,8 @@
 [推荐系统产品概述](https://mp.weixin.qq.com/s/M_DglkdeBw6Gmj4bO2LjcA)
 
 [智能重排序在推荐场景中的应用](https://mp.weixin.qq.com/s/hC337cwbceLxq2kra8kzpw)
+
+[推荐系统解构](https://mp.weixin.qq.com/s/LO9KV7foJyVJRFPjIAT1Ew)
 
 <p><strong>计算广告/广告系统</strong></p>
 
@@ -542,6 +547,8 @@
 [曾今的CTR竞赛王者NFM](https://mp.weixin.qq.com/s/ANqpzEgIQONegsnrZAPSug)
 
 [计算广告OCPC实践(四) 如何从0开始建立ocpc业务](https://mp.weixin.qq.com/s/InOm3R4Rf5KtPYDiCj2kbw)
+
+[怎样将Embedding融入传统机器学习框架？](https://mp.weixin.qq.com/s/5hm290LfMK0n0ldxTXrwdw)
 
 <p><strong>搜索引擎/搜索系统</strong></p>
 
