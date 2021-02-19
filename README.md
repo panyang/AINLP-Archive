@@ -216,6 +216,8 @@
 
 [【模型压缩系列】一：模型替换](https://mp.weixin.qq.com/s/cgF2kjHExdNvUIKf8g4_6A)
 
+[模型压缩与蒸馏！BERT的忒修斯船](https://mp.weixin.qq.com/s/VZEm2m75HZSeez3n4hBZuw)
+
 <p><strong>BERT之外</strong></p>
 
 <a href="https://mp.weixin.qq.com/s/0pYFb2POAcV1AKTLJ7t1DA" rel="noopener" target="_blank">效果惊人的GPT 2.0模型：它告诉了我们什么</a><br>
@@ -424,6 +426,8 @@
 
 <p><strong>文本生成</strong></p>
 
+[文本生成魔改方案汇总！](https://mp.weixin.qq.com/s/lZyQTJV7svj9Kta3w6_waQ)
+
 [【ICLR2021】CoCon:一种自监督的可控文本生成方法](https://mp.weixin.qq.com/s/Iq3ziXr78TXga-5MS0fcjw)
 
 [超详细中文注释的GPT2新闻标题生成项目](https://mp.weixin.qq.com/s/KzSxN3QWSG-ha62s4K8Qwg)
@@ -532,6 +536,7 @@
 
 [推荐系统解构](https://mp.weixin.qq.com/s/LO9KV7foJyVJRFPjIAT1Ew)
 
+
 <p><strong>计算广告/广告系统</strong></p>
 
 [CTR学习笔记&代码实现1-深度学习的前奏LR->FFM](https://mp.weixin.qq.com/s/lphTXdbYOyomMU6O0CH2Pw)
@@ -549,6 +554,8 @@
 [计算广告OCPC实践(四) 如何从0开始建立ocpc业务](https://mp.weixin.qq.com/s/InOm3R4Rf5KtPYDiCj2kbw)
 
 [怎样将Embedding融入传统机器学习框架？](https://mp.weixin.qq.com/s/5hm290LfMK0n0ldxTXrwdw)
+
+[腾讯赛霸榜神技ONN_NFFM](https://mp.weixin.qq.com/s/CdI-akr2n1-sgQKe18XKqg)
 
 <p><strong>搜索引擎/搜索系统</strong></p>
 
@@ -953,6 +960,8 @@ j
 [Hulu在Content Embedding的探索与实践](https://mp.weixin.qq.com/s/4cfACWN1R2MIFrg8usOiHg)
 
 [测试集没标签，可以拿来测模型吗？](https://mp.weixin.qq.com/s/gJaU8-JsU9dYNqsj9rtFJg)
+
+[学好偏导竟能追到心仪的妹子](https://mp.weixin.qq.com/s/XzyudySeceDueTDM36Q2Wg)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
