@@ -136,6 +136,8 @@
 
 [Transformer家族简史（PART II）](https://mp.weixin.qq.com/s/SPllU8IxvnqEK8Xud-1w-w)
 
+[Transformer的一家！](https://mp.weixin.qq.com/s/Z2W66OziBkMhufNBvnKlGQ)
+
 [AAAI21最佳论文Informer：效果远超Transformer的长序列预测神器！](https://mp.weixin.qq.com/s/3LhMRjbeaT0RmQ6VeSOCaw)
 
 <p><strong>BERT基础</strong></p>
@@ -326,6 +328,8 @@
 
 <p><strong>文本分类/情感分析</strong><br>
 
+[一份最新的、全面的NLP文本分类综述](https://mp.weixin.qq.com/s/P0p1mEPZXuqtcSRsU5WdIA)
+
 [深度学习文本分类｜模型&代码&技巧](https://mp.weixin.qq.com/s/8rF2VXeKMKMpBAOlgPep8A)
 
 [韩家炜课题组重磅发文：文本分类只需标签名称，不需要任何标注数据！](https://mp.weixin.qq.com/s/IKfcUvrJIfGaL0uxcxvg4g)
@@ -479,6 +483,8 @@
 [推荐系统之推荐引擎](https://mp.weixin.qq.com/s/caguhLwKlwSjf1EdH6WQ_g)
 
 [推荐特征工程之特征抽取](https://mp.weixin.qq.com/s/4kIuk8ApkOUwoTk5hdguWg)
+
+[推荐粗排（召回）工程实践之双塔DNN模型](https://mp.weixin.qq.com/s/AVePXHWZW8AydyTrMN_TYg)
 
 <a href="https://mp.weixin.qq.com/s/B-6uslNc56VpB0fJRoPraw" rel="noopener" target="_blank">当我们谈论“推荐系统”时在谈论什么？</a><br>
 
@@ -735,6 +741,8 @@ j
 
 [浅谈NLP算法工程师的核心竞争力](https://mp.weixin.qq.com/s/PeEJiuZhOOlnAwx8iROLzQ)
 
+[以算法岗为例：我最想对入职前的自己说些什么？](https://mp.weixin.qq.com/s/70wXQIqAEeJScSzhKkJitw)
+
 [20->21：算法工程师的成长思考](https://mp.weixin.qq.com/s/SDyTWKMafmu-YtxXfJ0OLA)
 
 [那一年，让我整个人升华的C++ BERT项目](https://mp.weixin.qq.com/s/emvQOJNMnf0QqsjcqD6M7w)
@@ -752,6 +760,8 @@ j
 [算法工程师常说的【处理数据】究竟是在做什么](https://mp.weixin.qq.com/s/-1JBic6xQlRsfO6t8JiVVQ)
 
 [ML&DEV | bad case分析](https://mp.weixin.qq.com/s/USDKyZDtXDQZRL4GPsaTRw)
+
+[快速从无到有建模完成思路](https://mp.weixin.qq.com/s/LimJC6Hw7wEDB9FitBNMkA)
 
 <p><strong>系统架构</strong></p>
 
