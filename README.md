@@ -200,6 +200,8 @@
 
 [当BERT遇上搜索引擎](https://mp.weixin.qq.com/s/9jOAdUIx3ZUnf-JaWN6rUg)
 
+[跨界出圈 | 谈谈BERT跨模态预训练](https://mp.weixin.qq.com/s/KaZHAIbKzVcJM5ZQiULivA)
+
 <p><strong>BERT实战</strong></p>
 
 <a href="https://mp.weixin.qq.com/s/0rIXEX2NSmjNNA0PVRtmgQ" rel="noopener" target="_blank">最简单的BERT模型调用方法</a><br>
@@ -542,6 +544,7 @@
 
 [推荐系统解构](https://mp.weixin.qq.com/s/LO9KV7foJyVJRFPjIAT1Ew)
 
+[多目标学习(MMOE/ESMM/PLE)在推荐系统的实战经验分享](https://mp.weixin.qq.com/s/9deheqOevdGyqTPJH8l-ng)
 
 <p><strong>计算广告/广告系统</strong></p>
 
@@ -644,6 +647,8 @@ j
 [KDD20 | 基于差分变量去相关的稳定学习](https://mp.weixin.qq.com/s/3RMEzXK0Lz6Fk20JKn4tfg)
 
 [经验谈 | 边生万物：关于近期GNN进展的一点思考](https://mp.weixin.qq.com/s/LuX26esg-yP1qJP9fsmqHw)
+
+[图嵌入表示TADW：当DeepWalk加上外部文本信息](https://mp.weixin.qq.com/s/njg0jYc6SorTbD1S3P8MEA)
 
 <p><strong>强化学习</strong></p>
 
@@ -907,11 +912,17 @@ j
 
 <a href="https://mp.weixin.qq.com/s/AmWuB7ZEs85QS8fL5T8rYA" rel="noopener" target="_blank">那些值得推荐和收藏的线性代数学习资源</a></p>
 
-
-
 <p><strong>其他相关文章</strong><br>
 
+[自然语言处理领域的数据增广方法](https://mp.weixin.qq.com/s/gANDD_mr23cebClXm4Cn2w)
+
 [Meta Learning 1: 基于度量的方法](https://mp.weixin.qq.com/s/83Og49hh93GPr0CHHBUJPA)
+
+[元学习综述 | 进入Meta Learning的世界(一)](https://mp.weixin.qq.com/s/46nvCl5o4QYvRemzOrnaoQ)
+
+[AoAFFM:Attention+FFM强强组合](https://mp.weixin.qq.com/s/8SiPrDGlrDwP55U3muTJ-g)
+
+[我的第一篇论文诞生的故事](https://mp.weixin.qq.com/s/9AvA8FOEf91S7R_9QBzFwg)
 
 <a href="https://mp.weixin.qq.com/s/2pv59oAqzvMc6JoW-8Y5CQ" rel="noopener" target="_blank">神经网络佛系炼丹手册</a><br>
 
