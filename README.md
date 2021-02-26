@@ -328,6 +328,8 @@
 
 [Transformer为啥在NER上表现不好](https://mp.weixin.qq.com/s/FVPR_PkMcgygTr8LbyRPIw)
 
+[近期做NER的反思](https://mp.weixin.qq.com/s/1SqbhLVpP5ZMx58zX7As6Q)
+
 <p><strong>文本分类/情感分析</strong><br>
 
 [一份最新的、全面的NLP文本分类综述](https://mp.weixin.qq.com/s/P0p1mEPZXuqtcSRsU5WdIA)
@@ -488,6 +490,8 @@
 
 [推荐粗排（召回）工程实践之双塔DNN模型](https://mp.weixin.qq.com/s/AVePXHWZW8AydyTrMN_TYg)
 
+[推荐实践之召回算法梳理与优化思考](https://mp.weixin.qq.com/s/8aG20jIxKQrwMKMn39eN1Q)
+
 <a href="https://mp.weixin.qq.com/s/B-6uslNc56VpB0fJRoPraw" rel="noopener" target="_blank">当我们谈论“推荐系统”时在谈论什么？</a><br>
 
 <a href="https://mp.weixin.qq.com/s/ys8qmUlUmGZfSYEChezENg" rel="noopener" target="_blank">推荐系统中的矩阵分解技术</a><br>
@@ -534,6 +538,8 @@
 
 [推荐实践(6)：accuracy()--surprise 支持哪些指标测量呢？](https://mp.weixin.qq.com/s/57nbnCEhpIdEMueLOlzPMQ)
 
+[推荐实践(7)：trainset.Trainset() 通过调整数据集让代码更优雅](https://mp.weixin.qq.com/s/6mAIjbqkDJVqE8HwPhTBKQ)
+
 [支持多值带权重、稀疏、共享embedding权重的DSSM召回实现（tensorflow2）](https://mp.weixin.qq.com/s/Omdwr7bnFym09a5oNpd9uQ)
 
 [YouTube基于多任务学习的视频排序推荐系统](https://mp.weixin.qq.com/s/b5hRvFn-oJ5U91UQhlGN-w)
@@ -551,6 +557,8 @@
 [CTR学习笔记&代码实现1-深度学习的前奏LR->FFM](https://mp.weixin.qq.com/s/lphTXdbYOyomMU6O0CH2Pw)
 
 [CTR学习笔记&代码实现2-深度ctr模型 MLP->Wide&Deep](https://mp.weixin.qq.com/s/wJjg7BASLgdEZI4twBwUoQ)
+
+[CTR预估系列炼丹入门手册](https://mp.weixin.qq.com/s/TeI286JUS5oCD9u1nho9pA)
 
 [特征交互新路线|阿里 Co-action Network论文解读](https://mp.weixin.qq.com/s/KEnkwa3ZwnIKi8ZxsPOCaQ)
 
@@ -637,6 +645,8 @@ j
 <p><strong>图神经网络</strong></p>
 
 [图神经网络综述（一）](https://mp.weixin.qq.com/s/PSrgm7frsXIobSrlcoCWxw)
+
+[图神经网络综述（二）](https://mp.weixin.qq.com/s/VclMA4lGEB5e_-eRg9RJug)
 
 [万物皆可Graph | 当推荐系统遇上图神经网络](https://mp.weixin.qq.com/s/6li74AYwsw64DeYzaXzBug)
 
@@ -983,6 +993,10 @@ j
 [测试集没标签，可以拿来测模型吗？](https://mp.weixin.qq.com/s/gJaU8-JsU9dYNqsj9rtFJg)
 
 [学好偏导竟能追到心仪的妹子](https://mp.weixin.qq.com/s/XzyudySeceDueTDM36Q2Wg)
+
+[盘点高效的KNN实现算法](https://mp.weixin.qq.com/s/pStfyM9o8jnBz_mleecrJQ)
+
+[实话实说：中文自然语言处理的N个真实情况](https://mp.weixin.qq.com/s/vsnkFr11i4rde7ixBrsIfg)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
