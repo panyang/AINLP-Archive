@@ -492,6 +492,8 @@
 
 [推荐实践之召回算法梳理与优化思考](https://mp.weixin.qq.com/s/8aG20jIxKQrwMKMn39eN1Q)
 
+[推荐排序深度模型演进及特征与模型关系思考](https://mp.weixin.qq.com/s/EIvRji-0BZ7eIvm_9AbSFw)
+
 <a href="https://mp.weixin.qq.com/s/B-6uslNc56VpB0fJRoPraw" rel="noopener" target="_blank">当我们谈论“推荐系统”时在谈论什么？</a><br>
 
 <a href="https://mp.weixin.qq.com/s/ys8qmUlUmGZfSYEChezENg" rel="noopener" target="_blank">推荐系统中的矩阵分解技术</a><br>
@@ -610,6 +612,10 @@ j
 
 [刘知远老师的“灵魂发问”：关系抽取到底在乎什么？](https://mp.weixin.qq.com/s/azD5OKyTxYVVZM8eho4JXA)
 
+[关系抽取一步到位！](https://mp.weixin.qq.com/s/JxRuHRWFuvIRK40xTHOUBg)
+
+[实体关系抽取新范式！TPLinker：单阶段联合抽取，并解决暴漏偏差](https://mp.weixin.qq.com/s/Nk6ES4-FU05F3BUfEvTlsw)
+
 <p><strong>事件抽取</strong></p>
 
 [超全必读！事件抽取综述（上）](https://mp.weixin.qq.com/s/aQaVEk90_1Axz-67jh7S8Q)
@@ -641,6 +647,8 @@ j
 <a href="https://mp.weixin.qq.com/s/JUfARWjHQC_M7XctMud7Ig" rel="noopener" target="_blank">知识图谱存储与查询：自然语言记忆模块（NLM）</a><br>
 
 <a href="https://mp.weixin.qq.com/s/SZzJW-tOg-ZJE3jTmYHY7A" rel="noopener" target="_blank">知识图谱从哪里来：实体关系抽取的现状与未来</a></p>
+
+[知识图谱在小米的应用与探索](https://mp.weixin.qq.com/s/2qUcgylTKGXADk9IjHXrZQ)
 
 <p><strong>图神经网络</strong></p>
 
@@ -734,6 +742,10 @@ j
 
 <a href="https://mp.weixin.qq.com/s/D5egPoXs1gpJ65a6Y119qg" rel="noopener" target="_blank">EE转CS，拿了多个行业offer，最终选择NLP算法岗的同学的秋招总结</a><br>
 
+[算法岗通关宝典 | 社招一年经验，字节5轮、阿里7轮](https://mp.weixin.qq.com/s/CVOe4BegZ-SkGyNyA2b6zA)
+
+[算法岗通关宝典 | 社招一年经验，字节5轮、阿里7轮](https://mp.weixin.qq.com/s/CVOe4BegZ-SkGyNyA2b6zA)
+
 <a href="https://mp.weixin.qq.com/s/sWRY63_HoSeexL6TL-P9hw" rel="noopener" target="_blank">14种模式解决面试算法编程题（PART I）</a><br>
 
 <a href="https://mp.weixin.qq.com/s/YVma18tC642BuEIbHjWjzQ" rel="noopener" target="_blank">14种模式解决面试算法编程题（PART II）</a><br>
@@ -790,6 +802,8 @@ j
 
 [KDD'19| ConcepT 腾讯如何打造概念标签体系？](https://mp.weixin.qq.com/s/7X37ftyLVaZ3-W_JwznyJQ)
 
+[序列推荐的一些秘密HGN](https://mp.weixin.qq.com/s/qX19_51RWp0WdV2q5UWS6g)
+
 <a href="https://mp.weixin.qq.com/s/z6h9b63Dj5P7Wq-gVNwQog" rel="noopener" target="_blank">用腻了 CRF，试试 LAN 吧？</a><br>
 
 <a href="https://mp.weixin.qq.com/s/UI0QjUq7SsZpqV5xeoD0kg" rel="noopener" target="_blank">Meta-Learning：Learning to Learn and Applications</a><br>
@@ -819,6 +833,8 @@ j
 [【Hello NLP】CS224n学习笔记[3]:共现矩阵、SVD与GloVe词向量](https://mp.weixin.qq.com/s/kl6UlHGfMvoQhTt5ewb6Og)
 
 [【Hello NLP】CS224n笔记[4]:自然语言中的依存分析(Dependency Parsing)](https://mp.weixin.qq.com/s/CYDeyVlDuPdOaYDdC8e8ug)
+
+[【Hello NLP】CS224n笔记[5]:语言模型（LM）和循环神经网络（RNNs）](https://mp.weixin.qq.com/s/cg-gj0iJfHll_GLuf3Whjw)
 
 [【CS224N课程笔记】词向量II: GloVe, 评估和训练](https://mp.weixin.qq.com/s/QKbwHRICPNWcpr-o-55JIA)
 
@@ -997,6 +1013,8 @@ j
 [盘点高效的KNN实现算法](https://mp.weixin.qq.com/s/pStfyM9o8jnBz_mleecrJQ)
 
 [实话实说：中文自然语言处理的N个真实情况](https://mp.weixin.qq.com/s/vsnkFr11i4rde7ixBrsIfg)
+
+[7分钟搞懂逻辑回归的来龙去脉](https://mp.weixin.qq.com/s/PUKLow2sF0cfkIoiMtT_IA)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
