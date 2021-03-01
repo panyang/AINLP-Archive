@@ -310,6 +310,8 @@
 
 <a href="https://mp.weixin.qq.com/s/p35pGmMYqjRUWIEmZD1iVA" rel="noopener" target="_blank">简单有效的多标准中文分词</a></p>
 
+[通俗介绍什么是分词](https://mp.weixin.qq.com/s/O_iJiqGt3MBvHvWAYY9IWA)
+
 <p><strong>命名实体识别</strong><br>
 
 [打开你的脑洞：NER如何进行数据增强 ？](https://mp.weixin.qq.com/s/oY8UE9CrA9AjBJ1wlAJDJw)
@@ -329,6 +331,8 @@
 [Transformer为啥在NER上表现不好](https://mp.weixin.qq.com/s/FVPR_PkMcgygTr8LbyRPIw)
 
 [近期做NER的反思](https://mp.weixin.qq.com/s/1SqbhLVpP5ZMx58zX7As6Q)
+
+[ICLR2021 | 唯一录取的NER论文：NER数据存在漏标怎么办？](https://mp.weixin.qq.com/s/di5UX21j7-CAkirDxAaMPw)
 
 <p><strong>文本分类/情感分析</strong><br>
 
@@ -524,6 +528,8 @@
 
 [推荐多目标之自适应权重学习进阶](https://mp.weixin.qq.com/s/h58nn3-CQypCtqBV9wY85Q)
 
+[推荐系统之样本增强](https://mp.weixin.qq.com/s/06lr4F_quKheO3rhDfgz9A)
+
 [NLP+基于内容的推荐](https://mp.weixin.qq.com/s/UE_6ZkS9ENQP4iKTTWzwIA)
 
 [AAAI2021推荐系统论文清单](https://mp.weixin.qq.com/s/Z68OpRSAmMHHdxkMDD1v5g)
@@ -541,6 +547,8 @@
 [推荐实践(6)：accuracy()--surprise 支持哪些指标测量呢？](https://mp.weixin.qq.com/s/57nbnCEhpIdEMueLOlzPMQ)
 
 [推荐实践(7)：trainset.Trainset() 通过调整数据集让代码更优雅](https://mp.weixin.qq.com/s/6mAIjbqkDJVqE8HwPhTBKQ)
+
+[一篇长文学懂入门推荐算法库：surprise](https://mp.weixin.qq.com/s/-QB1QOKVpzw1-fbhGou6zg)
 
 [支持多值带权重、稀疏、共享embedding权重的DSSM召回实现（tensorflow2）](https://mp.weixin.qq.com/s/Omdwr7bnFym09a5oNpd9uQ)
 
@@ -561,6 +569,8 @@
 [CTR学习笔记&代码实现2-深度ctr模型 MLP->Wide&Deep](https://mp.weixin.qq.com/s/wJjg7BASLgdEZI4twBwUoQ)
 
 [CTR预估系列炼丹入门手册](https://mp.weixin.qq.com/s/TeI286JUS5oCD9u1nho9pA)
+
+[CTR神经网络特征交叉汇总！](https://mp.weixin.qq.com/s/nkArZKClfwLQs-hnbuVfkw)
 
 [特征交互新路线|阿里 Co-action Network论文解读](https://mp.weixin.qq.com/s/KEnkwa3ZwnIKi8ZxsPOCaQ)
 
@@ -836,7 +846,11 @@ j
 
 [【Hello NLP】CS224n笔记[5]:语言模型（LM）和循环神经网络（RNNs）](https://mp.weixin.qq.com/s/cg-gj0iJfHll_GLuf3Whjw)
 
+[CS224n笔记[6]:更好的我们，更好的RNNs](https://mp.weixin.qq.com/s/9aRto7i_JivHCniSxlVsxA)
+
 [【CS224N课程笔记】词向量II: GloVe, 评估和训练](https://mp.weixin.qq.com/s/QKbwHRICPNWcpr-o-55JIA)
+
+[CS224N学习小结](https://mp.weixin.qq.com/s/LOBGHoyyb1M2Asw-_qZ8Ig)
 
 <p><strong>开源项目及资源</strong><br>
 
@@ -938,6 +952,8 @@ j
 
 <a href="https://mp.weixin.qq.com/s/AmWuB7ZEs85QS8fL5T8rYA" rel="noopener" target="_blank">那些值得推荐和收藏的线性代数学习资源</a></p>
 
+[斯坦福大学——人工智能本科4年课程清单](https://mp.weixin.qq.com/s/85SklnFGY6MPlr490ZV3Tw)
+
 <p><strong>其他相关文章</strong><br>
 
 [自然语言处理领域的数据增广方法](https://mp.weixin.qq.com/s/gANDD_mr23cebClXm4Cn2w)
@@ -1015,6 +1031,8 @@ j
 [实话实说：中文自然语言处理的N个真实情况](https://mp.weixin.qq.com/s/vsnkFr11i4rde7ixBrsIfg)
 
 [7分钟搞懂逻辑回归的来龙去脉](https://mp.weixin.qq.com/s/PUKLow2sF0cfkIoiMtT_IA)
+
+[数据分析的价值](https://mp.weixin.qq.com/s/HjsOCQypEbkxcKgWMq7xyg)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
