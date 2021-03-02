@@ -124,7 +124,7 @@
 
 <a href="https://mp.weixin.qq.com/s/DvbvYppeuMaPn84SRAINcQ" rel="noopener" target="_blank">NLP中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert</a><br>
 
-<p><strong>深度学习基础</strong></p>
+<p><strong>BERT基础</strong></p>
 
 [四万字全面详解 | 深度学习中的注意力机制（完结篇）](https://mp.weixin.qq.com/s/rWju_3bTAcTdWcP83AGtyA)
 
@@ -139,8 +139,6 @@
 [Transformer的一家！](https://mp.weixin.qq.com/s/Z2W66OziBkMhufNBvnKlGQ)
 
 [AAAI21最佳论文Informer：效果远超Transformer的长序列预测神器！](https://mp.weixin.qq.com/s/3LhMRjbeaT0RmQ6VeSOCaw)
-
-<p><strong>BERT基础</strong></p>
 
 <a href="https://mp.weixin.qq.com/s/T3XjEir63GlasbXDPK2YUQ" rel="noopener" target="_blank">放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较</a><br>
 
