@@ -64,8 +64,6 @@
 
 <a href="https://mp.weixin.qq.com/s/pd_BcCG2DjtlgFsym8PwXw" rel="noopener" target="_blank">斯坦福大学NLP组Python深度学习自然语言处理工具Stanza试用</a><br>
 
-<a href="https://mp.weixin.qq.com/s/gU9BkXzV35_2walQ5ndB_w" rel="noopener" target="_blank">中文命名实体识别工具（NER）哪家强？</a></p>
-
 <p><strong>腾讯词向量和相似词、相似度、词语游戏系列</strong><br>
 
 <a href="https://mp.weixin.qq.com/s/UwPwW8JzWVQrVwbPy9321g" target="_blank" rel="noopener">相似词查询：玩转腾讯 AI Lab 中文词向量</a><br>
@@ -186,7 +184,6 @@
 
 <a href="https://mp.weixin.qq.com/s/3b_2VbehBOYsnKCBSEio4w" rel="noopener" target="_blank">Bert 改进： 如何融入知识</a><br>
 
-<a href="https://mp.weixin.qq.com/s/t_VQ8-vNrgOoYz_cyVwhmQ" rel="noopener" target="_blank">NLP - 基于 BERT 的中文命名实体识别（NER)</a><br>
 
 <a href="https://mp.weixin.qq.com/s/1rj8zGCp_SpyBCD-3PXjBw" rel="noopener" target="_blank">【Github】BERT-NER-Pytorch：三种不同模式的BERT中文NER实验</a></p>
 
@@ -298,6 +295,8 @@
 
 [【微软力作】虚拟对抗训练：让预训练模型再次强大！](https://mp.weixin.qq.com/s/iTp8mdaDf9CyfFN4hcqcqw)
 
+[T5: 文本到文本的Transformer迁移学习](https://mp.weixin.qq.com/s/ON5VNF2ofDEK09pn_YkrkQ)
+
 <p><strong>中文分词</strong><br>
 
 <a href="https://mp.weixin.qq.com/s/uATfclTlXqAnkp4ep8ZRMQ" target="_blank" rel="noopener">中文分词文章索引和分词数据资源分享</a><br>
@@ -311,6 +310,10 @@
 [通俗介绍什么是分词](https://mp.weixin.qq.com/s/O_iJiqGt3MBvHvWAYY9IWA)
 
 <p><strong>命名实体识别</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/gU9BkXzV35_2walQ5ndB_w" rel="noopener" target="_blank">中文命名实体识别工具（NER）哪家强？</a></p>
+
+<a href="https://mp.weixin.qq.com/s/t_VQ8-vNrgOoYz_cyVwhmQ" rel="noopener" target="_blank">NLP - 基于 BERT 的中文命名实体识别（NER)</a><br>
 
 [打开你的脑洞：NER如何进行数据增强 ？](https://mp.weixin.qq.com/s/oY8UE9CrA9AjBJ1wlAJDJw)
 
@@ -329,6 +332,8 @@
 [Transformer为啥在NER上表现不好](https://mp.weixin.qq.com/s/FVPR_PkMcgygTr8LbyRPIw)
 
 [近期做NER的反思](https://mp.weixin.qq.com/s/1SqbhLVpP5ZMx58zX7As6Q)
+
+[ner自动化打标方法](https://mp.weixin.qq.com/s/lCY6VLHvLdG6eJMcHh0ahw)
 
 [ICLR2021 | 唯一录取的NER论文：NER数据存在漏标怎么办？](https://mp.weixin.qq.com/s/di5UX21j7-CAkirDxAaMPw)
 
@@ -393,6 +398,8 @@
 <p><strong>问答系统/对话系统/聊天机器人</strong><br>
 
 <a href="https://mp.weixin.qq.com/s/qUxPgsgP-4XFmVMMzLH5Ow" rel="noopener" target="_blank">生成式对话seq2seq：从rnn到transformer</a><br>
+
+[构建任务型多轮对话助理的 6 大阶段](https://mp.weixin.qq.com/s/RYTI4quzh_xh3-H4anvFjg)
 
 <a href="https://mp.weixin.qq.com/s/1P9Ow0vqoMJ9PsgoigaEig" rel="noopener" target="_blank">QA问答系统中的深度学习技术实现</a><br>
 
@@ -467,12 +474,16 @@
 
 <a href="https://mp.weixin.qq.com/s/yILXP7EJFC_ST75mrhi8ng" rel="noopener" target="_blank">机器翻译中的强化学习：优点、缺点以及不足</a></p>
 
+[赛尔笔记 | 篇章级机器翻译简介](https://mp.weixin.qq.com/s/2-5F6HDRGhfbVJn_T1oCfg)
+
 <p><strong>自然语言推理</strong></p>
 [迈向NLP大师 | 自然语言推理入门](https://mp.weixin.qq.com/s/dkuI479XEOEoMkiFWxABsQ)
 
 <p><strong>推荐算法/推荐系统</strong></p>
 
 [当推荐系统遇见知识图谱](https://mp.weixin.qq.com/s/25rsWBNbTSQTJZzS-Op-kQ)
+
+[深度融合 | 当推荐系统遇上知识图谱（二）](https://mp.weixin.qq.com/s/6E8IESy0PRK0vO-qMPjFqQ)
 
 [FM：推荐算法中的瑞士军刀](https://mp.weixin.qq.com/s/mdxZm5YDcWlmbKmQDEjPgg)
 
@@ -782,6 +793,8 @@ j
 
 [那一年，让我整个人升华的C++ BERT项目](https://mp.weixin.qq.com/s/emvQOJNMnf0QqsjcqD6M7w)
 
+[[杂谈] 算法工程师们到底在干什么？](https://mp.weixin.qq.com/s/LvJCnz7Aivif3HTvb5iMyg)
+
 <p><strong>实战经验分享</strong></p>
 
 [模型debug实战| Ng算法诊断理论的应用](https://mp.weixin.qq.com/s/DxoVXIuHsy07HCHlHtQZ5Q)
@@ -832,6 +845,8 @@ j
 
 [不要浪费没有标注的数据！超强文本半监督方法MixText来袭！](https://mp.weixin.qq.com/s/fVefi21_-_SDTXcyORZ6Xg)
 
+[顶会集结+深度解析：医疗+AI如此火爆，NLP如何赋能？](https://mp.weixin.qq.com/s/09NwAGLAlcrKs9-tOC7pdA)
+
 <p><strong>课程笔记</strong><br>
 
 [Hello NLP(1)——词向量Why&How](https://mp.weixin.qq.com/s/6_qiPZQvz6l5DN-73uyODg)
@@ -843,6 +858,8 @@ j
 [【Hello NLP】CS224n笔记[4]:自然语言中的依存分析(Dependency Parsing)](https://mp.weixin.qq.com/s/CYDeyVlDuPdOaYDdC8e8ug)
 
 [【Hello NLP】CS224n笔记[5]:语言模型（LM）和循环神经网络（RNNs）](https://mp.weixin.qq.com/s/cg-gj0iJfHll_GLuf3Whjw)
+
+[【Hello NLP】CS224n笔记[7]:机器翻译和seq2seq](https://mp.weixin.qq.com/s/Wdj_GW8xbBQZN2UCl8O3fQ)
 
 [CS224n笔记[6]:更好的我们，更好的RNNs](https://mp.weixin.qq.com/s/9aRto7i_JivHCniSxlVsxA)
 
