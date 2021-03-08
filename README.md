@@ -483,6 +483,7 @@
 [赛尔笔记 | 篇章级机器翻译简介](https://mp.weixin.qq.com/s/2-5F6HDRGhfbVJn_T1oCfg)
 
 <p><strong>自然语言推理</strong></p>
+
 [迈向NLP大师 | 自然语言推理入门](https://mp.weixin.qq.com/s/dkuI479XEOEoMkiFWxABsQ)
 
 <p><strong>推荐算法/推荐系统</strong></p>
@@ -638,7 +639,7 @@
 <a href="https://mp.weixin.qq.com/s/m7XhqvqIqmRzA6FZLew5pA" rel="noopener" target="_blank">【论文】Awesome Relation Extraction Paper（关系抽取）（PART III</a>）<br>
 
 <a href="https://mp.weixin.qq.com/s/8rcZkwhj8vZrGSda2OKMDQ" rel="noopener" target="_blank">【论文】Awesome Relation Extraction Paper（关系抽取）（PART IV）</a><br>
-j
+
 <a href="https://mp.weixin.qq.com/s/pLxrevn-77nTcYgcghJHeA" rel="noopener" target="_blank">【论文】Awesome Relation Extraction Paper（关系抽取）（PART V）</a></p>
 
 [刘知远老师的“灵魂发问”：关系抽取到底在乎什么？](https://mp.weixin.qq.com/s/azD5OKyTxYVVZM8eho4JXA)
