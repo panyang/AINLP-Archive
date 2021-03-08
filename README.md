@@ -441,6 +441,8 @@
 
 [EMNLP 2020 | 大道至简，后浪选手DPR暴打前浪BM25](https://mp.weixin.qq.com/s/UywD4imkRFlqKSDwBPwV0w)
 
+[达摩院Conversational AI研究进展及应用](https://mp.weixin.qq.com/s/hdus6c1h8TTqPfpfS-v0Ug)
+
 <p><strong>文本生成</strong></p>
 
 [文本生成魔改方案汇总！](https://mp.weixin.qq.com/s/lZyQTJV7svj9Kta3w6_waQ)
@@ -507,6 +509,8 @@
 
 [推荐排序深度模型演进及特征与模型关系思考](https://mp.weixin.qq.com/s/EIvRji-0BZ7eIvm_9AbSFw)
 
+[推荐系统之标签修正](https://mp.weixin.qq.com/s/z6cck-sWwhhyJFjOYXRiww)
+
 <a href="https://mp.weixin.qq.com/s/B-6uslNc56VpB0fJRoPraw" rel="noopener" target="_blank">当我们谈论“推荐系统”时在谈论什么？</a><br>
 
 <a href="https://mp.weixin.qq.com/s/ys8qmUlUmGZfSYEChezENg" rel="noopener" target="_blank">推荐系统中的矩阵分解技术</a><br>
@@ -570,6 +574,8 @@
 [推荐系统解构](https://mp.weixin.qq.com/s/LO9KV7foJyVJRFPjIAT1Ew)
 
 [多目标学习(MMOE/ESMM/PLE)在推荐系统的实战经验分享](https://mp.weixin.qq.com/s/9deheqOevdGyqTPJH8l-ng)
+
+[是不是你的模型又线下线上不一致啦？](https://mp.weixin.qq.com/s/LCnB8e7AujZK61LtslyXew)
 
 <p><strong>计算广告/广告系统</strong></p>
 
@@ -774,6 +780,8 @@ j
 <a href="https://mp.weixin.qq.com/s/c3Pgaz3wgjDdm15Zyd3_FQ" rel="noopener" target="_blank">【Github】NLPer-Interview: NLP 算法工程师相关的面试题</a><br>
 
 <a href="https://mp.weixin.qq.com/s/k8JsOWT5mnEeLET10DPE1g" rel="noopener" target="_blank">【Github】ML-NLP：机器学习、NLP面试中常考到的知识点和代码实现</a></p>
+
+[2021校招算法面试锦囊｜华为、网易游戏](https://mp.weixin.qq.com/s/aKQkkIRsfnbCAUiOMOvvfw)
 
 <p><strong>算法工程师之路</strong></p>
 
