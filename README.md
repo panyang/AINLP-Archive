@@ -335,7 +335,11 @@
 
 [ner自动化打标方法](https://mp.weixin.qq.com/s/lCY6VLHvLdG6eJMcHh0ahw)
 
+[2018年的一篇NER综述笔记](https://mp.weixin.qq.com/s/lgpSZS0iP5BUvC-5J9fOfw)
+
 [ICLR2021 | 唯一录取的NER论文：NER数据存在漏标怎么办？](https://mp.weixin.qq.com/s/di5UX21j7-CAkirDxAaMPw)
+
+[微软+韩家炜课题组的全面调研：NER标注数据少，怎么办？](https://mp.weixin.qq.com/s/F4hWk0alOdPtMRpdtFarJA)
 
 <p><strong>文本分类/情感分析</strong><br>
 
@@ -576,6 +580,8 @@
 [多目标学习(MMOE/ESMM/PLE)在推荐系统的实战经验分享](https://mp.weixin.qq.com/s/9deheqOevdGyqTPJH8l-ng)
 
 [是不是你的模型又线下线上不一致啦？](https://mp.weixin.qq.com/s/LCnB8e7AujZK61LtslyXew)
+
+[深入理解推荐系统：十大序列化推荐算法梳理](https://mp.weixin.qq.com/s/PvXPD_EYNxA14tt-uNoOgA)
 
 <p><strong>计算广告/广告系统</strong></p>
 
@@ -1056,6 +1062,8 @@ j
 [7分钟搞懂逻辑回归的来龙去脉](https://mp.weixin.qq.com/s/PUKLow2sF0cfkIoiMtT_IA)
 
 [数据分析的价值](https://mp.weixin.qq.com/s/HjsOCQypEbkxcKgWMq7xyg)
+
+[【Git】从“用”到“懂”](https://mp.weixin.qq.com/s/AWDOftIPCoFzJFSkln3W2g)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
