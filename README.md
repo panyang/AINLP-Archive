@@ -116,6 +116,10 @@
 
 <a href="https://mp.weixin.qq.com/s/lofYSXsgsFNSEqFyKaWhJA" rel="noopener" target="_blank">来，试试彩虹屁生成器</a></p>
 
+<p><strong>深度学习基础</strong></p>
+
+[再谈 L2：与 Weight Decay 还有 Batch Norm 不说其实也可以的故事](https://mp.weixin.qq.com/s/2FW6rqTxcil88fona9_U7g)
+
 <p><strong>词向量</strong></p>
 
 [机器学习竞赛必备基础知识Word2Vec](https://mp.weixin.qq.com/s/fdg2J3fi65EsCKEYBJ-Ajw)
@@ -214,6 +218,8 @@
 <a href="https://mp.weixin.qq.com/s/48y3gpPLs583Vv-QXpcnlQ" rel="noopener" target="_blank">【Github】BERT-train2deploy：BERT模型从训练到部署</a><br>
 
 [【模型压缩系列】一：模型替换](https://mp.weixin.qq.com/s/cgF2kjHExdNvUIKf8g4_6A)
+
+[【模型压缩系列】二：模型蒸馏](https://mp.weixin.qq.com/s/RfskaPnFh5C-6tTwgCXpOg)
 
 [模型压缩与蒸馏！BERT的忒修斯船](https://mp.weixin.qq.com/s/VZEm2m75HZSeez3n4hBZuw)
 
@@ -516,6 +522,8 @@
 
 [推荐系统之标签修正](https://mp.weixin.qq.com/s/z6cck-sWwhhyJFjOYXRiww)
 
+[推荐系统之样本加权](https://mp.weixin.qq.com/s/NeVOtgqVnDoUvwAPEd2XoQ)
+
 <a href="https://mp.weixin.qq.com/s/B-6uslNc56VpB0fJRoPraw" rel="noopener" target="_blank">当我们谈论“推荐系统”时在谈论什么？</a><br>
 
 <a href="https://mp.weixin.qq.com/s/ys8qmUlUmGZfSYEChezENg" rel="noopener" target="_blank">推荐系统中的矩阵分解技术</a><br>
@@ -789,6 +797,8 @@
 <a href="https://mp.weixin.qq.com/s/k8JsOWT5mnEeLET10DPE1g" rel="noopener" target="_blank">【Github】ML-NLP：机器学习、NLP面试中常考到的知识点和代码实现</a></p>
 
 [2021校招算法面试锦囊｜华为、网易游戏](https://mp.weixin.qq.com/s/aKQkkIRsfnbCAUiOMOvvfw)
+
+[劝退文｜听说你要转AI](https://mp.weixin.qq.com/s/HdYdBFZKPsxYy1VxAQ6jxQ)
 
 <p><strong>算法工程师之路</strong></p>
 
@@ -1065,6 +1075,8 @@
 [数据分析的价值](https://mp.weixin.qq.com/s/HjsOCQypEbkxcKgWMq7xyg)
 
 [【Git】从“用”到“懂”](https://mp.weixin.qq.com/s/AWDOftIPCoFzJFSkln3W2g)
+
+[https://mp.weixin.qq.com/s/Zl4I5kqbyiElSMseLBh6pA](https://mp.weixin.qq.com/s/Zl4I5kqbyiElSMseLBh6pA)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
