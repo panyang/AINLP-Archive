@@ -223,6 +223,8 @@
 
 [模型压缩与蒸馏！BERT的忒修斯船](https://mp.weixin.qq.com/s/VZEm2m75HZSeez3n4hBZuw)
 
+[深度学习中的知识蒸馏技术（上）](https://mp.weixin.qq.com/s/pth5nb1Q4SpO-iAhjmgfcA)
+
 <p><strong>BERT之外</strong></p>
 
 <a href="https://mp.weixin.qq.com/s/0pYFb2POAcV1AKTLJ7t1DA" rel="noopener" target="_blank">效果惊人的GPT 2.0模型：它告诉了我们什么</a><br>
@@ -592,6 +594,8 @@
 
 [深入理解推荐系统：十大序列化推荐算法梳理](https://mp.weixin.qq.com/s/PvXPD_EYNxA14tt-uNoOgA)
 
+[多目标排序在快手短视频推荐中的实践](https://mp.weixin.qq.com/s/2ZaQkTsFEt3WEzEVxmYYFQ)
+
 <p><strong>计算广告/广告系统</strong></p>
 
 [CTR学习笔记&代码实现1-深度学习的前奏LR->FFM](https://mp.weixin.qq.com/s/lphTXdbYOyomMU6O0CH2Pw)
@@ -625,6 +629,8 @@
 [搜索系统中的召回](https://mp.weixin.qq.com/s/HpamEwjQHDjdAE9PEGFuqw)
 
 [搜索系统中的纠错问题](https://mp.weixin.qq.com/s/gpcv-lN6DvEvbFfSC25ODQ)
+
+[浅谈Query理解和分析](https://mp.weixin.qq.com/s/jqBgIHhR4EuH1-VNN8H-ow)
 
 [知乎搜索文本相关性与知识蒸馏](https://mp.weixin.qq.com/s/89rGFT1QNKKjkt9QKJGmyA)
 
@@ -1076,7 +1082,9 @@
 
 [【Git】从“用”到“懂”](https://mp.weixin.qq.com/s/AWDOftIPCoFzJFSkln3W2g)
 
-[https://mp.weixin.qq.com/s/Zl4I5kqbyiElSMseLBh6pA](https://mp.weixin.qq.com/s/Zl4I5kqbyiElSMseLBh6pA)
+[“神奇的”标签增强技术（Label Enhancement）](https://mp.weixin.qq.com/s/Zl4I5kqbyiElSMseLBh6pA)
+
+[有关 AI 伦理，我们可以读一读这几本书](https://mp.weixin.qq.com/s/joWVFpmNmis-g0XxgoxjBg)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
