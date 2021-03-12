@@ -379,6 +379,8 @@
 
 [LCM：缓解标签不独立+噪声标签问题](https://mp.weixin.qq.com/s/HJvy2Q9DNHLf1fKUJvhf2w)
 
+[用模型“想象”出来的target来训练，可以提高分类的效果！](https://mp.weixin.qq.com/s/Fdeko4ZJLW6773u2ycdOWQ)
+
 <p><strong>文本摘要</strong><br>
 
 <a href="https://mp.weixin.qq.com/s/tCRYxCWyduhY9GDiTDzmgA" rel="noopener" target="_blank">抛开模型，探究文本自动摘要的本质——ACL2019 论文佳作研读系列</a><br>
@@ -498,6 +500,8 @@
 
 [当推荐系统遇见知识图谱](https://mp.weixin.qq.com/s/25rsWBNbTSQTJZzS-Op-kQ)
 
+[Attention！当推荐系统遇见注意力机制](https://mp.weixin.qq.com/s/A1LSj5OH8caaAWsi6ja2Iw)
+
 [深度融合 | 当推荐系统遇上知识图谱（二）](https://mp.weixin.qq.com/s/6E8IESy0PRK0vO-qMPjFqQ)
 
 [FM：推荐算法中的瑞士军刀](https://mp.weixin.qq.com/s/mdxZm5YDcWlmbKmQDEjPgg)
@@ -597,6 +601,8 @@
 [多目标排序在快手短视频推荐中的实践](https://mp.weixin.qq.com/s/2ZaQkTsFEt3WEzEVxmYYFQ)
 
 <p><strong>计算广告/广告系统</strong></p>
+
+[计算广告之在线广告市场和背景](https://mp.weixin.qq.com/s/TKXN1ejw6mmQNBBRI6Ideg)
 
 [CTR学习笔记&代码实现1-深度学习的前奏LR->FFM](https://mp.weixin.qq.com/s/lphTXdbYOyomMU6O0CH2Pw)
 
@@ -719,6 +725,8 @@
 [解读TRPO论文，深度强化学习结合传统优化方法](https://mp.weixin.qq.com/s/09JCUUhsXKhvYGfXT2gDLg)
 
 <p><strong>多任务学习</strong></p>
+
+[2021年浅谈多任务学习](https://mp.weixin.qq.com/s/2I9iPFP_BkSjSEm7xJiHPQ)
 
 [Multi-Task 多任务学习， 那些你不知道的事](https://mp.weixin.qq.com/s/MOSMR3Ue9i3jYklPRvmWwA)
 
@@ -1006,6 +1014,8 @@
 
 [Meta Learning 1: 基于度量的方法](https://mp.weixin.qq.com/s/83Og49hh93GPr0CHHBUJPA)
 
+[Meta Learning 2: 更多基于度量的方法](https://mp.weixin.qq.com/s/DavUZWyq2GxJUmDhpg9yxw)
+
 [元学习综述 | 进入Meta Learning的世界(一)](https://mp.weixin.qq.com/s/46nvCl5o4QYvRemzOrnaoQ)
 
 [AoAFFM:Attention+FFM强强组合](https://mp.weixin.qq.com/s/8SiPrDGlrDwP55U3muTJ-g)
@@ -1085,6 +1095,12 @@
 [“神奇的”标签增强技术（Label Enhancement）](https://mp.weixin.qq.com/s/Zl4I5kqbyiElSMseLBh6pA)
 
 [有关 AI 伦理，我们可以读一读这几本书](https://mp.weixin.qq.com/s/joWVFpmNmis-g0XxgoxjBg)
+
+[样本混进了噪声怎么办？通过Loss分布把它们揪出来！](https://mp.weixin.qq.com/s/FHgMTA8Axl7DYE1Pr4w62Q)
+
+[炼丹师最强危机，谷歌开源最强AutoML工具！](https://mp.weixin.qq.com/s/qSkEFA67SKyWQ4axdAQI6w)
+
+[三十多岁就别转行做算法了](https://mp.weixin.qq.com/s/f8j8gpq_WMKOZI5kwFb2EA)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
