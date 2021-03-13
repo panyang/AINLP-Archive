@@ -46,23 +46,6 @@
 
 [2021年NLP入门书籍推荐｜理论&实战](https://mp.weixin.qq.com/s/zHTvH6JMSeDa-6k82tsaJg)
 
-<p><strong>NLP相关工具及在线测试（公众号对话测试）</strong><br>
-
-<a href="https://mp.weixin.qq.com/s/Sy2hukGVk-7QQY_YNQ10kw" target="_blank" rel="noopener">五款中文分词工具在线PK: Jieba, SnowNLP, PkuSeg, THULAC, HanLP</a><br>
-
-<a href="https://mp.weixin.qq.com/s/YvpVumIdBDA9vBjGeLoPZA" target="_blank" rel="noopener">中文分词工具在线PK新增：FoolNLTK、LTP、StanfordCoreNLP</a><br>
-
-<a href="https://mp.weixin.qq.com/s/rFCBnExyZVHI-SwrSj7pmA" target="_blank" rel="noopener">Python中文分词工具大合集：安装、使用和测试</a><br>
-
-<a href="https://mp.weixin.qq.com/s/LwtQVg9p_VBzwA_2uvX8GA" target="_blank" rel="noopener">八款中文词性标注工具使用及在线测试</a><br>
-
-<a href="https://mp.weixin.qq.com/s/pOGdatZK5Z7uxmveHAX4_Q" target="_blank" rel="noopener">百度深度学习中文词法分析工具LAC试用之旅</a><br>
-
-<a href="https://mp.weixin.qq.com/s/Vj0IKHWD_aXto8NE8alz8g" target="_blank" rel="noopener">来，试试百度的深度学习情感分析工具</a><br>
-
-<a href="https://mp.weixin.qq.com/s/2y-TshJqNHW5ixzjbtdekg" target="_blank" rel="noopener">AINLP公众号新增SnowNLP情感分析模块</a><br>
-
-<a href="https://mp.weixin.qq.com/s/pd_BcCG2DjtlgFsym8PwXw" rel="noopener" target="_blank">斯坦福大学NLP组Python深度学习自然语言处理工具Stanza试用</a><br>
 
 <p><strong>腾讯词向量和相似词、相似度、词语游戏系列</strong><br>
 
@@ -305,7 +288,17 @@
 
 [T5: 文本到文本的Transformer迁移学习](https://mp.weixin.qq.com/s/ON5VNF2ofDEK09pn_YkrkQ)
 
-<p><strong>中文分词</strong><br>
+<p><strong>中文分词/词性标注</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/Sy2hukGVk-7QQY_YNQ10kw" target="_blank" rel="noopener">五款中文分词工具在线PK: Jieba, SnowNLP, PkuSeg, THULAC, HanLP</a><br>
+
+<a href="https://mp.weixin.qq.com/s/YvpVumIdBDA9vBjGeLoPZA" target="_blank" rel="noopener">中文分词工具在线PK新增：FoolNLTK、LTP、StanfordCoreNLP</a><br>
+
+<a href="https://mp.weixin.qq.com/s/rFCBnExyZVHI-SwrSj7pmA" target="_blank" rel="noopener">Python中文分词工具大合集：安装、使用和测试</a><br>
+
+<a href="https://mp.weixin.qq.com/s/LwtQVg9p_VBzwA_2uvX8GA" target="_blank" rel="noopener">八款中文词性标注工具使用及在线测试</a><br>
+
+<a href="https://mp.weixin.qq.com/s/pOGdatZK5Z7uxmveHAX4_Q" target="_blank" rel="noopener">百度深度学习中文词法分析工具LAC试用之旅</a><br>
 
 <a href="https://mp.weixin.qq.com/s/uATfclTlXqAnkp4ep8ZRMQ" target="_blank" rel="noopener">中文分词文章索引和分词数据资源分享</a><br>
 
@@ -350,6 +343,10 @@
 [微软+韩家炜课题组的全面调研：NER标注数据少，怎么办？](https://mp.weixin.qq.com/s/F4hWk0alOdPtMRpdtFarJA)
 
 <p><strong>文本分类/情感分析</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/Vj0IKHWD_aXto8NE8alz8g" target="_blank" rel="noopener">来，试试百度的深度学习情感分析工具</a><br>
+
+<a href="https://mp.weixin.qq.com/s/2y-TshJqNHW5ixzjbtdekg" target="_blank" rel="noopener">AINLP公众号新增SnowNLP情感分析模块</a><br>
 
 [一份最新的、全面的NLP文本分类综述](https://mp.weixin.qq.com/s/P0p1mEPZXuqtcSRsU5WdIA)
 
@@ -1101,6 +1098,14 @@
 [炼丹师最强危机，谷歌开源最强AutoML工具！](https://mp.weixin.qq.com/s/qSkEFA67SKyWQ4axdAQI6w)
 
 [三十多岁就别转行做算法了](https://mp.weixin.qq.com/s/f8j8gpq_WMKOZI5kwFb2EA)
+
+<p><strong>NLP相关工具及在线测试（公众号对话测试）</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/Vj0IKHWD_aXto8NE8alz8g" target="_blank" rel="noopener">来，试试百度的深度学习情感分析工具</a><br>
+
+<a href="https://mp.weixin.qq.com/s/2y-TshJqNHW5ixzjbtdekg" target="_blank" rel="noopener">AINLP公众号新增SnowNLP情感分析模块</a><br>
+
+<a href="https://mp.weixin.qq.com/s/pd_BcCG2DjtlgFsym8PwXw" rel="noopener" target="_blank">斯坦福大学NLP组Python深度学习自然语言处理工具Stanza试用</a><br>
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
