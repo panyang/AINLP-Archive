@@ -1101,6 +1101,16 @@
 
 <p><strong>NLP相关工具及在线测试（公众号对话测试）</strong><br>
 
+<a href="https://mp.weixin.qq.com/s/Sy2hukGVk-7QQY_YNQ10kw" target="_blank" rel="noopener">五款中文分词工具在线PK: Jieba, SnowNLP, PkuSeg, THULAC, HanLP</a><br>
+
+<a href="https://mp.weixin.qq.com/s/YvpVumIdBDA9vBjGeLoPZA" target="_blank" rel="noopener">中文分词工具在线PK新增：FoolNLTK、LTP、StanfordCoreNLP</a><br>
+
+<a href="https://mp.weixin.qq.com/s/rFCBnExyZVHI-SwrSj7pmA" target="_blank" rel="noopener">Python中文分词工具大合集：安装、使用和测试</a><br>
+
+<a href="https://mp.weixin.qq.com/s/LwtQVg9p_VBzwA_2uvX8GA" target="_blank" rel="noopener">八款中文词性标注工具使用及在线测试</a><br>
+
+<a href="https://mp.weixin.qq.com/s/pOGdatZK5Z7uxmveHAX4_Q" target="_blank" rel="noopener">百度深度学习中文词法分析工具LAC试用之旅</a><br>
+
 <a href="https://mp.weixin.qq.com/s/Vj0IKHWD_aXto8NE8alz8g" target="_blank" rel="noopener">来，试试百度的深度学习情感分析工具</a><br>
 
 <a href="https://mp.weixin.qq.com/s/2y-TshJqNHW5ixzjbtdekg" target="_blank" rel="noopener">AINLP公众号新增SnowNLP情感分析模块</a><br>
