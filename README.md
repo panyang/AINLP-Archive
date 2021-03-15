@@ -47,22 +47,6 @@
 [2021年NLP入门书籍推荐｜理论&实战](https://mp.weixin.qq.com/s/zHTvH6JMSeDa-6k82tsaJg)
 
 
-<p><strong>腾讯词向量和相似词、相似度、词语游戏系列</strong><br>
-
-<a href="https://mp.weixin.qq.com/s/UwPwW8JzWVQrVwbPy9321g" target="_blank" rel="noopener">相似词查询：玩转腾讯 AI Lab 中文词向量</a><br>
-
-<a href="https://mp.weixin.qq.com/s/Q533WJ7Kwtehwm8aLuKbDA" target="_blank" rel="noopener">玩转腾讯词向量：词语相似度计算和在线查询</a><br>
-
-<a href="https://mp.weixin.qq.com/s/oboRxo9k4am4AUGmR5YG9Q" target="_blank" rel="noopener">腾讯词向量实战：通过Annoy进行索引和快速查询</a><br>
-
-<a href="https://mp.weixin.qq.com/s/cMMVCFcBoDfcTZXhRty63w" target="_blank" rel="noopener">玩转腾讯词向量：Game of Words（词语的加减游戏）</a><br>
-
-<a href="https://mp.weixin.qq.com/s/8BVerIljzZHX3KFnYedDgg" target="_blank" rel="noopener">词向量游戏：梅西-阿根廷+葡萄牙=?</a><br>
-
-<a href="https://mp.weixin.qq.com/s/JB3Tg8s8YHfLL0kLtR92kw" rel="noopener" target="_blank">腾讯 800 万中文词向量 API Demo 搭建</a><br>
-
-<a href="https://mp.weixin.qq.com/s/DNkZbxJclzWXPYarN14bPg" rel="noopener" target="_blank">相似词检索，近义词查询，同义词大全，这里不仅仅限于中文</a></p>
-
 <p><strong>自动对联及作诗机</strong><br>
 
 <a href="https://mp.weixin.qq.com/s/A6FMzXS0W7jyTMuyCgzJhw" target="_blank" rel="noopener">风云三尺剑，花鸟一床书---对联数据集和自动对联机器人</a><br>
@@ -104,6 +88,20 @@
 [再谈 L2：与 Weight Decay 还有 Batch Norm 不说其实也可以的故事](https://mp.weixin.qq.com/s/2FW6rqTxcil88fona9_U7g)
 
 <p><strong>词向量</strong></p>
+
+<a href="https://mp.weixin.qq.com/s/UwPwW8JzWVQrVwbPy9321g" target="_blank" rel="noopener">相似词查询：玩转腾讯 AI Lab 中文词向量</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Q533WJ7Kwtehwm8aLuKbDA" target="_blank" rel="noopener">玩转腾讯词向量：词语相似度计算和在线查询</a><br>
+
+<a href="https://mp.weixin.qq.com/s/oboRxo9k4am4AUGmR5YG9Q" target="_blank" rel="noopener">腾讯词向量实战：通过Annoy进行索引和快速查询</a><br>
+
+<a href="https://mp.weixin.qq.com/s/cMMVCFcBoDfcTZXhRty63w" target="_blank" rel="noopener">玩转腾讯词向量：Game of Words（词语的加减游戏）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/8BVerIljzZHX3KFnYedDgg" target="_blank" rel="noopener">词向量游戏：梅西-阿根廷+葡萄牙=?</a><br>
+
+<a href="https://mp.weixin.qq.com/s/JB3Tg8s8YHfLL0kLtR92kw" rel="noopener" target="_blank">腾讯 800 万中文词向量 API Demo 搭建</a><br>
+
+<a href="https://mp.weixin.qq.com/s/DNkZbxJclzWXPYarN14bPg" rel="noopener" target="_blank">相似词检索，近义词查询，同义词大全，这里不仅仅限于中文</a></p>
 
 [机器学习竞赛必备基础知识Word2Vec](https://mp.weixin.qq.com/s/fdg2J3fi65EsCKEYBJ-Ajw)
 
