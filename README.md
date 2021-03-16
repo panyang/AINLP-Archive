@@ -318,6 +318,8 @@
 
 [如何在只有词典的情况下提升NER落地效果](https://mp.weixin.qq.com/s/KMtGnRgYyLUS9UgzXgiXPA)
 
+[FLAT——中文NER该怎么做](https://mp.weixin.qq.com/s/rGz9EF0nLAGs69EleVhwAw)
+
 [Lex-BERT：超越FLAT的中文NER模型？](https://mp.weixin.qq.com/s/YDfNZE21mnENhaJTCFVh7g)
 
 <a href="https://mp.weixin.qq.com/s/3fY8XS-6vNUvjr-_qAByVA" rel="noopener" target="_blank">【论文笔记】命名实体识别论文</a><br>
@@ -405,6 +407,8 @@
 [阿里RE2：如何将残差与文本匹配模型融合](https://mp.weixin.qq.com/s/Yh9Cz5TxnZmN8nOOkI6N0A)
 
 <p><strong>问答系统/对话系统/聊天机器人</strong><br>
+
+[总结｜开放领域问答梳理系列(1)](https://mp.weixin.qq.com/s/KByhP1nASKXryPeWvZ1eEg)
 
 <a href="https://mp.weixin.qq.com/s/qUxPgsgP-4XFmVMMzLH5Ow" rel="noopener" target="_blank">生成式对话seq2seq：从rnn到transformer</a><br>
 
@@ -598,6 +602,8 @@
 <p><strong>计算广告/广告系统</strong></p>
 
 [计算广告之在线广告市场和背景](https://mp.weixin.qq.com/s/TKXN1ejw6mmQNBBRI6Ideg)
+
+[oCPC中转化率模型与校准](https://mp.weixin.qq.com/s/ink1lXV7u6Ue38xkQ7XMNA)
 
 [CTR学习笔记&代码实现1-深度学习的前奏LR->FFM](https://mp.weixin.qq.com/s/lphTXdbYOyomMU6O0CH2Pw)
 
@@ -809,6 +815,8 @@
 
 [劝退文｜听说你要转AI](https://mp.weixin.qq.com/s/HdYdBFZKPsxYy1VxAQ6jxQ)
 
+[程序员们，想进互联网大厂的看过来](https://mp.weixin.qq.com/s/ViDMgPCV3-CkGFp2YNtDwA)
+
 <p><strong>算法工程师之路</strong></p>
 
 [四化大业：论算法工程师的自我修养](https://mp.weixin.qq.com/s/qaSaVsYtvWG5EDDOUi82oA)
@@ -880,6 +888,10 @@
 [不要浪费没有标注的数据！超强文本半监督方法MixText来袭！](https://mp.weixin.qq.com/s/fVefi21_-_SDTXcyORZ6Xg)
 
 [顶会集结+深度解析：医疗+AI如此火爆，NLP如何赋能？](https://mp.weixin.qq.com/s/09NwAGLAlcrKs9-tOC7pdA)
+
+[损失函数的“噪音免疫力”](https://mp.weixin.qq.com/s/iench6jBEDP1NxHB5pJwvQ)
+
+[去年年底的事情了，在PPoPP 2021会议上中了一篇分布式训练论文——DAPPLE](https://mp.weixin.qq.com/s/JGmm3_AqC2eaEy-4dnbIHw)
 
 <p><strong>课程笔记</strong><br>
 
@@ -1114,6 +1126,7 @@
 <a href="https://mp.weixin.qq.com/s/2y-TshJqNHW5ixzjbtdekg" target="_blank" rel="noopener">AINLP公众号新增SnowNLP情感分析模块</a><br>
 
 <a href="https://mp.weixin.qq.com/s/pd_BcCG2DjtlgFsym8PwXw" rel="noopener" target="_blank">斯坦福大学NLP组Python深度学习自然语言处理工具Stanza试用</a><br>
+
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
