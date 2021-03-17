@@ -378,6 +378,8 @@
 
 [用模型“想象”出来的target来训练，可以提高分类的效果！](https://mp.weixin.qq.com/s/Fdeko4ZJLW6773u2ycdOWQ)
 
+[华为云细粒度文本情感分析及应用](https://mp.weixin.qq.com/s/0zDrYpCkvvLsGrYQNTzRxg)
+
 <p><strong>文本摘要</strong><br>
 
 <a href="https://mp.weixin.qq.com/s/tCRYxCWyduhY9GDiTDzmgA" rel="noopener" target="_blank">抛开模型，探究文本自动摘要的本质——ACL2019 论文佳作研读系列</a><br>
@@ -459,6 +461,8 @@
 <p><strong>文本生成</strong></p>
 
 [文本生成魔改方案汇总！](https://mp.weixin.qq.com/s/lZyQTJV7svj9Kta3w6_waQ)
+
+[知识增强的文本生成研究进展](https://mp.weixin.qq.com/s/Y0RILLMarGEp_sQ6UaHoPA)
 
 [【ICLR2021】CoCon:一种自监督的可控文本生成方法](https://mp.weixin.qq.com/s/Iq3ziXr78TXga-5MS0fcjw)
 
@@ -605,6 +609,8 @@
 
 [oCPC中转化率模型与校准](https://mp.weixin.qq.com/s/ink1lXV7u6Ue38xkQ7XMNA)
 
+[广告算法工程师的日常](https://mp.weixin.qq.com/s/BcA2YtEcfbUjgi29EaDGVg)
+
 [CTR学习笔记&代码实现1-深度学习的前奏LR->FFM](https://mp.weixin.qq.com/s/lphTXdbYOyomMU6O0CH2Pw)
 
 [CTR学习笔记&代码实现2-深度ctr模型 MLP->Wide&Deep](https://mp.weixin.qq.com/s/wJjg7BASLgdEZI4twBwUoQ)
@@ -626,6 +632,8 @@
 [怎样将Embedding融入传统机器学习框架？](https://mp.weixin.qq.com/s/5hm290LfMK0n0ldxTXrwdw)
 
 [腾讯赛霸榜神技ONN_NFFM](https://mp.weixin.qq.com/s/CdI-akr2n1-sgQKe18XKqg)
+
+[读了那么多CTR论文, 真正有效的又有几个呢？](https://mp.weixin.qq.com/s/adBViw6ogcR58HGOPbgagg)
 
 <p><strong>搜索引擎/搜索系统</strong></p>
 
@@ -731,6 +739,8 @@
 
 [Multi-Task 多任务学习， 那些你不知道的事](https://mp.weixin.qq.com/s/MOSMR3Ue9i3jYklPRvmWwA)
 
+[敢问多任务学习优化算法路在何方？｜附代码](https://mp.weixin.qq.com/s/AZtyQQj6J1Ip5xQdseispg)
+
 <p><strong>竞赛之路</strong></p>
 
 [iFLYTEK 多语种文本挖掘挑战赛冠军分享](https://mp.weixin.qq.com/s/eP54KW_sBkHS0XSn5pHq6w)
@@ -816,6 +826,8 @@
 [劝退文｜听说你要转AI](https://mp.weixin.qq.com/s/HdYdBFZKPsxYy1VxAQ6jxQ)
 
 [程序员们，想进互联网大厂的看过来](https://mp.weixin.qq.com/s/ViDMgPCV3-CkGFp2YNtDwA)
+
+[校招60w年薪！互联网企业为什么这么有钱？](https://mp.weixin.qq.com/s/6blJAChe3ZUAwF2JZ1cdXg)
 
 <p><strong>算法工程师之路</strong></p>
 
