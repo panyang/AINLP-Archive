@@ -46,23 +46,6 @@
 
 [2021年NLP入门书籍推荐｜理论&实战](https://mp.weixin.qq.com/s/zHTvH6JMSeDa-6k82tsaJg)
 
-
-<p><strong>自动对联及作诗机</strong><br>
-
-<a href="https://mp.weixin.qq.com/s/A6FMzXS0W7jyTMuyCgzJhw" target="_blank" rel="noopener">风云三尺剑，花鸟一床书---对联数据集和自动对联机器人</a><br>
-
-<a href="https://mp.weixin.qq.com/s/VSPPEVcihLUcJMmh7h3hgA" target="_blank" rel="noopener">自动对联活动获奖结果以及机器对联赏析</a><br>
-
-<a href="https://mp.weixin.qq.com/s/w8e0TixjbqvKXnZksL32tQ" target="_blank" rel="noopener">"自动作诗机"上线，代码和数据都是公开的</a><br>
-
-<a href="https://mp.weixin.qq.com/s/Za1_atH01eUIQHHdo4M-Cg" rel="noopener" target="_blank">鼠年春节，用 GPT-2 自动写对联和对对联</a><br>
-
-<a href="https://mp.weixin.qq.com/s/8nOhe0RDkgEgxWdjAsjpvw" rel="noopener" target="_blank">用 GPT-2 自动写诗，从五言绝句开始</a><br>
-
-<a href="https://mp.weixin.qq.com/s/fdeyf2uwaHNac1_guj5L6Q" rel="noopener" target="_blank">自动作诗机&amp;藏头诗生成器：五言、七言、绝句、律诗全了</a><br>
-
-<a href="https://mp.weixin.qq.com/s/OgWlf7GqidIX2ffVBUo_tQ" rel="noopener" target="_blank">仅供娱乐，藏尾诗生成器来了</a></p>
-
 <p><strong>夸夸聊天机器人及其他技能</strong><br>
 
 <a href="https://mp.weixin.qq.com/s/B0ilgxGnLPMYDny1FYmWHw" target="_blank" rel="noopener">一行Python代码实现夸夸聊天机器人</a><br>
@@ -459,6 +442,20 @@
 [达摩院Conversational AI研究进展及应用](https://mp.weixin.qq.com/s/hdus6c1h8TTqPfpfS-v0Ug)
 
 <p><strong>文本生成</strong></p>
+
+<a href="https://mp.weixin.qq.com/s/A6FMzXS0W7jyTMuyCgzJhw" target="_blank" rel="noopener">风云三尺剑，花鸟一床书---对联数据集和自动对联机器人</a><br>
+
+<a href="https://mp.weixin.qq.com/s/VSPPEVcihLUcJMmh7h3hgA" target="_blank" rel="noopener">自动对联活动获奖结果以及机器对联赏析</a><br>
+
+<a href="https://mp.weixin.qq.com/s/w8e0TixjbqvKXnZksL32tQ" target="_blank" rel="noopener">"自动作诗机"上线，代码和数据都是公开的</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Za1_atH01eUIQHHdo4M-Cg" rel="noopener" target="_blank">鼠年春节，用 GPT-2 自动写对联和对对联</a><br>
+
+<a href="https://mp.weixin.qq.com/s/8nOhe0RDkgEgxWdjAsjpvw" rel="noopener" target="_blank">用 GPT-2 自动写诗，从五言绝句开始</a><br>
+
+<a href="https://mp.weixin.qq.com/s/fdeyf2uwaHNac1_guj5L6Q" rel="noopener" target="_blank">自动作诗机&amp;藏头诗生成器：五言、七言、绝句、律诗全了</a><br>
+
+<a href="https://mp.weixin.qq.com/s/OgWlf7GqidIX2ffVBUo_tQ" rel="noopener" target="_blank">仅供娱乐，藏尾诗生成器来了</a></p>
 
 [文本生成魔改方案汇总！](https://mp.weixin.qq.com/s/lZyQTJV7svj9Kta3w6_waQ)
 
@@ -1139,6 +1136,21 @@
 
 <a href="https://mp.weixin.qq.com/s/pd_BcCG2DjtlgFsym8PwXw" rel="noopener" target="_blank">斯坦福大学NLP组Python深度学习自然语言处理工具Stanza试用</a><br>
 
+<p><strong>自动对联及作诗机</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/A6FMzXS0W7jyTMuyCgzJhw" target="_blank" rel="noopener">风云三尺剑，花鸟一床书---对联数据集和自动对联机器人</a><br>
+
+<a href="https://mp.weixin.qq.com/s/VSPPEVcihLUcJMmh7h3hgA" target="_blank" rel="noopener">自动对联活动获奖结果以及机器对联赏析</a><br>
+
+<a href="https://mp.weixin.qq.com/s/w8e0TixjbqvKXnZksL32tQ" target="_blank" rel="noopener">"自动作诗机"上线，代码和数据都是公开的</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Za1_atH01eUIQHHdo4M-Cg" rel="noopener" target="_blank">鼠年春节，用 GPT-2 自动写对联和对对联</a><br>
+
+<a href="https://mp.weixin.qq.com/s/8nOhe0RDkgEgxWdjAsjpvw" rel="noopener" target="_blank">用 GPT-2 自动写诗，从五言绝句开始</a><br>
+
+<a href="https://mp.weixin.qq.com/s/fdeyf2uwaHNac1_guj5L6Q" rel="noopener" target="_blank">自动作诗机&amp;藏头诗生成器：五言、七言、绝句、律诗全了</a><br>
+
+<a href="https://mp.weixin.qq.com/s/OgWlf7GqidIX2ffVBUo_tQ" rel="noopener" target="_blank">仅供娱乐，藏尾诗生成器来了</a></p>
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
