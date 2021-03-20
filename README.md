@@ -530,6 +530,8 @@
 
 [推荐系统之样本加权](https://mp.weixin.qq.com/s/NeVOtgqVnDoUvwAPEd2XoQ)
 
+[推荐系统之连续值DNN模型](https://mp.weixin.qq.com/s/-wv6YMOFpjOSA3o8iDGn-w)
+
 <a href="https://mp.weixin.qq.com/s/B-6uslNc56VpB0fJRoPraw" rel="noopener" target="_blank">当我们谈论“推荐系统”时在谈论什么？</a><br>
 
 <a href="https://mp.weixin.qq.com/s/ys8qmUlUmGZfSYEChezENg" rel="noopener" target="_blank">推荐系统中的矩阵分解技术</a><br>
@@ -563,6 +565,8 @@
 [推荐系统之样本增强](https://mp.weixin.qq.com/s/06lr4F_quKheO3rhDfgz9A)
 
 [NLP+基于内容的推荐](https://mp.weixin.qq.com/s/UE_6ZkS9ENQP4iKTTWzwIA)
+
+[推荐领域又一经典paper，分分钟搞清楚Attention机制](https://mp.weixin.qq.com/s/nI0Fy2-MJ1DMJNYiohT-Eg)
 
 [AAAI2021推荐系统论文清单](https://mp.weixin.qq.com/s/Z68OpRSAmMHHdxkMDD1v5g)
 
@@ -598,7 +602,7 @@
 
 [深入理解推荐系统：十大序列化推荐算法梳理](https://mp.weixin.qq.com/s/PvXPD_EYNxA14tt-uNoOgA)
 
-[多目标排序在快手短视频推荐中的实践](https://mp.weixin.qq.com/s/2ZaQkTsFEt3WEzEVxmYYFQ)
+[多目标排序在快手短视频推荐中的实践](https://mp.weixin.qq.com/s/2ZaQkTsFEt3WEzEVxmYYFQ)kkk
 
 <p><strong>计算广告/广告系统</strong></p>
 
@@ -644,6 +648,8 @@
 
 [浅谈Query理解和分析](https://mp.weixin.qq.com/s/jqBgIHhR4EuH1-VNN8H-ow)
 
+[搜索中的意图识别](https://mp.weixin.qq.com/s/hMem_aiSY-3q9Qu-ySdAYg)
+
 [知乎搜索文本相关性与知识蒸馏](https://mp.weixin.qq.com/s/89rGFT1QNKKjkt9QKJGmyA)
 
 [知乎搜索排序模型的演进](https://mp.weixin.qq.com/s/zJ5LCwib3KFb5diNJ3IszA)
@@ -653,6 +659,7 @@
 [效果远超FM,CF最新利器HFM！](https://mp.weixin.qq.com/s/KNpJqj_dTSAiERAhJ8xSHA)
 
 [Transformer是巧合还是必然？搜索推荐领域的新潮流](https://mp.weixin.qq.com/s/tzLvKfV_0EVkTZZiE8J5eQ)
+
 
 <p><strong>关系抽取</strong></p>
 
@@ -1084,6 +1091,8 @@
 
 [【科普】 AI是什么？AI可以做什么？AI会取代人的工作吗？](https://mp.weixin.qq.com/s/SfWiGypHV3X4V7NE_A7KtQ)
 
+[连环六问让假 AI 无所遁形](https://mp.weixin.qq.com/s/PU9WQRO3wqWCMDwIy9pxTw)
+
 [将神拉到人间(Linus 自传读后感)](https://mp.weixin.qq.com/s/506sbn_cHgHQI9LRxFiUsg)
 
 [ML中的数学学习](https://mp.weixin.qq.com/s/BbV9SP75ixPSsKq2TdMKGA)
@@ -1117,6 +1126,12 @@
 [炼丹师最强危机，谷歌开源最强AutoML工具！](https://mp.weixin.qq.com/s/qSkEFA67SKyWQ4axdAQI6w)
 
 [三十多岁就别转行做算法了](https://mp.weixin.qq.com/s/f8j8gpq_WMKOZI5kwFb2EA)
+
+[谷歌、CMU发文：别压榨单模型了！集成+级联上分效率更高！](https://mp.weixin.qq.com/s/_O3QTnfeLlZyKtGd6GKJdA)
+
+[Facebook新模型SEER｜图像预训练的内卷](https://mp.weixin.qq.com/s/KxiQ7DttEOqXjaqIDebEKQ)
+
+[增量学习(Incremental Learning)小综述](https://mp.weixin.qq.com/s/Uq3BVfPCCXJNb_94JdUsBQ)
 
 <p><strong>NLP相关工具及在线测试（公众号对话测试）</strong><br>
 
