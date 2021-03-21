@@ -46,25 +46,6 @@
 
 [2021年NLP入门书籍推荐｜理论&实战](https://mp.weixin.qq.com/s/zHTvH6JMSeDa-6k82tsaJg)
 
-<p><strong>夸夸聊天机器人及其他技能</strong><br>
-
-<a href="https://mp.weixin.qq.com/s/B0ilgxGnLPMYDny1FYmWHw" target="_blank" rel="noopener">一行Python代码实现夸夸聊天机器人</a><br>
-
-<a href="https://mp.weixin.qq.com/s/pUhugd5WTru32M1l6Qrxzg" target="_blank" rel="noopener">为了夸夸聊天机器人，爬了一份夸夸语料库</a><br>
-
-<a href="https://mp.weixin.qq.com/s/NO2M8_VD29uCaUuTrkzfyA" target="_blank" rel="noopener">夸夸聊天机器人升级：从随机到准个性化</a><br>
-
-[Unilm对话生成之夸夸式闲聊机器人](https://mp.weixin.qq.com/s/RjXQRntFXaVC6fBidnhGIw)
-
-<a href="https://mp.weixin.qq.com/s/fSzWY835t1bgZsv901S_FA" target="_blank" rel="noopener">来，试试语音（识别）聊天（机器人）</a><br>
-
-<a href="https://mp.weixin.qq.com/s/Fe1WJUaaXpe4gERZFmhUIw">来，试试成语接龙</a><br>
-
-<a href="https://mp.weixin.qq.com/s/c5AXq0iNLC65Nwae-vnjXQ" rel="noopener" target="_blank">推荐一份中文数据，来试试汉字、词语、成语、歇后语在线检索</a><br>
-
-<a href="https://mp.weixin.qq.com/s/Qnt-R_IY7N3eVhAvwNQ1ig" rel="noopener" target="_blank">AINLP公众号新增"狗屁不通文章生成器"接口</a><br>
-
-<a href="https://mp.weixin.qq.com/s/lofYSXsgsFNSEqFyKaWhJA" rel="noopener" target="_blank">来，试试彩虹屁生成器</a></p>
 
 <p><strong>深度学习基础</strong></p>
 
@@ -392,6 +373,24 @@
 [阿里RE2：如何将残差与文本匹配模型融合](https://mp.weixin.qq.com/s/Yh9Cz5TxnZmN8nOOkI6N0A)
 
 <p><strong>问答系统/对话系统/聊天机器人</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/B0ilgxGnLPMYDny1FYmWHw" target="_blank" rel="noopener">一行Python代码实现夸夸聊天机器人</a><br>
+
+<a href="https://mp.weixin.qq.com/s/pUhugd5WTru32M1l6Qrxzg" target="_blank" rel="noopener">为了夸夸聊天机器人，爬了一份夸夸语料库</a><br>
+
+<a href="https://mp.weixin.qq.com/s/NO2M8_VD29uCaUuTrkzfyA" target="_blank" rel="noopener">夸夸聊天机器人升级：从随机到准个性化</a><br>
+
+[Unilm对话生成之夸夸式闲聊机器人](https://mp.weixin.qq.com/s/RjXQRntFXaVC6fBidnhGIw)
+
+<a href="https://mp.weixin.qq.com/s/fSzWY835t1bgZsv901S_FA" target="_blank" rel="noopener">来，试试语音（识别）聊天（机器人）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Fe1WJUaaXpe4gERZFmhUIw">来，试试成语接龙</a><br>
+
+<a href="https://mp.weixin.qq.com/s/c5AXq0iNLC65Nwae-vnjXQ" rel="noopener" target="_blank">推荐一份中文数据，来试试汉字、词语、成语、歇后语在线检索</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Qnt-R_IY7N3eVhAvwNQ1ig" rel="noopener" target="_blank">AINLP公众号新增"狗屁不通文章生成器"接口</a><br>
+
+<a href="https://mp.weixin.qq.com/s/lofYSXsgsFNSEqFyKaWhJA" rel="noopener" target="_blank">来，试试彩虹屁生成器</a></p>
 
 [总结｜开放领域问答梳理系列(1)](https://mp.weixin.qq.com/s/KByhP1nASKXryPeWvZ1eEg)
 
@@ -1166,6 +1165,26 @@
 <a href="https://mp.weixin.qq.com/s/fdeyf2uwaHNac1_guj5L6Q" rel="noopener" target="_blank">自动作诗机&amp;藏头诗生成器：五言、七言、绝句、律诗全了</a><br>
 
 <a href="https://mp.weixin.qq.com/s/OgWlf7GqidIX2ffVBUo_tQ" rel="noopener" target="_blank">仅供娱乐，藏尾诗生成器来了</a></p>
+
+<p><strong>夸夸聊天机器人及其他技能</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/B0ilgxGnLPMYDny1FYmWHw" target="_blank" rel="noopener">一行Python代码实现夸夸聊天机器人</a><br>
+
+<a href="https://mp.weixin.qq.com/s/pUhugd5WTru32M1l6Qrxzg" target="_blank" rel="noopener">为了夸夸聊天机器人，爬了一份夸夸语料库</a><br>
+
+<a href="https://mp.weixin.qq.com/s/NO2M8_VD29uCaUuTrkzfyA" target="_blank" rel="noopener">夸夸聊天机器人升级：从随机到准个性化</a><br>
+
+[Unilm对话生成之夸夸式闲聊机器人](https://mp.weixin.qq.com/s/RjXQRntFXaVC6fBidnhGIw)
+
+<a href="https://mp.weixin.qq.com/s/fSzWY835t1bgZsv901S_FA" target="_blank" rel="noopener">来，试试语音（识别）聊天（机器人）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Fe1WJUaaXpe4gERZFmhUIw">来，试试成语接龙</a><br>
+
+<a href="https://mp.weixin.qq.com/s/c5AXq0iNLC65Nwae-vnjXQ" rel="noopener" target="_blank">推荐一份中文数据，来试试汉字、词语、成语、歇后语在线检索</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Qnt-R_IY7N3eVhAvwNQ1ig" rel="noopener" target="_blank">AINLP公众号新增"狗屁不通文章生成器"接口</a><br>
+
+<a href="https://mp.weixin.qq.com/s/lofYSXsgsFNSEqFyKaWhJA" rel="noopener" target="_blank">来，试试彩虹屁生成器</a></p>
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
