@@ -146,6 +146,8 @@
 
 [跨界出圈 | 谈谈BERT跨模态预训练](https://mp.weixin.qq.com/s/KaZHAIbKzVcJM5ZQiULivA)
 
+[还在用[CLS]？从BERT得到最强句子Embedding的打开方式！](https://mp.weixin.qq.com/s/EDEfN6FUxrml3N8Dh5Y8Wg)
+
 <p><strong>BERT实战</strong></p>
 
 <a href="https://mp.weixin.qq.com/s/0rIXEX2NSmjNNA0PVRtmgQ" rel="noopener" target="_blank">最简单的BERT模型调用方法</a><br>
@@ -434,6 +436,8 @@
 
 [赛尔原创@AAAI 2021 | 纠结于联合学习中的建模方法？快来看看图网络显式建模!](https://mp.weixin.qq.com/s/6JA9Ki9EiR5IIbIo7s0g2g)
 
+[赛尔笔记 | 新分类！全总结！最新Awesome-SLU-Survey资源库开源！](https://mp.weixin.qq.com/s/qkd8giwZumtK9N1WdXc7kQ)
+
 [美团智能问答技术探索与实践](https://mp.weixin.qq.com/s/O7j0rb2FuzsyzAmrzAjiQg)
 
 [EMNLP 2020 | 大道至简，后浪选手DPR暴打前浪BM25](https://mp.weixin.qq.com/s/UywD4imkRFlqKSDwBPwV0w)
@@ -610,6 +614,12 @@
 [oCPC中转化率模型与校准](https://mp.weixin.qq.com/s/ink1lXV7u6Ue38xkQ7XMNA)
 
 [广告算法工程师的日常](https://mp.weixin.qq.com/s/BcA2YtEcfbUjgi29EaDGVg)
+
+[广告模型初探（一）](https://mp.weixin.qq.com/s/hwcrnjEF83Tv0ialHZ1c1Q)
+
+[广告模型初探（二）](https://mp.weixin.qq.com/s/Aaw7sG1ptnhq7CBUaf3ztw)
+
+[广告模型初探（三）](https://mp.weixin.qq.com/s/KoGt_DULtiSjTT0kqd7TVA)
 
 [CTR学习笔记&代码实现1-深度学习的前奏LR->FFM](https://mp.weixin.qq.com/s/lphTXdbYOyomMU6O0CH2Pw)
 
@@ -831,6 +841,8 @@
 [程序员们，想进互联网大厂的看过来](https://mp.weixin.qq.com/s/ViDMgPCV3-CkGFp2YNtDwA)
 
 [校招60w年薪！互联网企业为什么这么有钱？](https://mp.weixin.qq.com/s/6blJAChe3ZUAwF2JZ1cdXg)
+
+[【经验分享】半路出身、终去鹅厂算法岗, 总结、分析踩过的坑](https://mp.weixin.qq.com/s/TX5_dZx23o48BB-W7I-adg)
 
 <p><strong>算法工程师之路</strong></p>
 
