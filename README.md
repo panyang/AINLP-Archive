@@ -129,6 +129,8 @@
 
 <a href="https://mp.weixin.qq.com/s/_-GN-OI9DMYMyKBRKObvKA" rel="noopener" target="_blank">当BERT遇上知识图谱</a><br>
 
+[BERT meet KG 第二弹：新训练方式，新问题视角](https://mp.weixin.qq.com/s/suCTQjOxf2aIj7M1KItFWA)
+
 [万万没想到，BERT学会写SQL了](https://mp.weixin.qq.com/s/p9MRoiBZe0GMpqfQVEWvsg)
 
 <a href="https://mp.weixin.qq.com/s/3b_2VbehBOYsnKCBSEio4w" rel="noopener" target="_blank">Bert 改进： 如何融入知识</a><br>
@@ -159,6 +161,8 @@
 <a href="https://mp.weixin.qq.com/s/PR_YrbbT8gnAx6A36D3_KQ" rel="noopener" target="_blank">模型压缩实践收尾篇——模型蒸馏以及其他一些技巧实践小结</a></p>
 
 [我不懂BERT系列——有关RealFormer的一些有趣现象](https://mp.weixin.qq.com/s/wv1kDW2XmPgCPPzNWVG2VA)
+
+[知识蒸馏：让LSTM重返巅峰！](https://mp.weixin.qq.com/s/ZxFsCxPD9FU3DzKX-rdpuA)
 
 [如何有效的降低BERT参数量](https://mp.weixin.qq.com/s/1R5R230jFtVXpaFMX9GyaQ)
 
@@ -426,6 +430,8 @@
 
 <a href="https://mp.weixin.qq.com/s/uuzk3AyShSjA2vdbAGy02g" rel="noopener" target="_blank">Rasa 入坑指南二：基于 Rasa 构建天气查询机器人</a><br>
 
+[5分钟搭建多轮对话系统](https://mp.weixin.qq.com/s/wONiubxwEyA212TAkExwOg)
+
 <a href="https://mp.weixin.qq.com/s/vjsBpZdbVuO2cNfMDVhKXQ" rel="noopener" target="_blank">做对话机器人的各家企业，都在关注哪些问题</a><br>
 
 <a href="https://mp.weixin.qq.com/s/caAH-8zi0DJ5b-rEQyTR9A" rel="noopener" target="_blank">从互联网爬虫、自动驾驶到对话机器人，什么是Semantic（语义）？</a><br>
@@ -575,6 +581,8 @@
 
 [推荐系统之样本增强](https://mp.weixin.qq.com/s/06lr4F_quKheO3rhDfgz9A)
 
+[推荐系统之多目标优化小结](https://mp.weixin.qq.com/s/M3ONmlLP265L4hCgBfKHFQ)
+
 [NLP+基于内容的推荐](https://mp.weixin.qq.com/s/UE_6ZkS9ENQP4iKTTWzwIA)
 
 [推荐领域又一经典paper，分分钟搞清楚Attention机制](https://mp.weixin.qq.com/s/nI0Fy2-MJ1DMJNYiohT-Eg)
@@ -681,6 +689,7 @@
 
 [Transformer是巧合还是必然？搜索推荐领域的新潮流](https://mp.weixin.qq.com/s/tzLvKfV_0EVkTZZiE8J5eQ)
 
+[Airbnb搜索：深度学习排序算法如何进化？](https://mp.weixin.qq.com/s/MxE3zuwIgMMrKu89jNNrHA)
 
 <p><strong>关系抽取</strong></p>
 
@@ -753,6 +762,8 @@
 [经验谈 | 边生万物：关于近期GNN进展的一点思考](https://mp.weixin.qq.com/s/LuX26esg-yP1qJP9fsmqHw)
 
 [图嵌入表示TADW：当DeepWalk加上外部文本信息](https://mp.weixin.qq.com/s/njg0jYc6SorTbD1S3P8MEA)
+
+[SDNE：深度模型图网络](https://mp.weixin.qq.com/s/HCJ4LEn48tmO5va6jnuGYA)
 
 <p><strong>强化学习</strong></p>
 
@@ -853,6 +864,8 @@
 [程序员们，想进互联网大厂的看过来](https://mp.weixin.qq.com/s/ViDMgPCV3-CkGFp2YNtDwA)
 
 [校招60w年薪！互联网企业为什么这么有钱？](https://mp.weixin.qq.com/s/6blJAChe3ZUAwF2JZ1cdXg)
+
+[核心技巧！如何应对面试笔试环节中的算法题？](https://mp.weixin.qq.com/s/gj7jlO-e_i8MU1diXgR1nQ)
 
 [【经验分享】半路出身、终去鹅厂算法岗, 总结、分析踩过的坑](https://mp.weixin.qq.com/s/TX5_dZx23o48BB-W7I-adg)
 
