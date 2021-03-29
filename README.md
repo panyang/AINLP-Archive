@@ -172,6 +172,8 @@
 
 [深度学习中的知识蒸馏技术（上）](https://mp.weixin.qq.com/s/pth5nb1Q4SpO-iAhjmgfcA)
 
+[模型压缩与蒸馏！BERT家族的瘦身之路](https://mp.weixin.qq.com/s/8QQq5FvhxWhK4WdDQ8UuMA)
+
 <p><strong>BERT之外</strong></p>
 
 <a href="https://mp.weixin.qq.com/s/0pYFb2POAcV1AKTLJ7t1DA" rel="noopener" target="_blank">效果惊人的GPT 2.0模型：它告诉了我们什么</a><br>
@@ -332,6 +334,8 @@
 
 <a href="https://mp.weixin.qq.com/s/qndGMdeiFl08KdGpJ5AMZA">深度学习实践：从零开始做电影评论文本情感分析</a><br>
 
+[【ACL2020】用于改进文本分类的特征投影](https://mp.weixin.qq.com/s/GcKmR5oumcsZjULfE00URQ)
+
 [从零实现爬虫和情感分类模型（一）](https://mp.weixin.qq.com/s/UTU1Oy6lIJJVDxAruhBthA)
 
 [从零实现爬虫和情感分类模型（二）](https://mp.weixin.qq.com/s/jUF0hhY9RwHNsSgfTAo7Og)
@@ -396,6 +400,8 @@
 
 [总结｜开放领域问答梳理系列(1)](https://mp.weixin.qq.com/s/KByhP1nASKXryPeWvZ1eEg)
 
+[收藏｜开放领域问答梳理2](https://mp.weixin.qq.com/s/M5Vo_ZJO26nUyMljsfhk8Q)
+
 <a href="https://mp.weixin.qq.com/s/qUxPgsgP-4XFmVMMzLH5Ow" rel="noopener" target="_blank">生成式对话seq2seq：从rnn到transformer</a><br>
 
 [构建任务型多轮对话助理的 6 大阶段](https://mp.weixin.qq.com/s/RYTI4quzh_xh3-H4anvFjg)
@@ -437,6 +443,8 @@
 [赛尔原创@AAAI 2021 | 纠结于联合学习中的建模方法？快来看看图网络显式建模!](https://mp.weixin.qq.com/s/6JA9Ki9EiR5IIbIo7s0g2g)
 
 [赛尔笔记 | 新分类！全总结！最新Awesome-SLU-Survey资源库开源！](https://mp.weixin.qq.com/s/qkd8giwZumtK9N1WdXc7kQ)
+
+[2021年了，对话系统凉透了吗？](https://mp.weixin.qq.com/s/X68GyzAzB9reI72HQtWu6g)
 
 [美团智能问答技术探索与实践](https://mp.weixin.qq.com/s/O7j0rb2FuzsyzAmrzAjiQg)
 
@@ -589,6 +597,8 @@
 
 [一篇长文学懂入门推荐算法库：surprise](https://mp.weixin.qq.com/s/-QB1QOKVpzw1-fbhGou6zg)
 
+[推荐生态中的bias和debias](https://mp.weixin.qq.com/s/M80YkUvKGZv2N7-jSKMBrg)
+
 [支持多值带权重、稀疏、共享embedding权重的DSSM召回实现（tensorflow2）](https://mp.weixin.qq.com/s/Omdwr7bnFym09a5oNpd9uQ)
 
 [YouTube基于多任务学习的视频排序推荐系统](https://mp.weixin.qq.com/s/b5hRvFn-oJ5U91UQhlGN-w)
@@ -658,6 +668,8 @@
 [浅谈Query理解和分析](https://mp.weixin.qq.com/s/jqBgIHhR4EuH1-VNN8H-ow)
 
 [搜索中的意图识别](https://mp.weixin.qq.com/s/hMem_aiSY-3q9Qu-ySdAYg)
+
+[Airbnb搜索：Embedding表示学习](https://mp.weixin.qq.com/s/VJWzDibwa41dZfU8R2RIoA)
 
 [知乎搜索文本相关性与知识蒸馏](https://mp.weixin.qq.com/s/89rGFT1QNKKjkt9QKJGmyA)
 
