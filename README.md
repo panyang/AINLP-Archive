@@ -258,6 +258,8 @@
 
 [T5: 文本到文本的Transformer迁移学习](https://mp.weixin.qq.com/s/ON5VNF2ofDEK09pn_YkrkQ)
 
+[SOTA来啦！BERT又又又又又又魔改了！DeBERTa登顶GLUE~](https://mp.weixin.qq.com/s/OgFo5CdrFuM8-58Xu5xJpg)
+
 <p><strong>中文分词/词性标注</strong><br>
 
 <a href="https://mp.weixin.qq.com/s/Sy2hukGVk-7QQY_YNQ10kw" target="_blank" rel="noopener">五款中文分词工具在线PK: Jieba, SnowNLP, PkuSeg, THULAC, HanLP</a><br>
@@ -351,6 +353,8 @@
 [LCM：缓解标签不独立+噪声标签问题](https://mp.weixin.qq.com/s/HJvy2Q9DNHLf1fKUJvhf2w)
 
 [用模型“想象”出来的target来训练，可以提高分类的效果！](https://mp.weixin.qq.com/s/Fdeko4ZJLW6773u2ycdOWQ)
+
+[医疗领域情感分析](https://mp.weixin.qq.com/s/rKiXF7JwDMf_eMrPHmOFcQ)
 
 [华为云细粒度文本情感分析及应用](https://mp.weixin.qq.com/s/0zDrYpCkvvLsGrYQNTzRxg)
 
@@ -548,6 +552,8 @@
 [推荐系统之样本加权](https://mp.weixin.qq.com/s/NeVOtgqVnDoUvwAPEd2XoQ)
 
 [推荐系统之连续值DNN模型](https://mp.weixin.qq.com/s/-wv6YMOFpjOSA3o8iDGn-w)
+
+[推荐系统之未登录特征值处理](https://mp.weixin.qq.com/s/YxOODYD83H4kS0BmTDZKJA)
 
 <a href="https://mp.weixin.qq.com/s/B-6uslNc56VpB0fJRoPraw" rel="noopener" target="_blank">当我们谈论“推荐系统”时在谈论什么？</a><br>
 
@@ -1168,6 +1174,8 @@
 [Facebook新模型SEER｜图像预训练的内卷](https://mp.weixin.qq.com/s/KxiQ7DttEOqXjaqIDebEKQ)
 
 [增量学习(Incremental Learning)小综述](https://mp.weixin.qq.com/s/Uq3BVfPCCXJNb_94JdUsBQ)
+
+[你还在为如何搞科研而发愁么？](https://mp.weixin.qq.com/s/1dF4cEN-b7QzE1y3bIGewQ)
 
 <p><strong>NLP相关工具及在线测试（公众号对话测试）</strong><br>
 
