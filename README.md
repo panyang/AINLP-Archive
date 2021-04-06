@@ -113,6 +113,9 @@
 
 <a href="https://mp.weixin.qq.com/s/q5OyrIycfN4fjQ33uSRmEA" target="_blank" rel="noopener">BERT相关论文、文章和代码资源汇总</a><br>
 
+[BERT中CLS效果真的好嘛？这篇文章告诉你答案](https://mp.weixin.qq.com/s/01zUpZXJ1_6qebcDiGJMyA
+)
+
 <p><strong>BERT源码</strong></p>
 
 <a href="https://mp.weixin.qq.com/s/9b3sqng5GfFFYuIr-qlvdw" rel="noopener" target="_blank">BERT源码分析PART I</a><br>
@@ -525,6 +528,8 @@
 
 [深度融合 | 当推荐系统遇上知识图谱（二）](https://mp.weixin.qq.com/s/6E8IESy0PRK0vO-qMPjFqQ)
 
+[如何将用户行为和属性用于推荐系统？](https://mp.weixin.qq.com/s/o5j8eWdVzCjqKGw4L76gvw)
+
 [FM：推荐算法中的瑞士军刀](https://mp.weixin.qq.com/s/mdxZm5YDcWlmbKmQDEjPgg)
 
 [万变不离其宗：用统一框架理解向量化召回](https://mp.weixin.qq.com/s/5lRQqmTG9_-me3FOWAmmWQ)
@@ -696,6 +701,8 @@
 [Transformer是巧合还是必然？搜索推荐领域的新潮流](https://mp.weixin.qq.com/s/tzLvKfV_0EVkTZZiE8J5eQ)
 
 [Airbnb搜索：深度学习排序算法如何进化？](https://mp.weixin.qq.com/s/MxE3zuwIgMMrKu89jNNrHA)
+
+[Airbnb搜索：重排序阶段如何优化搜索结果多样性？](https://mp.weixin.qq.com/s/W4NyVBgLpz0fiP4HyudAdg)
 
 <p><strong>关系抽取</strong></p>
 
@@ -973,6 +980,8 @@
 
 <p><strong>开源项目及资源</strong><br>
 
+[复旦大学自然语言处理实验室发布模型鲁棒性评测平台TextFlint](https://mp.weixin.qq.com/s/94I0XiYEC736IT6X1slYUA)
+
 [安利一个开源的好工具Label Studio, 闭环数据标注和模型训练](https://mp.weixin.qq.com/s/kWJZA0acOPi46c2_Gd9aeA)
 
 <a href="https://mp.weixin.qq.com/s/ockkygJOaSvJTct5_8GtnQ" rel="noopener" target="_blank">中文自然语言处理相关的开放任务，数据集，以及当前最佳结果</a><br>
@@ -1176,6 +1185,8 @@
 [增量学习(Incremental Learning)小综述](https://mp.weixin.qq.com/s/Uq3BVfPCCXJNb_94JdUsBQ)
 
 [你还在为如何搞科研而发愁么？](https://mp.weixin.qq.com/s/1dF4cEN-b7QzE1y3bIGewQ)
+
+[动手学正则表达式(含Python代码实践)](https://mp.weixin.qq.com/s/MFvJ8jcQf0pOiu-GRPMlFQ)
 
 <p><strong>NLP相关工具及在线测试（公众号对话测试）</strong><br>
 
