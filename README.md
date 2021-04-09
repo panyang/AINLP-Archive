@@ -181,6 +181,8 @@
 
 [模型压缩与蒸馏！BERT家族的瘦身之路](https://mp.weixin.qq.com/s/8QQq5FvhxWhK4WdDQ8UuMA)
 
+[如何提升BERT在下游任务中的性能](https://mp.weixin.qq.com/s/5KVl85TUemjOqxq87AXmCg)
+
 <p><strong>BERT之外</strong></p>
 
 <a href="https://mp.weixin.qq.com/s/0pYFb2POAcV1AKTLJ7t1DA" rel="noopener" target="_blank">效果惊人的GPT 2.0模型：它告诉了我们什么</a><br>
@@ -262,6 +264,10 @@
 [T5: 文本到文本的Transformer迁移学习](https://mp.weixin.qq.com/s/ON5VNF2ofDEK09pn_YkrkQ)
 
 [SOTA来啦！BERT又又又又又又魔改了！DeBERTa登顶GLUE~](https://mp.weixin.qq.com/s/OgFo5CdrFuM8-58Xu5xJpg)
+
+[【关于 FastBERT 实现】那些你不知道的事](https://mp.weixin.qq.com/s/a019YFKe-F_CDAVqu2CJIA)
+
+[软硬兼施极限轻量BERT！能比ALBERT再轻13倍？！](https://mp.weixin.qq.com/s/9hBsINy-uFHP7W9l57sggA)
 
 <p><strong>中文分词/词性标注</strong><br>
 
@@ -560,6 +566,8 @@
 
 [推荐系统之未登录特征值处理](https://mp.weixin.qq.com/s/YxOODYD83H4kS0BmTDZKJA)
 
+[推荐系统之Position-Bias建模](https://mp.weixin.qq.com/s/7m_ncA4OTZkfcCDwDvpmag)
+
 <a href="https://mp.weixin.qq.com/s/B-6uslNc56VpB0fJRoPraw" rel="noopener" target="_blank">当我们谈论“推荐系统”时在谈论什么？</a><br>
 
 <a href="https://mp.weixin.qq.com/s/ys8qmUlUmGZfSYEChezENg" rel="noopener" target="_blank">推荐系统中的矩阵分解技术</a><br>
@@ -704,7 +712,11 @@
 
 [Airbnb搜索：重排序阶段如何优化搜索结果多样性？](https://mp.weixin.qq.com/s/W4NyVBgLpz0fiP4HyudAdg)
 
+[CIKM 2020 搜索推荐广告论文集锦](https://mp.weixin.qq.com/s/t0lBqsIkb1_uBr7706cohg)
+
 <p><strong>关系抽取</strong></p>
+
+[综述：关系抽取，挑战与机遇并存！](https://mp.weixin.qq.com/s/mwDCk5Lv6sEIPPLpkN63LQ)
 
 <a href="https://mp.weixin.qq.com/s/4lcnqp60045CIHa_mMXgVw" rel="noopener" target="_blank">关系提取简述</a><br>
 
@@ -1097,6 +1109,8 @@
 [我的第一篇论文诞生的故事](https://mp.weixin.qq.com/s/9AvA8FOEf91S7R_9QBzFwg)
 
 <a href="https://mp.weixin.qq.com/s/2pv59oAqzvMc6JoW-8Y5CQ" rel="noopener" target="_blank">神经网络佛系炼丹手册</a><br>
+
+[一文弄懂各种loss function](https://mp.weixin.qq.com/s/n9bUiYjFBmUvXUZys44GDQ)
 
 <a href="https://mp.weixin.qq.com/s/CZ9sOAqE-D1cq40ZzBETnw" rel="noopener" target="_blank">通过Docker部署深度学习项目环境</a><br>
 
