@@ -658,9 +658,13 @@
 
 [广告模型初探（三）](https://mp.weixin.qq.com/s/KoGt_DULtiSjTT0kqd7TVA)
 
+[OCPC产品初探](https://mp.weixin.qq.com/s/T_eROEno3OabcIqHAFSgkQ)
+
 [CTR学习笔记&代码实现1-深度学习的前奏LR->FFM](https://mp.weixin.qq.com/s/lphTXdbYOyomMU6O0CH2Pw)
 
 [CTR学习笔记&代码实现2-深度ctr模型 MLP->Wide&Deep](https://mp.weixin.qq.com/s/wJjg7BASLgdEZI4twBwUoQ)
+
+[增量学习在CTR模型训练中的实践](https://mp.weixin.qq.com/s/1Ke84U3sd2qZvqM1eaCQ8Q)
 
 [CTR预估系列炼丹入门手册](https://mp.weixin.qq.com/s/TeI286JUS5oCD9u1nho9pA)
 
@@ -697,6 +701,8 @@
 [搜索中的意图识别](https://mp.weixin.qq.com/s/hMem_aiSY-3q9Qu-ySdAYg)
 
 [Airbnb搜索：Embedding表示学习](https://mp.weixin.qq.com/s/VJWzDibwa41dZfU8R2RIoA)
+
+[[Search] 爱彼迎在搜索中应用深度学习的经验](https://mp.weixin.qq.com/s/DwG2mcMrEXhjDAotPB9phg)
 
 [知乎搜索文本相关性与知识蒸馏](https://mp.weixin.qq.com/s/89rGFT1QNKKjkt9QKJGmyA)
 
@@ -930,6 +936,7 @@
 
 [快速从无到有建模完成思路](https://mp.weixin.qq.com/s/LimJC6Hw7wEDB9FitBNMkA)
 
+
 <p><strong>系统架构</strong></p>
 
 [Mesh-Tensorflow: 广义分布式训练大模型](https://mp.weixin.qq.com/s/gr8443SRnBbGT9jtRi2SoA)
@@ -1098,11 +1105,17 @@
 
 [自然语言处理领域的数据增广方法](https://mp.weixin.qq.com/s/gANDD_mr23cebClXm4Cn2w)
 
+[浅谈文本增强技术](https://mp.weixin.qq.com/s/xidEbzOlt-DnPbwp0noQ_Q)
+
 [Meta Learning 1: 基于度量的方法](https://mp.weixin.qq.com/s/83Og49hh93GPr0CHHBUJPA)
 
 [Meta Learning 2: 更多基于度量的方法](https://mp.weixin.qq.com/s/DavUZWyq2GxJUmDhpg9yxw)
 
 [元学习综述 | 进入Meta Learning的世界(一)](https://mp.weixin.qq.com/s/46nvCl5o4QYvRemzOrnaoQ)
+
+[自监督学习: 人工智能的未来](https://mp.weixin.qq.com/s/bePH-MftVBa9W6TiPQlH4w)
+
+[21个经典深度学习句间关系模型｜代码&技巧](https://mp.weixin.qq.com/s/VAxuijiFWmXTi8eEkxnwcQ)
 
 [AoAFFM:Attention+FFM强强组合](https://mp.weixin.qq.com/s/8SiPrDGlrDwP55U3muTJ-g)
 
@@ -1153,6 +1166,8 @@
 <a href="https://mp.weixin.qq.com/s/EM1d9Jn4RcghSZe-qptdqA" rel="noopener" target="_blank">fastText原理及实践</a><br>
 
 [概率图模型系列（一）：概率图模型简介](https://mp.weixin.qq.com/s/mkM0N9eqRIT1Sx9cbBK9dg)
+
+[Calibration: 一个工业价值极大，学术界却鲜有研究的问题！](https://mp.weixin.qq.com/s/GXc29l7_uIPPKUtm6QgTrQ)
 
 [【科普】 AI是什么？AI可以做什么？AI会取代人的工作吗？](https://mp.weixin.qq.com/s/SfWiGypHV3X4V7NE_A7KtQ)
 
