@@ -660,6 +660,8 @@
 
 [OCPC产品初探](https://mp.weixin.qq.com/s/T_eROEno3OabcIqHAFSgkQ)
 
+[玩儿转oCPC](https://mp.weixin.qq.com/s/V67YXV69dlmc2ke2WgPewQ)
+
 [CTR学习笔记&代码实现1-深度学习的前奏LR->FFM](https://mp.weixin.qq.com/s/lphTXdbYOyomMU6O0CH2Pw)
 
 [CTR学习笔记&代码实现2-深度ctr模型 MLP->Wide&Deep](https://mp.weixin.qq.com/s/wJjg7BASLgdEZI4twBwUoQ)
@@ -720,6 +722,8 @@
 
 [CIKM 2020 搜索推荐广告论文集锦](https://mp.weixin.qq.com/s/t0lBqsIkb1_uBr7706cohg)
 
+[搜索推荐广告排序之用户行为序列建模](https://mp.weixin.qq.com/s/ZsekCl1uOqKxUOOk0otk_Q)
+
 <p><strong>关系抽取</strong></p>
 
 [综述：关系抽取，挑战与机遇并存！](https://mp.weixin.qq.com/s/mwDCk5Lv6sEIPPLpkN63LQ)
@@ -775,6 +779,8 @@
 <a href="https://mp.weixin.qq.com/s/SZzJW-tOg-ZJE3jTmYHY7A" rel="noopener" target="_blank">知识图谱从哪里来：实体关系抽取的现状与未来</a></p>
 
 [知识图谱在小米的应用与探索](https://mp.weixin.qq.com/s/2qUcgylTKGXADk9IjHXrZQ)
+
+[百度知识图谱技术及应用](https://mp.weixin.qq.com/s/KMmg_EE2XzsciHT1yV5iRA)
 
 <p><strong>图神经网络</strong></p>
 
@@ -916,9 +922,13 @@
 
 [20->21：算法工程师的成长思考](https://mp.weixin.qq.com/s/SDyTWKMafmu-YtxXfJ0OLA)
 
+[业务，工程和算法的互殴现场](https://mp.weixin.qq.com/s/AKS_VL54osNeq21PxdAQEQ)
+
 [那一年，让我整个人升华的C++ BERT项目](https://mp.weixin.qq.com/s/emvQOJNMnf0QqsjcqD6M7w)
 
 [[杂谈] 算法工程师们到底在干什么？](https://mp.weixin.qq.com/s/LvJCnz7Aivif3HTvb5iMyg)
+
+[为什么要挤破头进大厂？说说那些你不知道的潜在原因](https://mp.weixin.qq.com/s/HJXKGP2y3-yzgNFeKmzArQ)
 
 <p><strong>实战经验分享</strong></p>
 
@@ -946,6 +956,8 @@
 [认真的聊一聊决策树和随机森林](https://mp.weixin.qq.com/s/KIzT501x149-gvg1p8isrQ)
 
 <p><strong>论文笔记</strong><br>
+
+[带噪学习研究及其在内容审核业务下的工业级应用](https://mp.weixin.qq.com/s/5DiQEOKBFMQ24NslHIGC1g)
 
 [KDD'19| ConcepT 腾讯如何打造概念标签体系？](https://mp.weixin.qq.com/s/7X37ftyLVaZ3-W_JwznyJQ)
 
@@ -1216,6 +1228,10 @@
 [你还在为如何搞科研而发愁么？](https://mp.weixin.qq.com/s/1dF4cEN-b7QzE1y3bIGewQ)
 
 [动手学正则表达式(含Python代码实践)](https://mp.weixin.qq.com/s/MFvJ8jcQf0pOiu-GRPMlFQ)
+
+[机器学习该怎么入门？（绝对干货）](https://mp.weixin.qq.com/s/8GA4zmbYSlyZ9TiBd8nCFw)
+
+[从Few-shot Learning再次认识机器学习](https://mp.weixin.qq.com/s/EPafCEIg7LYqsnwYq3-nvg)
 
 <p><strong>NLP相关工具及在线测试（公众号对话测试）</strong><br>
 
