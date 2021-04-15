@@ -179,6 +179,8 @@
 
 [深度学习中的知识蒸馏技术（上）](https://mp.weixin.qq.com/s/pth5nb1Q4SpO-iAhjmgfcA)
 
+[深度学习中的知识蒸馏技术(下)-知识蒸馏与推荐系统](https://mp.weixin.qq.com/s/w5sSCVxIba5kO1eKpy5Vrg)
+
 [模型压缩与蒸馏！BERT家族的瘦身之路](https://mp.weixin.qq.com/s/8QQq5FvhxWhK4WdDQ8UuMA)
 
 [如何提升BERT在下游任务中的性能](https://mp.weixin.qq.com/s/5KVl85TUemjOqxq87AXmCg)
@@ -568,6 +570,8 @@
 
 [推荐系统之Position-Bias建模](https://mp.weixin.qq.com/s/7m_ncA4OTZkfcCDwDvpmag)
 
+[推荐系统之Co-action Network理解与实践](https://mp.weixin.qq.com/s/4BRrQkjFA7U97zn--o1gew)
+
 <a href="https://mp.weixin.qq.com/s/B-6uslNc56VpB0fJRoPraw" rel="noopener" target="_blank">当我们谈论“推荐系统”时在谈论什么？</a><br>
 
 <a href="https://mp.weixin.qq.com/s/ys8qmUlUmGZfSYEChezENg" rel="noopener" target="_blank">推荐系统中的矩阵分解技术</a><br>
@@ -672,6 +676,8 @@
 
 [CTR神经网络特征交叉汇总！](https://mp.weixin.qq.com/s/nkArZKClfwLQs-hnbuVfkw)
 
+[CTR模型越来越"深"，如何让它变"轻"?](https://mp.weixin.qq.com/s/YjNOJ5oiyMRmdYyj9v3CPA)
+
 [特征交互新路线|阿里 Co-action Network论文解读](https://mp.weixin.qq.com/s/KEnkwa3ZwnIKi8ZxsPOCaQ)
 
 [Normalization在CTR问题中的迷之效果！](https://mp.weixin.qq.com/s/UVo_ibGh0fTNuHiPYByd_A)
@@ -763,6 +769,8 @@
 [问答知识图谱还缺少什么信息？](https://mp.weixin.qq.com/s/hrq45NFAert9R8mvdVRUKw)
 
 [知识表示与融入技术前沿进展及应用](https://mp.weixin.qq.com/s/3V6vzrev4xPYKJmGqXNnAg)
+
+[知识表示学习-链接预测指标介绍](https://mp.weixin.qq.com/s/SmPdESZCrcBCjshmPtwjsw)
 
 [无需人工！无需训练！构建知识图谱 BERT一下就行了！](https://mp.weixin.qq.com/s/fxXpwcQx7ogay8qcLAUXsw)
 
@@ -1176,6 +1184,10 @@
 <a href="https://mp.weixin.qq.com/s/uLwIJWrvAJssFMAxWfr0BA" rel="noopener" target="_blank">详解TensorFlow™ GPU 安装</a><br>
 
 <a href="https://mp.weixin.qq.com/s/EM1d9Jn4RcghSZe-qptdqA" rel="noopener" target="_blank">fastText原理及实践</a><br>
+
+[NLP 百问百答](https://mp.weixin.qq.com/s/y4e1bSYK4rhg6FcuzCZa5g)
+
+[这20个技巧让你的NN训练事半功倍](https://mp.weixin.qq.com/s/CiRIFoVYBBO4CsAxMB1v_A)
 
 [概率图模型系列（一）：概率图模型简介](https://mp.weixin.qq.com/s/mkM0N9eqRIT1Sx9cbBK9dg)
 
