@@ -455,6 +455,8 @@
 
 [CRSLab：可能是最适合你的对话推荐系统开源库](https://mp.weixin.qq.com/s/n9xP9R7gY7n3d890W0TXvw)
 
+[对话的囧境？](https://mp.weixin.qq.com/s/UHfw3uaDM_vQFUCmqX0gTA)
+
 [达摩院基于元学习的对话系统](https://mp.weixin.qq.com/s/NCum-Qi8j6nTcPU-fm-uvA)
 
 [百分点智能对话技术探索实践](https://mp.weixin.qq.com/s/i4wGBMe1KoB-khVTIjgHEg)
@@ -707,6 +709,8 @@
 [浅谈Query理解和分析](https://mp.weixin.qq.com/s/jqBgIHhR4EuH1-VNN8H-ow)
 
 [搜索中的意图识别](https://mp.weixin.qq.com/s/hMem_aiSY-3q9Qu-ySdAYg)
+
+[搜索领域算法需要掌握的知识](https://mp.weixin.qq.com/s/OMsAsJpZ6ScyCO2X-0-LDA)
 
 [Airbnb搜索：Embedding表示学习](https://mp.weixin.qq.com/s/VJWzDibwa41dZfU8R2RIoA)
 
@@ -1244,6 +1248,10 @@
 [机器学习该怎么入门？（绝对干货）](https://mp.weixin.qq.com/s/8GA4zmbYSlyZ9TiBd8nCFw)
 
 [从Few-shot Learning再次认识机器学习](https://mp.weixin.qq.com/s/EPafCEIg7LYqsnwYq3-nvg)
+
+[NeurIPS 2020 | 没有乘法的神经网络，照样起飞？](https://mp.weixin.qq.com/s/hwFFIDG2JMWwfFOcHiei_A)
+
+[一文看懂贝叶斯优化/Bayesian Optimization](https://mp.weixin.qq.com/s/WPpAqLuisfN3za1LJpG6JQ)
 
 <p><strong>NLP相关工具及在线测试（公众号对话测试）</strong><br>
 
