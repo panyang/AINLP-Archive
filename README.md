@@ -969,6 +969,8 @@
 
 <p><strong>论文笔记</strong><br>
 
+[无心插柳 | 聊聊我的 ACL2020 论文](https://mp.weixin.qq.com/s/GBSk8iYS8CiAOXGtgN3BiQ)
+
 [带噪学习研究及其在内容审核业务下的工业级应用](https://mp.weixin.qq.com/s/5DiQEOKBFMQ24NslHIGC1g)
 
 [KDD'19| ConcepT 腾讯如何打造概念标签体系？](https://mp.weixin.qq.com/s/7X37ftyLVaZ3-W_JwznyJQ)
@@ -999,7 +1001,9 @@
 
 [损失函数的“噪音免疫力”](https://mp.weixin.qq.com/s/iench6jBEDP1NxHB5pJwvQ)
 
-[去年年底的事情了，在PPoPP 2021会议上中了一篇分布式训练论文——DAPPLE](https://mp.weixin.qq.com/s/JGmm3_AqC2eaEy-4dnbIHw)
+[当卷积网络遇上事件检测 (经典论文解读）](
+
+[在PPoPP 2021会议上中了一篇分布式训练论文——DAPPLE](https://mp.weixin.qq.com/s/JGmm3_AqC2eaEy-4dnbIHw)
 
 <p><strong>课程笔记</strong><br>
 
@@ -1252,6 +1256,10 @@
 [NeurIPS 2020 | 没有乘法的神经网络，照样起飞？](https://mp.weixin.qq.com/s/hwFFIDG2JMWwfFOcHiei_A)
 
 [一文看懂贝叶斯优化/Bayesian Optimization](https://mp.weixin.qq.com/s/WPpAqLuisfN3za1LJpG6JQ)
+
+[在机器学习中处理大量数据！](https://mp.weixin.qq.com/s/wYqlvgz3sIf1GtHIGeNicA)
+
+[线上线下效果一致性杂谈](https://mp.weixin.qq.com/s/GBSk8iYS8CiAOXGtgN3BiQ)
 
 <p><strong>NLP相关工具及在线测试（公众号对话测试）</strong><br>
 
