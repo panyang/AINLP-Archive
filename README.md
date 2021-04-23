@@ -672,6 +672,8 @@
 
 [玩儿转oCPC](https://mp.weixin.qq.com/s/V67YXV69dlmc2ke2WgPewQ)
 
+[广告主成本怎么又超了!](https://mp.weixin.qq.com/s/W7udvUIl5Q8OjkSemyUqRg)
+
 [CTR学习笔记&代码实现1-深度学习的前奏LR->FFM](https://mp.weixin.qq.com/s/lphTXdbYOyomMU6O0CH2Pw)
 
 [CTR学习笔记&代码实现2-深度ctr模型 MLP->Wide&Deep](https://mp.weixin.qq.com/s/wJjg7BASLgdEZI4twBwUoQ)
@@ -739,6 +741,8 @@
 [搜索推荐广告排序之用户行为序列建模](https://mp.weixin.qq.com/s/ZsekCl1uOqKxUOOk0otk_Q)
 
 <p><strong>关系抽取</strong></p>
+
+[从头来看关系抽取](https://mp.weixin.qq.com/s/rNsfNHuiPne6INX29iHuRA)
 
 [综述：关系抽取，挑战与机遇并存！](https://mp.weixin.qq.com/s/mwDCk5Lv6sEIPPLpkN63LQ)
 
@@ -809,6 +813,8 @@
 [GNN教程：图神经网络“开山之作”！](https://mp.weixin.qq.com/s/ZdH2_N3JyUQ76TPK3fRzhg)
 
 [GNN教程：GraghSAGE算法细节详解！](https://mp.weixin.qq.com/s/afnlwSIFgm2S9Im5iOdu7Q)
+
+[2021年，我终于决定入门GCN](https://mp.weixin.qq.com/s/wFlLBoeUW90RracK11pjtg)
 
 [KDD20 | 基于差分变量去相关的稳定学习](https://mp.weixin.qq.com/s/3RMEzXK0Lz6Fk20JKn4tfg)
 
@@ -1150,6 +1156,8 @@
 [元学习综述 | 进入Meta Learning的世界(一)](https://mp.weixin.qq.com/s/46nvCl5o4QYvRemzOrnaoQ)
 
 [自监督学习: 人工智能的未来](https://mp.weixin.qq.com/s/bePH-MftVBa9W6TiPQlH4w)
+
+[从顶会看自监督学习最新研究进展](https://mp.weixin.qq.com/s/9RwlOwaiHoQyPs4kKIfy5w)
 
 [21个经典深度学习句间关系模型｜代码&技巧](https://mp.weixin.qq.com/s/VAxuijiFWmXTi8eEkxnwcQ)
 
