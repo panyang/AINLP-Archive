@@ -271,6 +271,8 @@
 
 [软硬兼施极限轻量BERT！能比ALBERT再轻13倍？！](https://mp.weixin.qq.com/s/9hBsINy-uFHP7W9l57sggA)
 
+[【关于自训练 + 预训练 = 更好的自然语言理解模型 】 那些的你不知道的事](https://mp.weixin.qq.com/s/BE0yZxK4_Nksy09Xmvkr-g)
+
 <p><strong>中文分词/词性标注</strong><br>
 
 <a href="https://mp.weixin.qq.com/s/Sy2hukGVk-7QQY_YNQ10kw" target="_blank" rel="noopener">五款中文分词工具在线PK: Jieba, SnowNLP, PkuSeg, THULAC, HanLP</a><br>
@@ -573,6 +575,8 @@
 [推荐系统之Position-Bias建模](https://mp.weixin.qq.com/s/7m_ncA4OTZkfcCDwDvpmag)
 
 [推荐系统之Co-action Network理解与实践](https://mp.weixin.qq.com/s/4BRrQkjFA7U97zn--o1gew)
+
+[推荐系统之ContextDNN模型](https://mp.weixin.qq.com/s/trFU_UrM47adlb8ZcW3dcw)
 
 <a href="https://mp.weixin.qq.com/s/B-6uslNc56VpB0fJRoPraw" rel="noopener" target="_blank">当我们谈论“推荐系统”时在谈论什么？</a><br>
 
@@ -918,6 +922,8 @@
 
 [【经验分享】半路出身、终去鹅厂算法岗, 总结、分析踩过的坑](https://mp.weixin.qq.com/s/TX5_dZx23o48BB-W7I-adg)
 
+[秋招算法岗，面试复盘](https://mp.weixin.qq.com/s/z7e2wFr0rpgopsi0Pl-zqw)
+
 <p><strong>算法工程师之路</strong></p>
 
 [四化大业：论算法工程师的自我修养](https://mp.weixin.qq.com/s/qaSaVsYtvWG5EDDOUi82oA)
@@ -1001,7 +1007,9 @@
 
 [损失函数的“噪音免疫力”](https://mp.weixin.qq.com/s/iench6jBEDP1NxHB5pJwvQ)
 
-[当卷积网络遇上事件检测 (经典论文解读）](
+[当卷积网络遇上事件检测 (经典论文解读）](https://mp.weixin.qq.com/s/gse58QQ85fNXeW_FSFPAaw)
+
+[5分钟读完史上第一篇二维卷积序列推荐的论文](https://mp.weixin.qq.com/s/27G-f2POoOpJCZF9O4NzeA)
 
 [在PPoPP 2021会议上中了一篇分布式训练论文——DAPPLE](https://mp.weixin.qq.com/s/JGmm3_AqC2eaEy-4dnbIHw)
 
