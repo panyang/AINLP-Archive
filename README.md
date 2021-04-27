@@ -42,10 +42,9 @@
 
 <a href="https://mp.weixin.qq.com/s/iqAbAHr3fvyFcm3K1LR3kw" target="_blank" rel="noopener">你是如何了解或者进入NLP这个领域的？</a><br>
 
-<a href="https://mp.weixin.qq.com/s/lfXOu32_0IbNz0lzx3eIog" target="_blank" rel="noopener">NLP is hard! 自然语言处理太难了系列</a></p>
+[NLP is hard! 自然语言处理太难了系列](https://mp.weixin.qq.com/s/3f2XUn9959krRDohNfTLfg)
 
 [2021年NLP入门书籍推荐｜理论&实战](https://mp.weixin.qq.com/s/zHTvH6JMSeDa-6k82tsaJg)
-
 
 <p><strong>深度学习基础</strong></p>
 
@@ -185,6 +184,8 @@
 
 [如何提升BERT在下游任务中的性能](https://mp.weixin.qq.com/s/5KVl85TUemjOqxq87AXmCg)
 
+[如果只能做整数Integer运算还能用BERT吗？](https://mp.weixin.qq.com/s/PMOrY5ZElyPGOVxZgXFVzw)
+
 <p><strong>BERT之外</strong></p>
 
 <a href="https://mp.weixin.qq.com/s/0pYFb2POAcV1AKTLJ7t1DA" rel="noopener" target="_blank">效果惊人的GPT 2.0模型：它告诉了我们什么</a><br>
@@ -272,6 +273,7 @@
 [软硬兼施极限轻量BERT！能比ALBERT再轻13倍？！](https://mp.weixin.qq.com/s/9hBsINy-uFHP7W9l57sggA)
 
 [【关于自训练 + 预训练 = 更好的自然语言理解模型 】 那些的你不知道的事](https://mp.weixin.qq.com/s/BE0yZxK4_Nksy09Xmvkr-g)
+
 
 <p><strong>中文分词/词性标注</strong><br>
 
@@ -476,6 +478,8 @@
 [EMNLP 2020 | 大道至简，后浪选手DPR暴打前浪BM25](https://mp.weixin.qq.com/s/UywD4imkRFlqKSDwBPwV0w)
 
 [达摩院Conversational AI研究进展及应用](https://mp.weixin.qq.com/s/hdus6c1h8TTqPfpfS-v0Ug)
+
+[国外有哪些领先的智能对话平台？](https://mp.weixin.qq.com/s/QAY--hsXefg49pdC6gQxXw)
 
 <p><strong>文本生成</strong></p>
 
@@ -718,6 +722,8 @@
 
 [搜索领域算法需要掌握的知识](https://mp.weixin.qq.com/s/OMsAsJpZ6ScyCO2X-0-LDA)
 
+[用户画像初探](https://mp.weixin.qq.com/s/YJG8PXBgljJvtttXy2cDmA)
+
 [Airbnb搜索：Embedding表示学习](https://mp.weixin.qq.com/s/VJWzDibwa41dZfU8R2RIoA)
 
 [[Search] 爱彼迎在搜索中应用深度学习的经验](https://mp.weixin.qq.com/s/DwG2mcMrEXhjDAotPB9phg)
@@ -953,6 +959,8 @@
 [[杂谈] 算法工程师们到底在干什么？](https://mp.weixin.qq.com/s/LvJCnz7Aivif3HTvb5iMyg)
 
 [为什么要挤破头进大厂？说说那些你不知道的潜在原因](https://mp.weixin.qq.com/s/HJXKGP2y3-yzgNFeKmzArQ)
+
+[想做算法，你需要哪些条件？](https://mp.weixin.qq.com/s/F-f7hMEpSya9G0DdPYBOmA)
 
 <p><strong>实战经验分享</strong></p>
 
