@@ -186,6 +186,10 @@
 
 [如果只能做整数Integer运算还能用BERT吗？](https://mp.weixin.qq.com/s/PMOrY5ZElyPGOVxZgXFVzw)
 
+[如何在脱敏数据中使用BERT等预训练模型](https://mp.weixin.qq.com/s/1d0nFUJhB5tUcYJfandRNw)
+
+[ALL in BERT：一套操作冲进排行榜首页](https://mp.weixin.qq.com/s/Ggzmek2C8sFe92u_IuPwlQ)
+
 <p><strong>BERT之外</strong></p>
 
 <a href="https://mp.weixin.qq.com/s/0pYFb2POAcV1AKTLJ7t1DA" rel="noopener" target="_blank">效果惊人的GPT 2.0模型：它告诉了我们什么</a><br>
@@ -842,6 +846,8 @@
 
 [敢问多任务学习优化算法路在何方？｜附代码](https://mp.weixin.qq.com/s/AZtyQQj6J1Ip5xQdseispg)
 
+[如何利用多任务学习提升模型性能？](https://mp.weixin.qq.com/s/Q0pU4Opy20-XszmJTB3gJg)
+
 <p><strong>竞赛之路</strong></p>
 
 [iFLYTEK 多语种文本挖掘挑战赛冠军分享](https://mp.weixin.qq.com/s/eP54KW_sBkHS0XSn5pHq6w)
@@ -961,6 +967,8 @@
 [为什么要挤破头进大厂？说说那些你不知道的潜在原因](https://mp.weixin.qq.com/s/HJXKGP2y3-yzgNFeKmzArQ)
 
 [想做算法，你需要哪些条件？](https://mp.weixin.qq.com/s/F-f7hMEpSya9G0DdPYBOmA)
+
+[诸葛越：关于算法工程师职业发展的思考](https://mp.weixin.qq.com/s/fPUFalq0-uCl_ObSAhDGoQ)
 
 <p><strong>实战经验分享</strong></p>
 
