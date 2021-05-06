@@ -48,6 +48,8 @@
 
 <p><strong>深度学习基础</strong></p>
 
+[硬核！深度学习中的Normalization必知必会](https://mp.weixin.qq.com/s/kYVPvevZMUMoypKSFg2MlA)
+
 [再谈 L2：与 Weight Decay 还有 Batch Norm 不说其实也可以的故事](https://mp.weixin.qq.com/s/2FW6rqTxcil88fona9_U7g)
 
 <p><strong>词向量</strong></p>
@@ -167,6 +169,8 @@
 [知识蒸馏：让LSTM重返巅峰！](https://mp.weixin.qq.com/s/ZxFsCxPD9FU3DzKX-rdpuA)
 
 [如何有效的降低BERT参数量](https://mp.weixin.qq.com/s/1R5R230jFtVXpaFMX9GyaQ)
+
+[如何写好BERT知识蒸馏的损失函数代码(一)](https://mp.weixin.qq.com/s/FKFxS5XwL2TcIGDpJBG00Q)
 
 <a href="https://mp.weixin.qq.com/s/48y3gpPLs583Vv-QXpcnlQ" rel="noopener" target="_blank">【Github】BERT-train2deploy：BERT模型从训练到部署</a><br>
 
@@ -852,6 +856,8 @@
 
 [iFLYTEK 多语种文本挖掘挑战赛冠军分享](https://mp.weixin.qq.com/s/eP54KW_sBkHS0XSn5pHq6w)
 
+[小布助手对话短文本语义匹配-周星星分享](https://mp.weixin.qq.com/s/yPSzsouV3shc2ZDfOL0T7Q)
+
 <a href="https://mp.weixin.qq.com/s/mIuT9RaJ5q1mQ_9K3U-_UQ" rel="noopener" target="_blank">AI Challenger 2017 奇遇记</a><br>
 
 <a href="https://mp.weixin.qq.com/s/pbMQBf5wOLNlZChLe5MgkA" rel="noopener" target="_blank">AI Challenger 2018 简记</a><br>
@@ -967,6 +973,8 @@
 [为什么要挤破头进大厂？说说那些你不知道的潜在原因](https://mp.weixin.qq.com/s/HJXKGP2y3-yzgNFeKmzArQ)
 
 [想做算法，你需要哪些条件？](https://mp.weixin.qq.com/s/F-f7hMEpSya9G0DdPYBOmA)
+
+[浅谈解决问题的能力](https://mp.weixin.qq.com/s/mwGFSBzyu6jdIGb8P5DGyA)
 
 [诸葛越：关于算法工程师职业发展的思考](https://mp.weixin.qq.com/s/fPUFalq0-uCl_ObSAhDGoQ)
 
