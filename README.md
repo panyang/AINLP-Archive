@@ -114,8 +114,9 @@
 
 <a href="https://mp.weixin.qq.com/s/q5OyrIycfN4fjQ33uSRmEA" target="_blank" rel="noopener">BERT相关论文、文章和代码资源汇总</a><br>
 
-[BERT中CLS效果真的好嘛？这篇文章告诉你答案](https://mp.weixin.qq.com/s/01zUpZXJ1_6qebcDiGJMyA
-)
+[BERT中CLS效果真的好嘛？这篇文章告诉你答案](https://mp.weixin.qq.com/s/01zUpZXJ1_6qebcDiGJMyA)
+
+[关于BERT，面试官们都怎么问](https://mp.weixin.qq.com/s/9ABJeU4skxTLPRNLLqUrIQ)
 
 <p><strong>BERT源码</strong></p>
 
@@ -381,6 +382,10 @@
 
 [华为云细粒度文本情感分析及应用](https://mp.weixin.qq.com/s/0zDrYpCkvvLsGrYQNTzRxg)
 
+[【关于 文本分类 trick】那些你不知道的事](https://mp.weixin.qq.com/s/MQHqY6bR9Uzpswz2sCRlsQ)
+
+[【关于 文本分类 trick】那些你不知道的事](https://mp.weixin.qq.com/s/MQHqY6bR9Uzpswz2sCRlsQ)
+
 <p><strong>文本摘要</strong><br>
 
 <a href="https://mp.weixin.qq.com/s/tCRYxCWyduhY9GDiTDzmgA" rel="noopener" target="_blank">抛开模型，探究文本自动摘要的本质——ACL2019 论文佳作研读系列</a><br>
@@ -408,6 +413,8 @@
 <p><strong>文本匹配</strong><br>
 
 [阿里RE2：如何将残差与文本匹配模型融合](https://mp.weixin.qq.com/s/Yh9Cz5TxnZmN8nOOkI6N0A)
+
+[Github13K！相似搜索百宝箱，文本匹配入门必备！](https://mp.weixin.qq.com/s/oZlQPTky-2_EBuld5v5OqQ)
 
 <p><strong>问答系统/对话系统/聊天机器人</strong><br>
 
@@ -851,6 +858,8 @@
 [敢问多任务学习优化算法路在何方？｜附代码](https://mp.weixin.qq.com/s/AZtyQQj6J1Ip5xQdseispg)
 
 [如何利用多任务学习提升模型性能？](https://mp.weixin.qq.com/s/Q0pU4Opy20-XszmJTB3gJg)
+
+[多任务学习(MTL)在转化率预估上的应用](https://mp.weixin.qq.com/s/uSP3oKe3eiPplWvbgaZJtQ)
 
 <p><strong>竞赛之路</strong></p>
 
