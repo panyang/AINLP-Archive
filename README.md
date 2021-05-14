@@ -48,6 +48,8 @@
 
 <p><strong>深度学习基础</strong></p>
 
+
+
 [硬核！深度学习中的Normalization必知必会](https://mp.weixin.qq.com/s/kYVPvevZMUMoypKSFg2MlA)
 
 [再谈 L2：与 Weight Decay 还有 Batch Norm 不说其实也可以的故事](https://mp.weixin.qq.com/s/2FW6rqTxcil88fona9_U7g)
@@ -85,6 +87,8 @@
 [Transformer家族简史（PART II）](https://mp.weixin.qq.com/s/SPllU8IxvnqEK8Xud-1w-w)
 
 [Transformer的一家！](https://mp.weixin.qq.com/s/Z2W66OziBkMhufNBvnKlGQ)
+
+[关于Transformer，面试官们都怎么问](https://mp.weixin.qq.com/s/PtDZqM6IEGrX6juHBrh9uA)
 
 [AAAI21最佳论文Informer：效果远超Transformer的长序列预测神器！](https://mp.weixin.qq.com/s/3LhMRjbeaT0RmQ6VeSOCaw)
 
@@ -673,6 +677,10 @@
 
 [多目标排序在快手短视频推荐中的实践](https://mp.weixin.qq.com/s/2ZaQkTsFEt3WEzEVxmYYFQ)kkk
 
+[排序(rank)后重排(re-rank)?](https://mp.weixin.qq.com/s/Tvxcf9gU97UM72ac-oxtUA)
+
+[小白都能懂的推荐算法入门（一），从上古时期的LR开始聊起](https://mp.weixin.qq.com/s/xR8c26n1zW2jcujTS2UU9A)
+
 <p><strong>计算广告/广告系统</strong></p>
 
 [计算广告之在线广告市场和背景](https://mp.weixin.qq.com/s/TKXN1ejw6mmQNBBRI6Ideg)
@@ -760,6 +768,8 @@
 [CIKM 2020 搜索推荐广告论文集锦](https://mp.weixin.qq.com/s/t0lBqsIkb1_uBr7706cohg)
 
 [搜索推荐广告排序之用户行为序列建模](https://mp.weixin.qq.com/s/ZsekCl1uOqKxUOOk0otk_Q)
+
+[如何构建一个好的电商搜索引擎？](https://mp.weixin.qq.com/s/JcnkSuJh_SqHhZW_027fvQ)
 
 <p><strong>关系抽取</strong></p>
 
