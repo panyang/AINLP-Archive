@@ -701,6 +701,10 @@
 
 [广告主成本怎么又超了!](https://mp.weixin.qq.com/s/W7udvUIl5Q8OjkSemyUqRg)
 
+[点击率预估与冷启动（一）](https://mp.weixin.qq.com/s/fnv1nsXJX_4tTYHapV3uKg)
+
+[点击率预估与冷启动（二）](https://mp.weixin.qq.com/s/oHMMhe59L_p3vpZv5Bvtxg)
+
 [CTR学习笔记&代码实现1-深度学习的前奏LR->FFM](https://mp.weixin.qq.com/s/lphTXdbYOyomMU6O0CH2Pw)
 
 [CTR学习笔记&代码实现2-深度ctr模型 MLP->Wide&Deep](https://mp.weixin.qq.com/s/wJjg7BASLgdEZI4twBwUoQ)
@@ -747,9 +751,13 @@
 
 [用户画像初探](https://mp.weixin.qq.com/s/YJG8PXBgljJvtttXy2cDmA)
 
+[浅谈用户理解](https://mp.weixin.qq.com/s/7LAhFHRmQKiB3yo5KBOavA)
+
 [Airbnb搜索：Embedding表示学习](https://mp.weixin.qq.com/s/VJWzDibwa41dZfU8R2RIoA)
 
 [[Search] 爱彼迎在搜索中应用深度学习的经验](https://mp.weixin.qq.com/s/DwG2mcMrEXhjDAotPB9phg)
+
+[浅谈Learning to Rank中的RankNet和LambdaRank算法](https://mp.weixin.qq.com/s/f2VHJ6ls_Eh3RPPq7TGlUQ)
 
 [知乎搜索文本相关性与知识蒸馏](https://mp.weixin.qq.com/s/89rGFT1QNKKjkt9QKJGmyA)
 
@@ -994,6 +1002,8 @@
 [想做算法，你需要哪些条件？](https://mp.weixin.qq.com/s/F-f7hMEpSya9G0DdPYBOmA)
 
 [浅谈解决问题的能力](https://mp.weixin.qq.com/s/mwGFSBzyu6jdIGb8P5DGyA)
+
+[算法工程师如何顺利毕业？](https://mp.weixin.qq.com/s/je683B1X5NZQBrXOfKF6Jw)
 
 [诸葛越：关于算法工程师职业发展的思考](https://mp.weixin.qq.com/s/fPUFalq0-uCl_ObSAhDGoQ)
 
@@ -1319,6 +1329,8 @@
 [在机器学习中处理大量数据！](https://mp.weixin.qq.com/s/wYqlvgz3sIf1GtHIGeNicA)
 
 [线上线下效果一致性杂谈](https://mp.weixin.qq.com/s/GBSk8iYS8CiAOXGtgN3BiQ)
+
+[内卷的世界，我们是否可以换一种思维生活？](https://mp.weixin.qq.com/s/QjnmKJX8OqfNQcjXP62Liw)
 
 <p><strong>NLP相关工具及在线测试（公众号对话测试）</strong><br>
 
