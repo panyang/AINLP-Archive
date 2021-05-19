@@ -783,6 +783,8 @@
 
 [从头来看关系抽取](https://mp.weixin.qq.com/s/rNsfNHuiPne6INX29iHuRA)
 
+[从头来看关系抽取-远程监督来袭](https://mp.weixin.qq.com/s/C_ivji7Pz2UzYmKttif1_w)
+
 [综述：关系抽取，挑战与机遇并存！](https://mp.weixin.qq.com/s/mwDCk5Lv6sEIPPLpkN63LQ)
 
 <a href="https://mp.weixin.qq.com/s/4lcnqp60045CIHa_mMXgVw" rel="noopener" target="_blank">关系提取简述</a><br>
@@ -870,6 +872,8 @@
 <p><strong>多任务学习</strong></p>
 
 [2021年浅谈多任务学习](https://mp.weixin.qq.com/s/2I9iPFP_BkSjSEm7xJiHPQ)
+
+[一文"看透"多任务学习](https://mp.weixin.qq.com/s/mL9GjnTK1p4MtdI9Bx1huw)
 
 [Multi-Task 多任务学习， 那些你不知道的事](https://mp.weixin.qq.com/s/MOSMR3Ue9i3jYklPRvmWwA)
 
@@ -1004,6 +1008,8 @@
 [浅谈解决问题的能力](https://mp.weixin.qq.com/s/mwGFSBzyu6jdIGb8P5DGyA)
 
 [算法工程师如何顺利毕业？](https://mp.weixin.qq.com/s/je683B1X5NZQBrXOfKF6Jw)
+
+[知乎 | 一年半的时间成为算法工程师，这可能吗？](https://mp.weixin.qq.com/s/FSnLq7RHY8uhtHfcDLYAyA)
 
 [诸葛越：关于算法工程师职业发展的思考](https://mp.weixin.qq.com/s/fPUFalq0-uCl_ObSAhDGoQ)
 
@@ -1206,6 +1212,8 @@
 
 [Meta Learning 2: 更多基于度量的方法](https://mp.weixin.qq.com/s/DavUZWyq2GxJUmDhpg9yxw)
 
+[Meta Learning 3: 少样本文本分类 InductionNet](https://mp.weixin.qq.com/s/En-JWEEmFlu9q0I2evJu-g)
+
 [元学习综述 | 进入Meta Learning的世界(一)](https://mp.weixin.qq.com/s/46nvCl5o4QYvRemzOrnaoQ)
 
 [自监督学习: 人工智能的未来](https://mp.weixin.qq.com/s/bePH-MftVBa9W6TiPQlH4w)
@@ -1263,6 +1271,8 @@
 <a href="https://mp.weixin.qq.com/s/EM1d9Jn4RcghSZe-qptdqA" rel="noopener" target="_blank">fastText原理及实践</a><br>
 
 [NLP 百问百答](https://mp.weixin.qq.com/s/y4e1bSYK4rhg6FcuzCZa5g)
+
+[【关于 TF-idf】 那些你不知道的事](https://mp.weixin.qq.com/s/qTmprX7eYi8V76xhbuJhFA)
 
 [这20个技巧让你的NN训练事半功倍](https://mp.weixin.qq.com/s/CiRIFoVYBBO4CsAxMB1v_A)
 
