@@ -601,6 +601,8 @@
 
 [推荐系统之ContextDNN模型](https://mp.weixin.qq.com/s/trFU_UrM47adlb8ZcW3dcw)
 
+[推荐系统之多目标优化小结](https://mp.weixin.qq.com/s/I1r21v0JPfwiANNdhGJP1w)
+
 <a href="https://mp.weixin.qq.com/s/B-6uslNc56VpB0fJRoPraw" rel="noopener" target="_blank">当我们谈论“推荐系统”时在谈论什么？</a><br>
 
 <a href="https://mp.weixin.qq.com/s/ys8qmUlUmGZfSYEChezENg" rel="noopener" target="_blank">推荐系统中的矩阵分解技术</a><br>
@@ -753,6 +755,8 @@
 
 [浅谈用户理解](https://mp.weixin.qq.com/s/7LAhFHRmQKiB3yo5KBOavA)
 
+[做用户，绕不开画像！](https://mp.weixin.qq.com/s/sjnJJxV7MU4XAYTMGqyyPw)
+
 [Airbnb搜索：Embedding表示学习](https://mp.weixin.qq.com/s/VJWzDibwa41dZfU8R2RIoA)
 
 [[Search] 爱彼迎在搜索中应用深度学习的经验](https://mp.weixin.qq.com/s/DwG2mcMrEXhjDAotPB9phg)
@@ -864,6 +868,8 @@
 [图嵌入表示TADW：当DeepWalk加上外部文本信息](https://mp.weixin.qq.com/s/njg0jYc6SorTbD1S3P8MEA)
 
 [SDNE：深度模型图网络](https://mp.weixin.qq.com/s/HCJ4LEn48tmO5va6jnuGYA)
+
+[MM'19 | MMGCN 面向短视频推荐的多模态图神经网络](https://mp.weixin.qq.com/s/2sZIWLWp2sUaPDuFfpM9lw)
 
 <p><strong>强化学习</strong></p>
 
