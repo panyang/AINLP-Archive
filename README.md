@@ -74,6 +74,8 @@
 
 <a href="https://mp.weixin.qq.com/s/DvbvYppeuMaPn84SRAINcQ" rel="noopener" target="_blank">NLP中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert</a><br>
 
+[【关于 Word2vec】 那些你不知道的事](https://mp.weixin.qq.com/s/jbwl7pP-UxOLVXydI7oZJA)
+
 <p><strong>BERT基础</strong></p>
 
 [四万字全面详解 | 深度学习中的注意力机制（完结篇）](https://mp.weixin.qq.com/s/rWju_3bTAcTdWcP83AGtyA)
@@ -96,7 +98,7 @@
 
 <a href="https://mp.weixin.qq.com/s/LGJvvhotSg7XMn8mg3TZUw" target="_blank" rel="noopener">预训练在自然语言处理的发展: 从Word Embedding到BERT模型</a><br>
 
-<a href="https://mp.weixin.qq.com/s/p16IEzlaDGRNt8h6WkP-dQ" target="_blank" rel="noopener">从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史</a><br>
+[从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史](https://mp.weixin.qq.com/s/ggIpEneGXV9lLxCTyMwg9g)
 
 <a href="https://mp.weixin.qq.com/s/K07zCIibmhC03L-JOHoaKg" rel="noopener" target="_blank">Dive into BERT：语言模型与知识</a><br>
 
@@ -707,6 +709,8 @@
 
 [点击率预估与冷启动（二）](https://mp.weixin.qq.com/s/oHMMhe59L_p3vpZv5Bvtxg)
 
+[互联网大厂CTR预估前沿进展](https://mp.weixin.qq.com/s/-dl43fLkANojCRda0dpH4w)
+
 [CTR学习笔记&代码实现1-深度学习的前奏LR->FFM](https://mp.weixin.qq.com/s/lphTXdbYOyomMU6O0CH2Pw)
 
 [CTR学习笔记&代码实现2-深度ctr模型 MLP->Wide&Deep](https://mp.weixin.qq.com/s/wJjg7BASLgdEZI4twBwUoQ)
@@ -985,7 +989,11 @@
 
 [秋招算法岗，面试复盘](https://mp.weixin.qq.com/s/z7e2wFr0rpgopsi0Pl-zqw)
 
+[面经 | NLP算法岗（微软）](https://mp.weixin.qq.com/s/N_6FEkW2O9MtqNwJzgLglg)
+
 <p><strong>算法工程师之路</strong></p>
+
+[李沐：工作五年反思](https://mp.weixin.qq.com/s/OJlRfONG7jFqwPqYsCV9pw)
 
 [四化大业：论算法工程师的自我修养](https://mp.weixin.qq.com/s/qaSaVsYtvWG5EDDOUi82oA)
 
@@ -1014,6 +1022,8 @@
 [浅谈解决问题的能力](https://mp.weixin.qq.com/s/mwGFSBzyu6jdIGb8P5DGyA)
 
 [算法工程师如何顺利毕业？](https://mp.weixin.qq.com/s/je683B1X5NZQBrXOfKF6Jw)
+
+[【杂谈】在职业生涯早期就要创造出优势](https://mp.weixin.qq.com/s/lHnGCoEHBfMEaGDp9dc1Vg)
 
 [知乎 | 一年半的时间成为算法工程师，这可能吗？](https://mp.weixin.qq.com/s/FSnLq7RHY8uhtHfcDLYAyA)
 
@@ -1212,6 +1222,8 @@
 
 [自然语言处理领域的数据增广方法](https://mp.weixin.qq.com/s/gANDD_mr23cebClXm4Cn2w)
 
+[NLP模型中的数字原来这么有趣（一）](https://mp.weixin.qq.com/s/m1aANo5yZ0mkEhd8hwOrWg)
+
 [浅谈文本增强技术](https://mp.weixin.qq.com/s/xidEbzOlt-DnPbwp0noQ_Q)
 
 [Meta Learning 1: 基于度量的方法](https://mp.weixin.qq.com/s/83Og49hh93GPr0CHHBUJPA)
@@ -1229,6 +1241,8 @@
 [21个经典深度学习句间关系模型｜代码&技巧](https://mp.weixin.qq.com/s/VAxuijiFWmXTi8eEkxnwcQ)
 
 [AoAFFM:Attention+FFM强强组合](https://mp.weixin.qq.com/s/8SiPrDGlrDwP55U3muTJ-g)
+
+[pyspark杂记](https://mp.weixin.qq.com/s/XCM5tidl8E6XhOTknanA9g)
 
 [我的第一篇论文诞生的故事](https://mp.weixin.qq.com/s/9AvA8FOEf91S7R_9QBzFwg)
 
