@@ -48,8 +48,6 @@
 
 <p><strong>深度学习基础</strong></p>
 
-
-
 [硬核！深度学习中的Normalization必知必会](https://mp.weixin.qq.com/s/kYVPvevZMUMoypKSFg2MlA)
 
 [再谈 L2：与 Weight Decay 还有 Batch Norm 不说其实也可以的故事](https://mp.weixin.qq.com/s/2FW6rqTxcil88fona9_U7g)
@@ -91,6 +89,8 @@
 [Transformer的一家！](https://mp.weixin.qq.com/s/Z2W66OziBkMhufNBvnKlGQ)
 
 [关于Transformer，面试官们都怎么问](https://mp.weixin.qq.com/s/PtDZqM6IEGrX6juHBrh9uA)
+
+[以自注意力机制破局Transformer](https://mp.weixin.qq.com/s/JkPGriDowK-U9nZFdYmlbg)
 
 [AAAI21最佳论文Informer：效果远超Transformer的长序列预测神器！](https://mp.weixin.qq.com/s/3LhMRjbeaT0RmQ6VeSOCaw)
 
@@ -288,6 +288,8 @@
 [软硬兼施极限轻量BERT！能比ALBERT再轻13倍？！](https://mp.weixin.qq.com/s/9hBsINy-uFHP7W9l57sggA)
 
 [【关于自训练 + 预训练 = 更好的自然语言理解模型 】 那些的你不知道的事](https://mp.weixin.qq.com/s/BE0yZxK4_Nksy09Xmvkr-g)
+
+[NeurIPS 2020 之预训练语言模型压缩](https://mp.weixin.qq.com/s/VZf9SP98ucopZpQHHK_JZw)
 
 
 <p><strong>中文分词/词性标注</strong><br>
@@ -709,6 +711,8 @@
 
 [点击率预估与冷启动（二）](https://mp.weixin.qq.com/s/oHMMhe59L_p3vpZv5Bvtxg)
 
+[广告成本控制-PID算法](https://mp.weixin.qq.com/s/__xvATWhggYXLy92dz9L5Q)
+
 [互联网大厂CTR预估前沿进展](https://mp.weixin.qq.com/s/-dl43fLkANojCRda0dpH4w)
 
 [CTR学习笔记&代码实现1-深度学习的前奏LR->FFM](https://mp.weixin.qq.com/s/lphTXdbYOyomMU6O0CH2Pw)
@@ -786,6 +790,8 @@
 [搜索推荐广告排序之用户行为序列建模](https://mp.weixin.qq.com/s/ZsekCl1uOqKxUOOk0otk_Q)
 
 [如何构建一个好的电商搜索引擎？](https://mp.weixin.qq.com/s/JcnkSuJh_SqHhZW_027fvQ)
+
+[流量为王：ABTest流量分层分桶机制](https://mp.weixin.qq.com/s/na6hS-Mm8g-5Y4jgdqx-Eg)
 
 <p><strong>关系抽取</strong></p>
 
