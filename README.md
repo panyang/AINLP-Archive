@@ -78,6 +78,8 @@
 
 [四万字全面详解 | 深度学习中的注意力机制（完结篇）](https://mp.weixin.qq.com/s/rWju_3bTAcTdWcP83AGtyA)
 
+[自然语言处理中注意力机制综述](https://mp.weixin.qq.com/s/gjtUTSGWc_Ne-t1ai9EAPQ)
+
 [从零开始实现卷积神经网络CNN](https://mp.weixin.qq.com/s/Td5cK5gKzlx6N8mAtnTa8Q)
 
 [从零开始实现循环神经网络（无框架）](https://mp.weixin.qq.com/s/QPtbRcOf9P_nnCpr9DKyoA)
@@ -124,6 +126,8 @@
 
 [关于BERT，面试官们都怎么问](https://mp.weixin.qq.com/s/9ABJeU4skxTLPRNLLqUrIQ)
 
+[NAACL2021论文：UniDrop：一种简单而有效的Transformer提升技术](https://mp.weixin.qq.com/s/g_86Tj-z7GnMr2nS2fseWw)
+
 <p><strong>BERT源码</strong></p>
 
 <a href="https://mp.weixin.qq.com/s/9b3sqng5GfFFYuIr-qlvdw" rel="noopener" target="_blank">BERT源码分析PART I</a><br>
@@ -146,7 +150,6 @@
 
 <a href="https://mp.weixin.qq.com/s/3b_2VbehBOYsnKCBSEio4w" rel="noopener" target="_blank">Bert 改进： 如何融入知识</a><br>
 
-
 <a href="https://mp.weixin.qq.com/s/1rj8zGCp_SpyBCD-3PXjBw" rel="noopener" target="_blank">【Github】BERT-NER-Pytorch：三种不同模式的BERT中文NER实验</a></p>
 
 <a href="https://mp.weixin.qq.com/s/imPro1LZvGJ44ezoDOL5Dw" rel="noopener" target="_blank">NLP - BERT/ERNIE 文本分类和部署</a></p>
@@ -160,6 +163,8 @@
 [跨界出圈 | 谈谈BERT跨模态预训练](https://mp.weixin.qq.com/s/KaZHAIbKzVcJM5ZQiULivA)
 
 [还在用[CLS]？从BERT得到最强句子Embedding的打开方式！](https://mp.weixin.qq.com/s/EDEfN6FUxrml3N8Dh5Y8Wg)
+
+[2021年了，你还在手写SQL吗？](https://mp.weixin.qq.com/s/HiyTW3w5x801Lu5X0YZKvw)
 
 <p><strong>BERT实战</strong></p>
 
@@ -306,6 +311,8 @@
 
 <a href="https://mp.weixin.qq.com/s/uATfclTlXqAnkp4ep8ZRMQ" target="_blank" rel="noopener">中文分词文章索引和分词数据资源分享</a><br>
 
+[中文分词入门之资源](https://mp.weixin.qq.com/s/UlQO4xYdjcEzJC_jSYvfjg)
+
 <a href="https://mp.weixin.qq.com/s/vRGhSogb6Kc19eicEchylQ" target="_blank" rel="noopener">自然语言理解太难了之中文分词八级测试</a><br>
 
 <a href="https://mp.weixin.qq.com/s/9ArR_D2Xu2IjKtn9xU0ycA" target="_blank" rel="noopener">中文分词工具评估：chinese-segmentation-evaluation</a><br>
@@ -347,6 +354,8 @@
 [ICLR2021 | 唯一录取的NER论文：NER数据存在漏标怎么办？](https://mp.weixin.qq.com/s/di5UX21j7-CAkirDxAaMPw)
 
 [微软+韩家炜课题组的全面调研：NER标注数据少，怎么办？](https://mp.weixin.qq.com/s/F4hWk0alOdPtMRpdtFarJA)
+
+[流水的NLP铁打的NER：命名实体识别实践与探索](https://mp.weixin.qq.com/s/qkHGdKr17uBCcrf6W33mOQ)
 
 <p><strong>文本分类/情感分析</strong><br>
 
@@ -687,6 +696,10 @@
 
 [小白都能懂的推荐算法入门（一），从上古时期的LR开始聊起](https://mp.weixin.qq.com/s/xR8c26n1zW2jcujTS2UU9A)
 
+[小白都能懂的推荐算法入门（二），FM为什么强大能代替LR？](https://mp.weixin.qq.com/s/-t8cRMqzhwhBLvewQ6T9dg)
+
+[小白都能懂的推荐算法入门（三），FM、类别特征以及Embedding](https://mp.weixin.qq.com/s/ya9lVfxVzuAaNvX9AV-2Ng)
+
 <p><strong>计算广告/广告系统</strong></p>
 
 [计算广告之在线广告市场和背景](https://mp.weixin.qq.com/s/TKXN1ejw6mmQNBBRI6Ideg)
@@ -713,6 +726,8 @@
 
 [广告成本控制-PID算法](https://mp.weixin.qq.com/s/__xvATWhggYXLy92dz9L5Q)
 
+[转化率模型之转化数据延迟](https://mp.weixin.qq.com/s/PioS-j971VfvSsDoXYtKUA)
+
 [互联网大厂CTR预估前沿进展](https://mp.weixin.qq.com/s/-dl43fLkANojCRda0dpH4w)
 
 [CTR学习笔记&代码实现1-深度学习的前奏LR->FFM](https://mp.weixin.qq.com/s/lphTXdbYOyomMU6O0CH2Pw)
@@ -726,6 +741,8 @@
 [CTR神经网络特征交叉汇总！](https://mp.weixin.qq.com/s/nkArZKClfwLQs-hnbuVfkw)
 
 [CTR模型越来越"深"，如何让它变"轻"?](https://mp.weixin.qq.com/s/YjNOJ5oiyMRmdYyj9v3CPA)
+
+[这个CTR模型，有点意思](https://mp.weixin.qq.com/s/DBwsVegSrlDnBQo_aio9iA)
 
 [特征交互新路线|阿里 Co-action Network论文解读](https://mp.weixin.qq.com/s/KEnkwa3ZwnIKi8ZxsPOCaQ)
 
@@ -752,6 +769,8 @@
 [搜索系统中的召回](https://mp.weixin.qq.com/s/HpamEwjQHDjdAE9PEGFuqw)
 
 [搜索系统中的纠错问题](https://mp.weixin.qq.com/s/gpcv-lN6DvEvbFfSC25ODQ)
+
+[中文文本纠错算法--错别字纠正的二三事](https://mp.weixin.qq.com/s/TEfAB1ZGG1cBLc6f0zp--g)
 
 [浅谈Query理解和分析](https://mp.weixin.qq.com/s/jqBgIHhR4EuH1-VNN8H-ow)
 
@@ -838,6 +857,8 @@
 [知识表示与融入技术前沿进展及应用](https://mp.weixin.qq.com/s/3V6vzrev4xPYKJmGqXNnAg)
 
 [知识表示学习-链接预测指标介绍](https://mp.weixin.qq.com/s/SmPdESZCrcBCjshmPtwjsw)
+
+[知识图谱能否拯救NLP的未来？](https://mp.weixin.qq.com/s/AICaJF_U1mWal0YiJofWHg)
 
 [无需人工！无需训练！构建知识图谱 BERT一下就行了！](https://mp.weixin.qq.com/s/fxXpwcQx7ogay8qcLAUXsw)
 
@@ -1367,6 +1388,8 @@
 [线上线下效果一致性杂谈](https://mp.weixin.qq.com/s/GBSk8iYS8CiAOXGtgN3BiQ)
 
 [内卷的世界，我们是否可以换一种思维生活？](https://mp.weixin.qq.com/s/QjnmKJX8OqfNQcjXP62Liw)
+
+[LambdaLoss | Google排序学习优化框架](https://mp.weixin.qq.com/s/_tBnJZG5rko4EJw96WWs9g)
 
 <p><strong>NLP相关工具及在线测试（公众号对话测试）</strong><br>
 
