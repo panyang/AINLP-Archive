@@ -166,6 +166,8 @@
 
 [2021年了，你还在手写SQL吗？](https://mp.weixin.qq.com/s/HiyTW3w5x801Lu5X0YZKvw)
 
+[2021年如何科学的“微调”预训练模型？](https://mp.weixin.qq.com/s/PlSLgWrOtebr-onIi_FOUw)
+
 <p><strong>BERT实战</strong></p>
 
 <a href="https://mp.weixin.qq.com/s/0rIXEX2NSmjNNA0PVRtmgQ" rel="noopener" target="_blank">最简单的BERT模型调用方法</a><br>
@@ -656,6 +658,10 @@
 
 [AAAI2021推荐系统论文清单](https://mp.weixin.qq.com/s/Z68OpRSAmMHHdxkMDD1v5g)
 
+[从200多篇顶会论文看推荐系统前沿方向与最新进展](https://mp.weixin.qq.com/s/0RKePnI8IhBFm3u6XEXQMg)
+
+[从200多篇顶会论文看推荐系统前沿方向与最新进展](https://mp.weixin.qq.com/s/0RKePnI8IhBFm3u6XEXQMg)
+
 [从零开始写一个自己的推荐算法库](https://mp.weixin.qq.com/s/9LQy7YI04vt4KYShtk0ILw)
 
 [推荐实践(2)：数据集的载入与切割](https://mp.weixin.qq.com/s/U4UZJnoEXbokwxMl6eD4Zw)
@@ -723,6 +729,8 @@
 [点击率预估与冷启动（一）](https://mp.weixin.qq.com/s/fnv1nsXJX_4tTYHapV3uKg)
 
 [点击率预估与冷启动（二）](https://mp.weixin.qq.com/s/oHMMhe59L_p3vpZv5Bvtxg)
+
+[广告流量分析之评价指标的选择(一)](https://mp.weixin.qq.com/s/QKzlB9eZfaKPcEY2EnY3Lg)
 
 [广告成本控制-PID算法](https://mp.weixin.qq.com/s/__xvATWhggYXLy92dz9L5Q)
 
