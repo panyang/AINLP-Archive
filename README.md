@@ -1253,6 +1253,60 @@
 
 [斯坦福大学——人工智能本科4年课程清单](https://mp.weixin.qq.com/s/85SklnFGY6MPlr490ZV3Tw)
 
+<p><strong>NLP相关工具及在线测试（公众号对话测试）</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/Sy2hukGVk-7QQY_YNQ10kw" target="_blank" rel="noopener">五款中文分词工具在线PK: Jieba, SnowNLP, PkuSeg, THULAC, HanLP</a><br>
+
+<a href="https://mp.weixin.qq.com/s/YvpVumIdBDA9vBjGeLoPZA" target="_blank" rel="noopener">中文分词工具在线PK新增：FoolNLTK、LTP、StanfordCoreNLP</a><br>
+
+<a href="https://mp.weixin.qq.com/s/rFCBnExyZVHI-SwrSj7pmA" target="_blank" rel="noopener">Python中文分词工具大合集：安装、使用和测试</a><br>
+
+<a href="https://mp.weixin.qq.com/s/LwtQVg9p_VBzwA_2uvX8GA" target="_blank" rel="noopener">八款中文词性标注工具使用及在线测试</a><br>
+
+<a href="https://mp.weixin.qq.com/s/pOGdatZK5Z7uxmveHAX4_Q" target="_blank" rel="noopener">百度深度学习中文词法分析工具LAC试用之旅</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Vj0IKHWD_aXto8NE8alz8g" target="_blank" rel="noopener">来，试试百度的深度学习情感分析工具</a><br>
+
+<a href="https://mp.weixin.qq.com/s/2y-TshJqNHW5ixzjbtdekg" target="_blank" rel="noopener">AINLP公众号新增SnowNLP情感分析模块</a><br>
+
+<a href="https://mp.weixin.qq.com/s/pd_BcCG2DjtlgFsym8PwXw" rel="noopener" target="_blank">斯坦福大学NLP组Python深度学习自然语言处理工具Stanza试用</a><br>
+
+<p><strong>自动对联及作诗机</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/A6FMzXS0W7jyTMuyCgzJhw" target="_blank" rel="noopener">风云三尺剑，花鸟一床书---对联数据集和自动对联机器人</a><br>
+
+<a href="https://mp.weixin.qq.com/s/VSPPEVcihLUcJMmh7h3hgA" target="_blank" rel="noopener">自动对联活动获奖结果以及机器对联赏析</a><br>
+
+<a href="https://mp.weixin.qq.com/s/w8e0TixjbqvKXnZksL32tQ" target="_blank" rel="noopener">"自动作诗机"上线，代码和数据都是公开的</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Za1_atH01eUIQHHdo4M-Cg" rel="noopener" target="_blank">鼠年春节，用 GPT-2 自动写对联和对对联</a><br>
+
+<a href="https://mp.weixin.qq.com/s/8nOhe0RDkgEgxWdjAsjpvw" rel="noopener" target="_blank">用 GPT-2 自动写诗，从五言绝句开始</a><br>
+
+<a href="https://mp.weixin.qq.com/s/fdeyf2uwaHNac1_guj5L6Q" rel="noopener" target="_blank">自动作诗机&amp;藏头诗生成器：五言、七言、绝句、律诗全了</a><br>
+
+<a href="https://mp.weixin.qq.com/s/OgWlf7GqidIX2ffVBUo_tQ" rel="noopener" target="_blank">仅供娱乐，藏尾诗生成器来了</a></p>
+
+<p><strong>夸夸聊天机器人及其他技能</strong><br>
+
+<a href="https://mp.weixin.qq.com/s/B0ilgxGnLPMYDny1FYmWHw" target="_blank" rel="noopener">一行Python代码实现夸夸聊天机器人</a><br>
+
+<a href="https://mp.weixin.qq.com/s/pUhugd5WTru32M1l6Qrxzg" target="_blank" rel="noopener">为了夸夸聊天机器人，爬了一份夸夸语料库</a><br>
+
+<a href="https://mp.weixin.qq.com/s/NO2M8_VD29uCaUuTrkzfyA" target="_blank" rel="noopener">夸夸聊天机器人升级：从随机到准个性化</a><br>
+
+[Unilm对话生成之夸夸式闲聊机器人](https://mp.weixin.qq.com/s/RjXQRntFXaVC6fBidnhGIw)
+
+<a href="https://mp.weixin.qq.com/s/fSzWY835t1bgZsv901S_FA" target="_blank" rel="noopener">来，试试语音（识别）聊天（机器人）</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Fe1WJUaaXpe4gERZFmhUIw">来，试试成语接龙</a><br>
+
+<a href="https://mp.weixin.qq.com/s/c5AXq0iNLC65Nwae-vnjXQ" rel="noopener" target="_blank">推荐一份中文数据，来试试汉字、词语、成语、歇后语在线检索</a><br>
+
+<a href="https://mp.weixin.qq.com/s/Qnt-R_IY7N3eVhAvwNQ1ig" rel="noopener" target="_blank">AINLP公众号新增"狗屁不通文章生成器"接口</a><br>
+
+<a href="https://mp.weixin.qq.com/s/lofYSXsgsFNSEqFyKaWhJA" rel="noopener" target="_blank">来，试试彩虹屁生成器</a></p>
+
 <p><strong>其他相关文章</strong><br>
 
 [自然语言处理领域的数据增广方法](https://mp.weixin.qq.com/s/gANDD_mr23cebClXm4Cn2w)
@@ -1399,59 +1453,7 @@
 
 [LambdaLoss | Google排序学习优化框架](https://mp.weixin.qq.com/s/_tBnJZG5rko4EJw96WWs9g)
 
-<p><strong>NLP相关工具及在线测试（公众号对话测试）</strong><br>
-
-<a href="https://mp.weixin.qq.com/s/Sy2hukGVk-7QQY_YNQ10kw" target="_blank" rel="noopener">五款中文分词工具在线PK: Jieba, SnowNLP, PkuSeg, THULAC, HanLP</a><br>
-
-<a href="https://mp.weixin.qq.com/s/YvpVumIdBDA9vBjGeLoPZA" target="_blank" rel="noopener">中文分词工具在线PK新增：FoolNLTK、LTP、StanfordCoreNLP</a><br>
-
-<a href="https://mp.weixin.qq.com/s/rFCBnExyZVHI-SwrSj7pmA" target="_blank" rel="noopener">Python中文分词工具大合集：安装、使用和测试</a><br>
-
-<a href="https://mp.weixin.qq.com/s/LwtQVg9p_VBzwA_2uvX8GA" target="_blank" rel="noopener">八款中文词性标注工具使用及在线测试</a><br>
-
-<a href="https://mp.weixin.qq.com/s/pOGdatZK5Z7uxmveHAX4_Q" target="_blank" rel="noopener">百度深度学习中文词法分析工具LAC试用之旅</a><br>
-
-<a href="https://mp.weixin.qq.com/s/Vj0IKHWD_aXto8NE8alz8g" target="_blank" rel="noopener">来，试试百度的深度学习情感分析工具</a><br>
-
-<a href="https://mp.weixin.qq.com/s/2y-TshJqNHW5ixzjbtdekg" target="_blank" rel="noopener">AINLP公众号新增SnowNLP情感分析模块</a><br>
-
-<a href="https://mp.weixin.qq.com/s/pd_BcCG2DjtlgFsym8PwXw" rel="noopener" target="_blank">斯坦福大学NLP组Python深度学习自然语言处理工具Stanza试用</a><br>
-
-<p><strong>自动对联及作诗机</strong><br>
-
-<a href="https://mp.weixin.qq.com/s/A6FMzXS0W7jyTMuyCgzJhw" target="_blank" rel="noopener">风云三尺剑，花鸟一床书---对联数据集和自动对联机器人</a><br>
-
-<a href="https://mp.weixin.qq.com/s/VSPPEVcihLUcJMmh7h3hgA" target="_blank" rel="noopener">自动对联活动获奖结果以及机器对联赏析</a><br>
-
-<a href="https://mp.weixin.qq.com/s/w8e0TixjbqvKXnZksL32tQ" target="_blank" rel="noopener">"自动作诗机"上线，代码和数据都是公开的</a><br>
-
-<a href="https://mp.weixin.qq.com/s/Za1_atH01eUIQHHdo4M-Cg" rel="noopener" target="_blank">鼠年春节，用 GPT-2 自动写对联和对对联</a><br>
-
-<a href="https://mp.weixin.qq.com/s/8nOhe0RDkgEgxWdjAsjpvw" rel="noopener" target="_blank">用 GPT-2 自动写诗，从五言绝句开始</a><br>
-
-<a href="https://mp.weixin.qq.com/s/fdeyf2uwaHNac1_guj5L6Q" rel="noopener" target="_blank">自动作诗机&amp;藏头诗生成器：五言、七言、绝句、律诗全了</a><br>
-
-<a href="https://mp.weixin.qq.com/s/OgWlf7GqidIX2ffVBUo_tQ" rel="noopener" target="_blank">仅供娱乐，藏尾诗生成器来了</a></p>
-
-<p><strong>夸夸聊天机器人及其他技能</strong><br>
-
-<a href="https://mp.weixin.qq.com/s/B0ilgxGnLPMYDny1FYmWHw" target="_blank" rel="noopener">一行Python代码实现夸夸聊天机器人</a><br>
-
-<a href="https://mp.weixin.qq.com/s/pUhugd5WTru32M1l6Qrxzg" target="_blank" rel="noopener">为了夸夸聊天机器人，爬了一份夸夸语料库</a><br>
-
-<a href="https://mp.weixin.qq.com/s/NO2M8_VD29uCaUuTrkzfyA" target="_blank" rel="noopener">夸夸聊天机器人升级：从随机到准个性化</a><br>
-
-[Unilm对话生成之夸夸式闲聊机器人](https://mp.weixin.qq.com/s/RjXQRntFXaVC6fBidnhGIw)
-
-<a href="https://mp.weixin.qq.com/s/fSzWY835t1bgZsv901S_FA" target="_blank" rel="noopener">来，试试语音（识别）聊天（机器人）</a><br>
-
-<a href="https://mp.weixin.qq.com/s/Fe1WJUaaXpe4gERZFmhUIw">来，试试成语接龙</a><br>
-
-<a href="https://mp.weixin.qq.com/s/c5AXq0iNLC65Nwae-vnjXQ" rel="noopener" target="_blank">推荐一份中文数据，来试试汉字、词语、成语、歇后语在线检索</a><br>
-
-<a href="https://mp.weixin.qq.com/s/Qnt-R_IY7N3eVhAvwNQ1ig" rel="noopener" target="_blank">AINLP公众号新增"狗屁不通文章生成器"接口</a><br>
-
-<a href="https://mp.weixin.qq.com/s/lofYSXsgsFNSEqFyKaWhJA" rel="noopener" target="_blank">来，试试彩虹屁生成器</a></p>
+[手把手用AI算法实现冰雪奇缘中的“冰雪魔法”](https://mp.weixin.qq.com/s/uJ7RQ7KYXHK8blw4yelYYw)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
