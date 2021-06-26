@@ -369,6 +369,8 @@
 
 [深度学习文本分类｜模型&代码&技巧](https://mp.weixin.qq.com/s/8rF2VXeKMKMpBAOlgPep8A)
 
+[新闻上的文本分类：机器学习大乱斗](https://mp.weixin.qq.com/s/dRS74Ia1ZqZcXQXqyTfVeA)
+
 [韩家炜课题组重磅发文：文本分类只需标签名称，不需要任何标注数据！](https://mp.weixin.qq.com/s/IKfcUvrJIfGaL0uxcxvg4g)
 
 <a href="https://mp.weixin.qq.com/s/jM99a3fFAfgZvSx8tQA4AA" rel="noopener" target="_blank">几个可作为Baseline的文本分类模型</a><br>
@@ -400,8 +402,6 @@
 [医疗领域情感分析](https://mp.weixin.qq.com/s/rKiXF7JwDMf_eMrPHmOFcQ)
 
 [华为云细粒度文本情感分析及应用](https://mp.weixin.qq.com/s/0zDrYpCkvvLsGrYQNTzRxg)
-
-[【关于 文本分类 trick】那些你不知道的事](https://mp.weixin.qq.com/s/MQHqY6bR9Uzpswz2sCRlsQ)
 
 [【关于 文本分类 trick】那些你不知道的事](https://mp.weixin.qq.com/s/MQHqY6bR9Uzpswz2sCRlsQ)
 
@@ -706,6 +706,8 @@
 
 [小白都能懂的推荐算法入门（三），FM、类别特征以及Embedding](https://mp.weixin.qq.com/s/ya9lVfxVzuAaNvX9AV-2Ng)
 
+[浅谈推荐，从FM到深度学习](https://mp.weixin.qq.com/s/ilbLT6aMj-JK4Ri8aCgkoA)
+
 <p><strong>计算广告/广告系统</strong></p>
 
 [计算广告之在线广告市场和背景](https://mp.weixin.qq.com/s/TKXN1ejw6mmQNBBRI6Ideg)
@@ -731,6 +733,8 @@
 [点击率预估与冷启动（二）](https://mp.weixin.qq.com/s/oHMMhe59L_p3vpZv5Bvtxg)
 
 [广告流量分析之评价指标的选择(一)](https://mp.weixin.qq.com/s/QKzlB9eZfaKPcEY2EnY3Lg)
+
+[广告流量分析之评价指标的选择(二)](https://mp.weixin.qq.com/s/9QvfLYpOoIZxV8if9UJJOg)
 
 [广告成本控制-PID算法](https://mp.weixin.qq.com/s/__xvATWhggYXLy92dz9L5Q)
 
