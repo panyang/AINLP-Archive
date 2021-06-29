@@ -298,6 +298,7 @@
 
 [NeurIPS 2020 之预训练语言模型压缩](https://mp.weixin.qq.com/s/VZf9SP98ucopZpQHHK_JZw)
 
+[深入解读首个万亿级语言模型 Switch Transformer](https://mp.weixin.qq.com/s/k104G1eFktlTeY_9rD6xwA)
 
 <p><strong>中文分词/词性标注</strong><br>
 
@@ -972,6 +973,8 @@
 
 [2020 Kaggle 10大竞赛方案汇总](https://mp.weixin.qq.com/s/CLZsq01Zw_yEdtvkTyyiGg)
 
+[Kaggle实战之单类别变量特征工程总结！](https://mp.weixin.qq.com/s/60T0Kmo6yaz7moNG1GTdOA)
+
 [一人之力，刷爆三路榜单！信息抽取竞赛夺冠经验分享](https://mp.weixin.qq.com/s/nXblUywY3b5HFwej5DNToA)
 
 [数据科学竞赛：你从未见过的究极进化秘笈](https://mp.weixin.qq.com/s/SGCswkqjkf55BeisbAmGGQ)
@@ -1059,6 +1062,8 @@
 [想做算法，你需要哪些条件？](https://mp.weixin.qq.com/s/F-f7hMEpSya9G0DdPYBOmA)
 
 [浅谈解决问题的能力](https://mp.weixin.qq.com/s/mwGFSBzyu6jdIGb8P5DGyA)
+
+[算法工程师内功修炼](https://mp.weixin.qq.com/s/jSrdXdPF2vdsrWLzbptZXw)
 
 [算法工程师如何顺利毕业？](https://mp.weixin.qq.com/s/je683B1X5NZQBrXOfKF6Jw)
 
@@ -1458,6 +1463,10 @@
 [LambdaLoss | Google排序学习优化框架](https://mp.weixin.qq.com/s/_tBnJZG5rko4EJw96WWs9g)
 
 [手把手用AI算法实现冰雪奇缘中的“冰雪魔法”](https://mp.weixin.qq.com/s/uJ7RQ7KYXHK8blw4yelYYw)
+
+[C++基础知识点整理（一）](https://mp.weixin.qq.com/s/JJpASpI0MFv6AIXU5l2iSQ)
+
+[C++基础知识点整理（二）](https://mp.weixin.qq.com/s/PIuyILvXejRdLbdkZma_iA)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
