@@ -74,7 +74,9 @@
 
 [【关于 Word2vec】 那些你不知道的事](https://mp.weixin.qq.com/s/jbwl7pP-UxOLVXydI7oZJA)
 
-<p><strong>BERT基础</strong></p>
+<p><strong>预训练语言模型</strong>
+
+<p>BERT基础</p>
 
 [四万字全面详解 | 深度学习中的注意力机制（完结篇）](https://mp.weixin.qq.com/s/rWju_3bTAcTdWcP83AGtyA)
 
@@ -93,6 +95,8 @@
 [关于Transformer，面试官们都怎么问](https://mp.weixin.qq.com/s/PtDZqM6IEGrX6juHBrh9uA)
 
 [以自注意力机制破局Transformer](https://mp.weixin.qq.com/s/JkPGriDowK-U9nZFdYmlbg)
+
+[我们用transformer干啥？](https://mp.weixin.qq.com/s/tPn4Hxgnlj6e1kiz1er66w)
 
 [AAAI21最佳论文Informer：效果远超Transformer的长序列预测神器！](https://mp.weixin.qq.com/s/3LhMRjbeaT0RmQ6VeSOCaw)
 
@@ -128,7 +132,7 @@
 
 [NAACL2021论文：UniDrop：一种简单而有效的Transformer提升技术](https://mp.weixin.qq.com/s/g_86Tj-z7GnMr2nS2fseWw)
 
-<p><strong>BERT源码</strong></p>
+<p>BERT源码</p>
 
 <a href="https://mp.weixin.qq.com/s/9b3sqng5GfFFYuIr-qlvdw" rel="noopener" target="_blank">BERT源码分析PART I</a><br>
 
@@ -168,7 +172,7 @@
 
 [2021年如何科学的“微调”预训练模型？](https://mp.weixin.qq.com/s/PlSLgWrOtebr-onIi_FOUw)
 
-<p><strong>BERT实战</strong></p>
+<p>BERT实战</p>
 
 <a href="https://mp.weixin.qq.com/s/0rIXEX2NSmjNNA0PVRtmgQ" rel="noopener" target="_blank">最简单的BERT模型调用方法</a><br>
 
@@ -208,7 +212,7 @@
 
 [ALL in BERT：一套操作冲进排行榜首页](https://mp.weixin.qq.com/s/Ggzmek2C8sFe92u_IuPwlQ)
 
-<p><strong>BERT之外</strong></p>
+<p>BERT之外</p>
 
 <a href="https://mp.weixin.qq.com/s/0pYFb2POAcV1AKTLJ7t1DA" rel="noopener" target="_blank">效果惊人的GPT 2.0模型：它告诉了我们什么</a><br>
 
@@ -299,6 +303,8 @@
 [NeurIPS 2020 之预训练语言模型压缩](https://mp.weixin.qq.com/s/VZf9SP98ucopZpQHHK_JZw)
 
 [深入解读首个万亿级语言模型 Switch Transformer](https://mp.weixin.qq.com/s/k104G1eFktlTeY_9rD6xwA)
+
+[预训练语言模型fine-tuning近期进展概述](https://mp.weixin.qq.com/s/vra7njiENiCTNspdm8yj7g)
 
 <p><strong>中文分词/词性标注</strong><br>
 
@@ -619,6 +625,8 @@
 
 [推荐系统之多目标优化小结](https://mp.weixin.qq.com/s/I1r21v0JPfwiANNdhGJP1w)
 
+[推荐系统中的召回](https://mp.weixin.qq.com/s/IrrtjALQyKpUKIo2o4Sc2g)
+
 <a href="https://mp.weixin.qq.com/s/B-6uslNc56VpB0fJRoPraw" rel="noopener" target="_blank">当我们谈论“推荐系统”时在谈论什么？</a><br>
 
 <a href="https://mp.weixin.qq.com/s/ys8qmUlUmGZfSYEChezENg" rel="noopener" target="_blank">推荐系统中的矩阵分解技术</a><br>
@@ -739,6 +747,8 @@
 
 [广告成本控制-PID算法](https://mp.weixin.qq.com/s/__xvATWhggYXLy92dz9L5Q)
 
+[广告智能定向技术lookalike](https://mp.weixin.qq.com/s/ER6QidQSgOs4fhainza35g)
+
 [转化率模型之转化数据延迟](https://mp.weixin.qq.com/s/PioS-j971VfvSsDoXYtKUA)
 
 [互联网大厂CTR预估前沿进展](https://mp.weixin.qq.com/s/-dl43fLkANojCRda0dpH4w)
@@ -824,6 +834,8 @@
 [如何构建一个好的电商搜索引擎？](https://mp.weixin.qq.com/s/JcnkSuJh_SqHhZW_027fvQ)
 
 [流量为王：ABTest流量分层分桶机制](https://mp.weixin.qq.com/s/na6hS-Mm8g-5Y4jgdqx-Eg)
+
+[【Recall】MIND：阿里多兴趣网络模型](https://mp.weixin.qq.com/s/W4yUmJ-XbhMZrCBlXhQRKw)
 
 <p><strong>关系抽取</strong></p>
 
@@ -1072,6 +1084,8 @@
 [知乎 | 一年半的时间成为算法工程师，这可能吗？](https://mp.weixin.qq.com/s/FSnLq7RHY8uhtHfcDLYAyA)
 
 [诸葛越：关于算法工程师职业发展的思考](https://mp.weixin.qq.com/s/fPUFalq0-uCl_ObSAhDGoQ)
+
+[从菜鸟到老鸟！学习算法的三个阶段](https://mp.weixin.qq.com/s/7Q_56uTiJfeJSzBS1CkmaA)
 
 <p><strong>实战经验分享</strong></p>
 
@@ -1467,6 +1481,10 @@
 [C++基础知识点整理（一）](https://mp.weixin.qq.com/s/JJpASpI0MFv6AIXU5l2iSQ)
 
 [C++基础知识点整理（二）](https://mp.weixin.qq.com/s/PIuyILvXejRdLbdkZma_iA)
+
+[王喆：一个程序员的理财观](https://mp.weixin.qq.com/s/NNYlrXZa0lcZAf-4DnAJag)
+
+[【关于 过拟合和欠拟合】那些你不知道的事](https://mp.weixin.qq.com/s/8yUE-3swR81gwYJ40rCccw)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
