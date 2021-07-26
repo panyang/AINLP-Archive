@@ -795,6 +795,8 @@
 
 [中文文本纠错算法--错别字纠正的二三事](https://mp.weixin.qq.com/s/TEfAB1ZGG1cBLc6f0zp--g)
 
+[纠错：pycorrector的错误检测](https://mp.weixin.qq.com/s/vxYVDWtKdi4T7KTBPiBeDg)
+
 [浅谈Query理解和分析](https://mp.weixin.qq.com/s/jqBgIHhR4EuH1-VNN8H-ow)
 
 [搜索中的意图识别](https://mp.weixin.qq.com/s/hMem_aiSY-3q9Qu-ySdAYg)
@@ -806,6 +808,10 @@
 [浅谈用户理解](https://mp.weixin.qq.com/s/7LAhFHRmQKiB3yo5KBOavA)
 
 [做用户，绕不开画像！](https://mp.weixin.qq.com/s/sjnJJxV7MU4XAYTMGqyyPw)
+
+[【杂谈】选搜索还是选推荐？](https://mp.weixin.qq.com/s/tiSJdrbal7ZilZFYUvdOAQ)
+
+[负样本为王：评Facebook的向量化召回算法](https://mp.weixin.qq.com/s/FRGjKFxEdZWY0f2_JvtnrA)
 
 [Airbnb搜索：Embedding表示学习](https://mp.weixin.qq.com/s/VJWzDibwa41dZfU8R2RIoA)
 
@@ -1171,6 +1177,9 @@
 [【CS224N课程笔记】词向量II: GloVe, 评估和训练](https://mp.weixin.qq.com/s/QKbwHRICPNWcpr-o-55JIA)
 
 [CS224N学习小结](https://mp.weixin.qq.com/s/LOBGHoyyb1M2Asw-_qZ8Ig)
+
+[【CS224N课程笔记】神经网络与反向传播](https://mp.weixin.qq.com/s/zjkBdd5RGsdzMGFvkimiqg)
+
 
 <p><strong>开源项目及资源</strong><br>
 
