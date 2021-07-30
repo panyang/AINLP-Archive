@@ -46,12 +46,6 @@
 
 [2021年NLP入门书籍推荐｜理论&实战](https://mp.weixin.qq.com/s/zHTvH6JMSeDa-6k82tsaJg)
 
-<p><strong>深度学习基础</strong></p>
-
-[硬核！深度学习中的Normalization必知必会](https://mp.weixin.qq.com/s/kYVPvevZMUMoypKSFg2MlA)
-
-[再谈 L2：与 Weight Decay 还有 Batch Norm 不说其实也可以的故事](https://mp.weixin.qq.com/s/2FW6rqTxcil88fona9_U7g)
-
 <p><strong>词向量</strong></p>
 
 <a href="https://mp.weixin.qq.com/s/UwPwW8JzWVQrVwbPy9321g" target="_blank" rel="noopener">相似词查询：玩转腾讯 AI Lab 中文词向量</a><br>
@@ -1494,6 +1488,10 @@
 [王喆：一个程序员的理财观](https://mp.weixin.qq.com/s/NNYlrXZa0lcZAf-4DnAJag)
 
 [【关于 过拟合和欠拟合】那些你不知道的事](https://mp.weixin.qq.com/s/8yUE-3swR81gwYJ40rCccw)
+
+[硬核！深度学习中的Normalization必知必会](https://mp.weixin.qq.com/s/kYVPvevZMUMoypKSFg2MlA)
+
+[再谈 L2：与 Weight Decay 还有 Batch Norm 不说其实也可以的故事](https://mp.weixin.qq.com/s/2FW6rqTxcil88fona9_U7g)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
