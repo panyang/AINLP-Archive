@@ -190,6 +190,8 @@
 
 [【模型压缩系列】二：模型蒸馏](https://mp.weixin.qq.com/s/RfskaPnFh5C-6tTwgCXpOg)
 
+[【模型压缩系列】三：协同训练](https://mp.weixin.qq.com/s/jyohWjMeJJHs196_x257MQ)
+
 [模型压缩与蒸馏！BERT的忒修斯船](https://mp.weixin.qq.com/s/VZEm2m75HZSeez3n4hBZuw)
 
 [深度学习中的知识蒸馏技术（上）](https://mp.weixin.qq.com/s/pth5nb1Q4SpO-iAhjmgfcA)
@@ -535,6 +537,8 @@
 
 <a href="https://mp.weixin.qq.com/s/OgWlf7GqidIX2ffVBUo_tQ" rel="noopener" target="_blank">仅供娱乐，藏尾诗生成器来了</a></p>
 
+[中文歌词自动生成器：来试试自动写歌](https://mp.weixin.qq.com/s/ToKuMO3zGTkprCfDdh2Y7Q)
+
 [文本生成魔改方案汇总！](https://mp.weixin.qq.com/s/lZyQTJV7svj9Kta3w6_waQ)
 
 [知识增强的文本生成研究进展](https://mp.weixin.qq.com/s/Y0RILLMarGEp_sQ6UaHoPA)
@@ -741,6 +745,10 @@
 [广告流量分析之评价指标的选择(一)](https://mp.weixin.qq.com/s/QKzlB9eZfaKPcEY2EnY3Lg)
 
 [广告流量分析之评价指标的选择(二)](https://mp.weixin.qq.com/s/9QvfLYpOoIZxV8if9UJJOg)
+
+[知识蒸馏在广告系统中的应用（一）](https://mp.weixin.qq.com/s/XGyZfDkLZa_pKvS_GBXVAA)
+
+[知识蒸馏在广告系统中的应用（二）](https://mp.weixin.qq.com/s/18xYPX422Zn9qsE0Tzapow)
 
 [广告成本控制-PID算法](https://mp.weixin.qq.com/s/__xvATWhggYXLy92dz9L5Q)
 
@@ -1304,7 +1312,7 @@
 
 <a href="https://mp.weixin.qq.com/s/pd_BcCG2DjtlgFsym8PwXw" rel="noopener" target="_blank">斯坦福大学NLP组Python深度学习自然语言处理工具Stanza试用</a><br>
 
-<p><strong>自动对联及作诗机</strong><br>
+<p><strong>自动对联，作诗机及其他文本生成器</strong><br>
 
 <a href="https://mp.weixin.qq.com/s/A6FMzXS0W7jyTMuyCgzJhw" target="_blank" rel="noopener">风云三尺剑，花鸟一床书---对联数据集和自动对联机器人</a><br>
 
@@ -1319,6 +1327,8 @@
 <a href="https://mp.weixin.qq.com/s/fdeyf2uwaHNac1_guj5L6Q" rel="noopener" target="_blank">自动作诗机&amp;藏头诗生成器：五言、七言、绝句、律诗全了</a><br>
 
 <a href="https://mp.weixin.qq.com/s/OgWlf7GqidIX2ffVBUo_tQ" rel="noopener" target="_blank">仅供娱乐，藏尾诗生成器来了</a></p>
+
+[中文歌词自动生成器：来试试自动写歌](https://mp.weixin.qq.com/s/ToKuMO3zGTkprCfDdh2Y7Q)
 
 <p><strong>夸夸聊天机器人及其他技能</strong><br>
 
@@ -1501,6 +1511,8 @@
 [硬核！深度学习中的Normalization必知必会](https://mp.weixin.qq.com/s/kYVPvevZMUMoypKSFg2MlA)
 
 [再谈 L2：与 Weight Decay 还有 Batch Norm 不说其实也可以的故事](https://mp.weixin.qq.com/s/2FW6rqTxcil88fona9_U7g)
+
+[啥？Transformers又来刷CV的榜了？](https://mp.weixin.qq.com/s/v2kkHw4QKbMIMBjzrmRxoA)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
