@@ -72,6 +72,8 @@
 
 <p>BERT基础</p>
 
+[如何通俗易懂地让女朋友明白什么是语言模型？](https://mp.weixin.qq.com/s/k1EYaMhQmDg-i6BAigFkXQ)
+
 [四万字全面详解 | 深度学习中的注意力机制（完结篇）](https://mp.weixin.qq.com/s/rWju_3bTAcTdWcP83AGtyA)
 
 [自然语言处理中注意力机制综述](https://mp.weixin.qq.com/s/gjtUTSGWc_Ne-t1ai9EAPQ)
@@ -369,6 +371,8 @@
 
 [中文NER碎碎念—聊聊词汇增强与实体嵌套](https://mp.weixin.qq.com/s/Kh2ur1v4frL1WzVqRtR5kg)
 
+[transformers快速上手:实体识别和词性标注](https://mp.weixin.qq.com/s/iVH5gGXtaExim3C5DAYMtA)
+
 <p><strong>文本分类/情感分析</strong><br>
 
 <a href="https://mp.weixin.qq.com/s/Vj0IKHWD_aXto8NE8alz8g" target="_blank" rel="noopener">来，试试百度的深度学习情感分析工具</a><br>
@@ -546,6 +550,8 @@
 [中文歌词自动生成器：来试试自动写歌](https://mp.weixin.qq.com/s/ToKuMO3zGTkprCfDdh2Y7Q)
 
 [文言文自动生成器：来试试自动写古文](https://mp.weixin.qq.com/s/PbtBTjfjZ9IcyoQcQzLhQg)
+
+[现代文自动生成器：来试试用GPT2自动写中文](https://mp.weixin.qq.com/s/sGaZAa9N-5v9y854-mHXgg)
 
 [多样性文本生成任务的研究进展](https://mp.weixin.qq.com/s/z4tN4LSJ5DvTmzTzKPW1cQ)
 
@@ -1060,6 +1066,8 @@
 
 [2021校招算法面试锦囊｜华为、网易游戏](https://mp.weixin.qq.com/s/aKQkkIRsfnbCAUiOMOvvfw)
 
+[2021届校招算法岗知识点总结](https://mp.weixin.qq.com/s/ToJuwzetTmpM_wLTk-ZsCQ)
+
 [劝退文｜听说你要转AI](https://mp.weixin.qq.com/s/HdYdBFZKPsxYy1VxAQ6jxQ)
 
 [程序员们，想进互联网大厂的看过来](https://mp.weixin.qq.com/s/ViDMgPCV3-CkGFp2YNtDwA)
@@ -1093,6 +1101,8 @@
 [以算法岗为例：我最想对入职前的自己说些什么？](https://mp.weixin.qq.com/s/70wXQIqAEeJScSzhKkJitw)
 
 [20->21：算法工程师的成长思考](https://mp.weixin.qq.com/s/SDyTWKMafmu-YtxXfJ0OLA)
+
+[入职一周年：夯实基础，持续深入]( https://mp.weixin.qq.com/s/pNolV9KF36skcmLTDUVa0w)
 
 [业务，工程和算法的互殴现场](https://mp.weixin.qq.com/s/AKS_VL54osNeq21PxdAQEQ)
 
@@ -1529,6 +1539,8 @@
 [再谈 L2：与 Weight Decay 还有 Batch Norm 不说其实也可以的故事](https://mp.weixin.qq.com/s/2FW6rqTxcil88fona9_U7g)
 
 [啥？Transformers又来刷CV的榜了？](https://mp.weixin.qq.com/s/v2kkHw4QKbMIMBjzrmRxoA)
+
+[Siamese network 孪生神经网络--一个简单神奇的结构](https://mp.weixin.qq.com/s/OsFf8ZS78nZkVL0AKCqfRw)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
