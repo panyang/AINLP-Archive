@@ -471,6 +471,8 @@
 
 <a href="https://mp.weixin.qq.com/s/lofYSXsgsFNSEqFyKaWhJA" rel="noopener" target="_blank">来，试试彩虹屁生成器</a></p>
 
+[CDAC+：一种新意图识别方法](https://mp.weixin.qq.com/s/wHKWvP_qzyOyXPHXCHEmBQ)
+
 [总结｜开放领域问答梳理系列(1)](https://mp.weixin.qq.com/s/KByhP1nASKXryPeWvZ1eEg)
 
 [收藏｜开放领域问答梳理2](https://mp.weixin.qq.com/s/M5Vo_ZJO26nUyMljsfhk8Q)
@@ -736,6 +738,8 @@
 
 [浅谈推荐，从FM到深度学习](https://mp.weixin.qq.com/s/ilbLT6aMj-JK4Ri8aCgkoA)
 
+[没什么是一次排序解决不了的，如果有，那就One more time](https://mp.weixin.qq.com/s/czu3WzG7Hhwzk1DARHgrcw)
+
 <p><strong>计算广告/广告系统</strong></p>
 
 [计算广告之在线广告市场和背景](https://mp.weixin.qq.com/s/TKXN1ejw6mmQNBBRI6Ideg)
@@ -806,6 +810,8 @@
 
 [读了那么多CTR论文, 真正有效的又有几个呢？](https://mp.weixin.qq.com/s/adBViw6ogcR58HGOPbgagg)
 
+[阿里定向广告智能投放技术体系](https://mp.weixin.qq.com/s/2b0zm1xh4plzYsj86jzlDA)
+
 <p><strong>搜索引擎/搜索系统</strong></p>
 
 [谈谈工业界落地能力最强的机器学习算法](https://mp.weixin.qq.com/s/9s97UZF9OkDrI9xKoSha4Q)
@@ -839,6 +845,8 @@
 [【杂谈】选搜索还是选推荐？](https://mp.weixin.qq.com/s/tiSJdrbal7ZilZFYUvdOAQ)
 
 [负样本为王：评Facebook的向量化召回算法](https://mp.weixin.qq.com/s/FRGjKFxEdZWY0f2_JvtnrA)
+
+[语义向量召回之ANN检索](https://mp.weixin.qq.com/s/vD6e3-LT9uHVvdZ8uTeQZA)
 
 [Airbnb搜索：Embedding表示学习](https://mp.weixin.qq.com/s/VJWzDibwa41dZfU8R2RIoA)
 
@@ -1017,6 +1025,8 @@
 <a href="https://mp.weixin.qq.com/s/R9A0iTlVGL0w783aWc31Rg" rel="noopener" target="_blank">flyai医疗智能问答比赛小结</a><br>
 
 <a href="https://mp.weixin.qq.com/s/Ox2nQDfPUB4lGpwmaGdbsA" rel="noopener" target="_blank">【Github】Data Competition Top Solution: 数据竞赛top解决方案开源整理</a></p>
+
+[如何优化你的模型](https://mp.weixin.qq.com/s/kDD1nKWNUfEWsMe095HaXA)
 
 [2020 Kaggle 10大竞赛方案汇总](https://mp.weixin.qq.com/s/CLZsq01Zw_yEdtvkTyyiGg)
 
