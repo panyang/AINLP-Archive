@@ -72,6 +72,8 @@
 
 <p>BERT基础</p>
 
+[NLP之源：n-gram语言模型](https://mp.weixin.qq.com/s/o4CdvJF16Ahal5ZgGSjnqg)
+
 [如何通俗易懂地让女朋友明白什么是语言模型？](https://mp.weixin.qq.com/s/k1EYaMhQmDg-i6BAigFkXQ)
 
 [四万字全面详解 | 深度学习中的注意力机制（完结篇）](https://mp.weixin.qq.com/s/rWju_3bTAcTdWcP83AGtyA)
@@ -439,6 +441,8 @@
 
 <a href="https://mp.weixin.qq.com/s/owe_3Mm2J0IzzCS-nxcxQA" rel="noopener" target="_blank">真正理解指针生成网络——Summarization with Pointer-Generator Networks</a></p>
 
+[指针生成网络优化实录（一）：摘要太短怎么破？](https://mp.weixin.qq.com/s/tmXZAWsnkIJ_XXt18vZ1wQ)
+
 [中文摘要数据集汇总](https://mp.weixin.qq.com/s/Odjby70Rn9P4m9Z0TtqHRA)
 
 <p><strong>主题挖掘</strong><br>
@@ -647,6 +651,8 @@
 [推荐系统中的召回](https://mp.weixin.qq.com/s/IrrtjALQyKpUKIo2o4Sc2g)
 
 [亲兄弟明算账：快速了解阿里的M2GRL模型](https://mp.weixin.qq.com/s/DPtCVHuMvsTCqDyPsK4HWA)
+
+[一个模型使召回阶段又"准确"又"多样"](https://mp.weixin.qq.com/s/nA87NgJfj7dl9oINhFW1BA)
 
 <a href="https://mp.weixin.qq.com/s/B-6uslNc56VpB0fJRoPraw" rel="noopener" target="_blank">当我们谈论“推荐系统”时在谈论什么？</a><br>
 
@@ -969,6 +975,8 @@
 [SDNE：深度模型图网络](https://mp.weixin.qq.com/s/HCJ4LEn48tmO5va6jnuGYA)
 
 [MM'19 | MMGCN 面向短视频推荐的多模态图神经网络](https://mp.weixin.qq.com/s/2sZIWLWp2sUaPDuFfpM9lw)
+
+[Google PPRGo: 两分钟分类千万节点的最快GNN](https://mp.weixin.qq.com/s/G504M_W6pj-bpvAszgAqsA)
 
 <p><strong>强化学习</strong></p>
 
