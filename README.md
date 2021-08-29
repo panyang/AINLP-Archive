@@ -571,6 +571,8 @@
 
 [Facebook大公开：解决NLG模型落地难题！工业界的新一波春天？](https://mp.weixin.qq.com/s/Z79dhxjo8l52UUYF6FIDdQ)
 
+[Data-to-Text（一）：财经快讯和体育快讯是怎么生成的？](https://mp.weixin.qq.com/s/DqnYxeybuXO54yNvZLx5kw)
+
 <a href="https://mp.weixin.qq.com/s/PSZwJaY7j1ADnWU1X5qORw" rel="noopener" target="_blank">电脑也能写出连贯的文章吗?</a></p>
 
 [如何让BERT具有文本生成能力](https://mp.weixin.qq.com/s/iNY_pk9sby4bC-wLFzrh0g)
@@ -886,6 +888,8 @@
 
 [搜索推荐广告之重排序](https://mp.weixin.qq.com/s/dHDvjk6jX8C5O89FqxKcQg)
 
+[乘积量化比之暴力穷举，有哪些进步呢？](https://mp.weixin.qq.com/s/DqnYxeybuXO54yNvZLx5kw)
+
 <p><strong>关系抽取</strong></p>
 
 [从头来看关系抽取](https://mp.weixin.qq.com/s/rNsfNHuiPne6INX29iHuRA)
@@ -1099,6 +1103,8 @@
 [秋招算法岗，面试复盘](https://mp.weixin.qq.com/s/z7e2wFr0rpgopsi0Pl-zqw)
 
 [面经 | NLP算法岗（微软）](https://mp.weixin.qq.com/s/N_6FEkW2O9MtqNwJzgLglg)
+
+[[211渣硕] 腾讯/阿里/携程 详细NLP算法实习 面经](https://mp.weixin.qq.com/s/JVQmpqcnFZvtXpauIIK7Fw)
 
 [刚毕业是去大公司还是加入创业团队](https://mp.weixin.qq.com/s/tpBLppI33JHIXwUClwNGaA)
 
@@ -1356,6 +1362,8 @@
 
 <a href="https://mp.weixin.qq.com/s/pd_BcCG2DjtlgFsym8PwXw" rel="noopener" target="_blank">斯坦福大学NLP组Python深度学习自然语言处理工具Stanza试用</a><br>
 
+[NLP开源工具介绍系列一：Python工具NLTK详解及在线测试](https://mp.weixin.qq.com/s/IMpyyg61ZdToLsuanq-oaQ)
+
 <p><strong>自动对联，作诗机及其他文本生成器</strong><br>
 
 <a href="https://mp.weixin.qq.com/s/A6FMzXS0W7jyTMuyCgzJhw" target="_blank" rel="noopener">风云三尺剑，花鸟一床书---对联数据集和自动对联机器人</a><br>
@@ -1559,6 +1567,8 @@
 [啥？Transformers又来刷CV的榜了？](https://mp.weixin.qq.com/s/v2kkHw4QKbMIMBjzrmRxoA)
 
 [Siamese network 孪生神经网络--一个简单神奇的结构](https://mp.weixin.qq.com/s/OsFf8ZS78nZkVL0AKCqfRw)
+
+[交叉的轨迹：神经网络 X 正则表达式](https://mp.weixin.qq.com/s/lEzP-WDsDPdBddTegfMWDw)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
