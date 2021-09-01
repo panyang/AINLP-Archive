@@ -780,6 +780,10 @@
 
 [知识蒸馏在广告系统中的应用（二）](https://mp.weixin.qq.com/s/18xYPX422Zn9qsE0Tzapow)
 
+[漫谈广告竞价模式（一）](https://mp.weixin.qq.com/s/wdFm119VXJRnpXT95VmGSA)
+
+[漫谈广告竞价模式（二）](https://mp.weixin.qq.com/s/I9Rp2Id5T-v9Oek7zZ8sTQ)
+
 [广告成本控制-PID算法](https://mp.weixin.qq.com/s/__xvATWhggYXLy92dz9L5Q)
 
 [广告智能定向技术lookalike](https://mp.weixin.qq.com/s/ER6QidQSgOs4fhainza35g)
@@ -890,6 +894,8 @@
 
 [乘积量化比之暴力穷举，有哪些进步呢？](https://mp.weixin.qq.com/s/DqnYxeybuXO54yNvZLx5kw)
 
+[业界大盘点！文本相关性在搜广推三大场景中的应用！](https://mp.weixin.qq.com/s/kYou_ikuNPr4PsWbJpDKYw)
+
 <p><strong>关系抽取</strong></p>
 
 [从头来看关系抽取](https://mp.weixin.qq.com/s/rNsfNHuiPne6INX29iHuRA)
@@ -955,6 +961,14 @@
 [知识图谱在小米的应用与探索](https://mp.weixin.qq.com/s/2qUcgylTKGXADk9IjHXrZQ)
 
 [百度知识图谱技术及应用](https://mp.weixin.qq.com/s/KMmg_EE2XzsciHT1yV5iRA)
+
+<p><strong>对比学习</strong></p>
+
+[对比学习模型：研究进展精要（上）](https://mp.weixin.qq.com/s/0JXDKJ1veNbNdbrxjibxhQ)
+
+[对比学习模型：研究进展及精要（中）](https://mp.weixin.qq.com/s/f9yRra5RS1QZ4KXOt74PRg)
+
+[对比学习模型：研究进展及精要（下）](https://mp.weixin.qq.com/s/1SAITLGlyVJJigFDzG4eqQ)
 
 <p><strong>图神经网络</strong></p>
 
@@ -1107,6 +1121,8 @@
 [[211渣硕] 腾讯/阿里/携程 详细NLP算法实习 面经](https://mp.weixin.qq.com/s/JVQmpqcnFZvtXpauIIK7Fw)
 
 [刚毕业是去大公司还是加入创业团队](https://mp.weixin.qq.com/s/tpBLppI33JHIXwUClwNGaA)
+
+[求职面试/保研考研/转计算机行业，到底要刷多少题才算够](https://mp.weixin.qq.com/s/0_wGCfesXMeEfaTdUl7xKw)
 
 <p><strong>算法工程师之路</strong></p>
 
