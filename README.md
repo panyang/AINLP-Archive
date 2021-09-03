@@ -172,6 +172,8 @@
 
 [2021年如何科学的“微调”预训练模型？](https://mp.weixin.qq.com/s/PlSLgWrOtebr-onIi_FOUw)
 
+[【ACL2020】tBERT: 结合主题模型和BERT实现语义相似度分析](https://mp.weixin.qq.com/s/yzT_uVfZlwfbMaQ-P1EAag)
+
 <p>BERT实战</p>
 
 <a href="https://mp.weixin.qq.com/s/0rIXEX2NSmjNNA0PVRtmgQ" rel="noopener" target="_blank">最简单的BERT模型调用方法</a><br>
@@ -423,6 +425,8 @@
 
 [NLP重铸篇之TextCNN](https://mp.weixin.qq.com/s/3c73FTcKFrqT6TnIlOW_WQ)
 
+[不讲武德，只用标签名就能做文本分类](https://mp.weixin.qq.com/s/4QZ6GxvHkH0TEGCZlzfMWg)
+
 <p><strong>文本摘要</strong><br>
 
 <a href="https://mp.weixin.qq.com/s/tCRYxCWyduhY9GDiTDzmgA" rel="noopener" target="_blank">抛开模型，探究文本自动摘要的本质——ACL2019 论文佳作研读系列</a><br>
@@ -444,6 +448,8 @@
 [指针生成网络优化实录（一）：摘要太短怎么破？](https://mp.weixin.qq.com/s/tmXZAWsnkIJ_XXt18vZ1wQ)
 
 [中文摘要数据集汇总](https://mp.weixin.qq.com/s/Odjby70Rn9P4m9Z0TtqHRA)
+
+[使用Word Embedding构造简洁有效的文本摘要系统](https://mp.weixin.qq.com/s/yyQ-8cPANobcwssfGTz1zg)
 
 <p><strong>主题挖掘</strong><br>
 
@@ -536,6 +542,8 @@
 [达摩院Conversational AI研究进展及应用](https://mp.weixin.qq.com/s/hdus6c1h8TTqPfpfS-v0Ug)
 
 [国外有哪些领先的智能对话平台？](https://mp.weixin.qq.com/s/QAY--hsXefg49pdC6gQxXw)
+
+[【SIGIR2020】信息检索对话中混合主动性和协同性的分析](https://mp.weixin.qq.com/s/IGt43ioC0IDOcC7a-dD80w)
 
 <p><strong>文本生成</strong></p>
 
@@ -748,6 +756,8 @@
 
 [没什么是一次排序解决不了的，如果有，那就One more time](https://mp.weixin.qq.com/s/czu3WzG7Hhwzk1DARHgrcw)
 
+[推荐系统领域中那些巧妙运用的idea](https://mp.weixin.qq.com/s/pMhLebUTo0XdDkAFYzEPtQ)
+
 <p><strong>计算广告/广告系统</strong></p>
 
 [计算广告之在线广告市场和背景](https://mp.weixin.qq.com/s/TKXN1ejw6mmQNBBRI6Ideg)
@@ -842,6 +852,8 @@
 
 [纠错：pycorrector的候选排序](https://mp.weixin.qq.com/s/e3m8Eb4EW8LyPOEC9MYe-g)
 
+[深入讨论纠错系统](https://mp.weixin.qq.com/s/teyvJ1f8WaJMjKqz5hlAIg)
+
 [浅谈Query理解和分析](https://mp.weixin.qq.com/s/jqBgIHhR4EuH1-VNN8H-ow)
 
 [搜索中的意图识别](https://mp.weixin.qq.com/s/hMem_aiSY-3q9Qu-ySdAYg)
@@ -895,6 +907,7 @@
 [乘积量化比之暴力穷举，有哪些进步呢？](https://mp.weixin.qq.com/s/DqnYxeybuXO54yNvZLx5kw)
 
 [业界大盘点！文本相关性在搜广推三大场景中的应用！](https://mp.weixin.qq.com/s/kYou_ikuNPr4PsWbJpDKYw)
+
 
 <p><strong>关系抽取</strong></p>
 
@@ -1485,6 +1498,8 @@
 <a href="https://mp.weixin.qq.com/s/TQzRaB-bPgQ5DeKppiis5Q" rel="noopener" target="_blank">感知智能到认知智能中对知识的思考</a><br>
 
 <a href="https://mp.weixin.qq.com/s/8tShNF4snfIHgso1i0IGaA" rel="noopener" target="_blank">polyglot：Pipeline 多语言NLP工具</a><br>
+
+[N-LTP：基于预训练模型的中文自然语言处理平台](https://mp.weixin.qq.com/s/TiMC06lo9gdDrs0pR6DrGA)
 
 <a href="https://mp.weixin.qq.com/s/2AHnBb55TnEq2A73adY-0w" rel="noopener" target="_blank">A/B测试的数学原理与深入理解</a><br>
 
