@@ -48,7 +48,7 @@
 
 <p><strong>词向量</strong></p>
 
-<a href="https://mp.weixin.qq.com/s/UwPwW8JzWVQrVwbPy9321g" target="_blank" rel="noopener">相似词查询：玩转腾讯 AI Lab 中文词向量</a><br>
+[相似词查询：玩转腾讯 AI Lab 中文词向量](https://mp.weixin.qq.com/s/JZQuY0Pwnq8GzFfDe3gU3Q)
 
 <a href="https://mp.weixin.qq.com/s/Q533WJ7Kwtehwm8aLuKbDA" target="_blank" rel="noopener">玩转腾讯词向量：词语相似度计算和在线查询</a><br>
 
@@ -567,6 +567,8 @@
 
 [现代文自动生成器：来试试用GPT2自动写中文](https://mp.weixin.qq.com/s/sGaZAa9N-5v9y854-mHXgg)
 
+[命题作文不用愁，自动作文工具来解忧](https://mp.weixin.qq.com/s/Qhl_1-6BZEkE0D8j75a-6w)
+
 [多样性文本生成任务的研究进展](https://mp.weixin.qq.com/s/z4tN4LSJ5DvTmzTzKPW1cQ)
 
 [文本生成魔改方案汇总！](https://mp.weixin.qq.com/s/lZyQTJV7svj9Kta3w6_waQ)
@@ -661,6 +663,8 @@
 [推荐系统中的召回](https://mp.weixin.qq.com/s/IrrtjALQyKpUKIo2o4Sc2g)
 
 [亲兄弟明算账：快速了解阿里的M2GRL模型](https://mp.weixin.qq.com/s/DPtCVHuMvsTCqDyPsK4HWA)
+
+[PinSAGE有伴了! 快速了解PinnerSAGE模型](https://mp.weixin.qq.com/s/hFF7SnOeKGh9Lm3B-tXXRg)
 
 [一个模型使召回阶段又"准确"又"多样"](https://mp.weixin.qq.com/s/nA87NgJfj7dl9oINhFW1BA)
 
@@ -757,6 +761,8 @@
 [没什么是一次排序解决不了的，如果有，那就One more time](https://mp.weixin.qq.com/s/czu3WzG7Hhwzk1DARHgrcw)
 
 [推荐系统领域中那些巧妙运用的idea](https://mp.weixin.qq.com/s/pMhLebUTo0XdDkAFYzEPtQ)
+
+[一个专为推荐系统定制的BERT！](https://mp.weixin.qq.com/s/5XBiG2c877UT68caNk1v8A)
 
 <p><strong>计算广告/广告系统</strong></p>
 
@@ -983,11 +989,17 @@
 
 [对比学习模型：研究进展及精要（下）](https://mp.weixin.qq.com/s/1SAITLGlyVJJigFDzG4eqQ)
 
+[NLP与对比学习的巧妙融合，简单暴力效果显著！](https://mp.weixin.qq.com/s/Qhl_1-6BZEkE0D8j75a-6w)
+
 <p><strong>图神经网络</strong></p>
 
 [图神经网络综述（一）](https://mp.weixin.qq.com/s/PSrgm7frsXIobSrlcoCWxw)
 
 [图神经网络综述（二）](https://mp.weixin.qq.com/s/VclMA4lGEB5e_-eRg9RJug)
+
+[【图神经网络】数学基础篇](https://mp.weixin.qq.com/s/dBHqnK2jPd46LkH7Q3l2ZQ)
+
+[通俗易懂 | 图神经网络入门笔记](https://mp.weixin.qq.com/s/xeRwZITx8lIs4VPX9YRyrw)
 
 [万物皆可Graph | 当推荐系统遇上图神经网络](https://mp.weixin.qq.com/s/6li74AYwsw64DeYzaXzBug)
 
@@ -1600,6 +1612,8 @@
 [Siamese network 孪生神经网络--一个简单神奇的结构](https://mp.weixin.qq.com/s/OsFf8ZS78nZkVL0AKCqfRw)
 
 [交叉的轨迹：神经网络 X 正则表达式](https://mp.weixin.qq.com/s/lEzP-WDsDPdBddTegfMWDw)
+
+[数据有偏差，照样能学对！20年前就有这么强的算法了？](https://mp.weixin.qq.com/s/E1PbUnowtaBZS9EalRokoQ)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
