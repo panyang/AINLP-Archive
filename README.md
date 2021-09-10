@@ -238,6 +238,8 @@
 
 <a href="https://mp.weixin.qq.com/s/aPkPlEPMFS0NrmD5r7Kfkg" rel="noopener" target="_blank">就最近看的paper谈谈预训练语言模型发展</a><br>
 
+[深入理解“预训练”](https://mp.weixin.qq.com/s/s0JermQ-ig5ZX7_yKGYw2A)
+
 [RealFormer：Real 简单，Real 有效](https://mp.weixin.qq.com/s/1CQgLlINHXR_yQxwjFQQ-A)
 
 [Transformer哪家强？Google爸爸辨优良！](https://mp.weixin.qq.com/s/Agrt4Ic9wA59gZW4F5ZFcA)
@@ -533,6 +535,8 @@
 
 [赛尔笔记 | 新分类！全总结！最新Awesome-SLU-Survey资源库开源！](https://mp.weixin.qq.com/s/qkd8giwZumtK9N1WdXc7kQ)
 
+[对话系统经典：检索式对话](https://mp.weixin.qq.com/s/QZp4kCqi_XWxz0TNLSwNBA)
+
 [2021年了，对话系统凉透了吗？](https://mp.weixin.qq.com/s/X68GyzAzB9reI72HQtWu6g)
 
 [美团智能问答技术探索与实践](https://mp.weixin.qq.com/s/O7j0rb2FuzsyzAmrzAjiQg)
@@ -560,6 +564,8 @@
 <a href="https://mp.weixin.qq.com/s/fdeyf2uwaHNac1_guj5L6Q" rel="noopener" target="_blank">自动作诗机&amp;藏头诗生成器：五言、七言、绝句、律诗全了</a><br>
 
 <a href="https://mp.weixin.qq.com/s/OgWlf7GqidIX2ffVBUo_tQ" rel="noopener" target="_blank">仅供娱乐，藏尾诗生成器来了</a></p>
+
+[教师节，“写”一首藏头诗或者藏尾诗给恩师](https://mp.weixin.qq.com/s/losBupfaJs_J0Td2qDmd5A)
 
 [中文歌词自动生成器：来试试自动写歌](https://mp.weixin.qq.com/s/ToKuMO3zGTkprCfDdh2Y7Q)
 
@@ -763,6 +769,8 @@
 [推荐系统领域中那些巧妙运用的idea](https://mp.weixin.qq.com/s/pMhLebUTo0XdDkAFYzEPtQ)
 
 [一个专为推荐系统定制的BERT！](https://mp.weixin.qq.com/s/5XBiG2c877UT68caNk1v8A)
+
+[入"坑"推荐系统，从Google这篇课程开始](https://mp.weixin.qq.com/s/g0hSO7DyIQAVQNDyqmDUFA)
 
 <p><strong>计算广告/广告系统</strong></p>
 
