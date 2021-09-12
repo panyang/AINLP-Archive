@@ -493,6 +493,8 @@
 
 [构建任务型多轮对话助理的 6 大阶段](https://mp.weixin.qq.com/s/RYTI4quzh_xh3-H4anvFjg)
 
+[微软小冰-多轮和情感机器人的先行者](https://mp.weixin.qq.com/s/9XYUp_B6L51jnmULk2y27w)
+
 <a href="https://mp.weixin.qq.com/s/1P9Ow0vqoMJ9PsgoigaEig" rel="noopener" target="_blank">QA问答系统中的深度学习技术实现</a><br>
 
 <a href="https://mp.weixin.qq.com/s/Sxhb-BFY9tjj14GBWJlPBw" rel="noopener" target="_blank">从产品完整性的角度浅谈chatbot</a><br>
@@ -1157,6 +1159,8 @@
 
 [求职面试/保研考研/转计算机行业，到底要刷多少题才算够](https://mp.weixin.qq.com/s/0_wGCfesXMeEfaTdUl7xKw)
 
+[腾讯 WXG | 技术研究-NLP算法三面复盘](https://mp.weixin.qq.com/s/4znLcVbVng0JO2hLUH-f9w)
+
 <p><strong>算法工程师之路</strong></p>
 
 [李沐：工作五年反思](https://mp.weixin.qq.com/s/OJlRfONG7jFqwPqYsCV9pw)
@@ -1622,6 +1626,8 @@
 [交叉的轨迹：神经网络 X 正则表达式](https://mp.weixin.qq.com/s/lEzP-WDsDPdBddTegfMWDw)
 
 [数据有偏差，照样能学对！20年前就有这么强的算法了？](https://mp.weixin.qq.com/s/E1PbUnowtaBZS9EalRokoQ)
+
+[如何写好学术论文的rebuttal](https://mp.weixin.qq.com/s/3H35QJjekPHLk0t36OZKPA)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
