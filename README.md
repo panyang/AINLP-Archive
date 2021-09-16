@@ -551,6 +551,8 @@
 
 [【SIGIR2020】信息检索对话中混合主动性和协同性的分析](https://mp.weixin.qq.com/s/IGt43ioC0IDOcC7a-dD80w)
 
+[Facebook刷新开放域问答SOTA：模型训模型！Reader当Teacher！](https://mp.weixin.qq.com/s/YfsqWQnz1FIrUC-MtTX0iQ)
+
 <p><strong>文本生成</strong></p>
 
 <a href="https://mp.weixin.qq.com/s/A6FMzXS0W7jyTMuyCgzJhw" target="_blank" rel="noopener">风云三尺剑，花鸟一床书---对联数据集和自动对联机器人</a><br>
@@ -774,6 +776,8 @@
 
 [入"坑"推荐系统，从Google这篇课程开始](https://mp.weixin.qq.com/s/g0hSO7DyIQAVQNDyqmDUFA)
 
+[谷歌开源下一代推荐系统模拟器-RecSim NG](https://mp.weixin.qq.com/s/08wp8mjmnmuLhhLRw9VRQw)
+
 <p><strong>计算广告/广告系统</strong></p>
 
 [计算广告之在线广告市场和背景](https://mp.weixin.qq.com/s/TKXN1ejw6mmQNBBRI6Ideg)
@@ -871,6 +875,8 @@
 [深入讨论纠错系统](https://mp.weixin.qq.com/s/teyvJ1f8WaJMjKqz5hlAIg)
 
 [浅谈Query理解和分析](https://mp.weixin.qq.com/s/jqBgIHhR4EuH1-VNN8H-ow)
+
+[美团搜索理解和召回](https://mp.weixin.qq.com/s/wFPAIQE0SzBL5CdiQtz6_w)
 
 [搜索中的意图识别](https://mp.weixin.qq.com/s/hMem_aiSY-3q9Qu-ySdAYg)
 
@@ -990,6 +996,8 @@
 [知识图谱在小米的应用与探索](https://mp.weixin.qq.com/s/2qUcgylTKGXADk9IjHXrZQ)
 
 [百度知识图谱技术及应用](https://mp.weixin.qq.com/s/KMmg_EE2XzsciHT1yV5iRA)
+
+[贝壳基于事理图谱的应用与实践](https://mp.weixin.qq.com/s/bOF5HDgAO1x98hDypMwOUw)
 
 <p><strong>对比学习</strong></p>
 
@@ -1204,6 +1212,8 @@
 [诸葛越：关于算法工程师职业发展的思考](https://mp.weixin.qq.com/s/fPUFalq0-uCl_ObSAhDGoQ)
 
 [从菜鸟到老鸟！学习算法的三个阶段](https://mp.weixin.qq.com/s/7Q_56uTiJfeJSzBS1CkmaA)
+
+[一年级算法工程师的工作总结](https://mp.weixin.qq.com/s/sPkkzlqoNIB6wiAb7xwtwQ)
 
 <p><strong>实战经验分享</strong></p>
 
