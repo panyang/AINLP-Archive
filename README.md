@@ -86,6 +86,8 @@
 
 [【重温序列模型】再回首DeepLearning遇见了LSTM和GRU](https://mp.weixin.qq.com/s/ndNyLJSNXoZ1gP69-XZ9nA)
 
+[Transformer (变形金刚，大雾) 三部曲：RNN 的继承者](https://mp.weixin.qq.com/s/CMhG6YXKjCHKInlUAdFz5g)
+
 [Transformer家族简史（PART II）](https://mp.weixin.qq.com/s/SPllU8IxvnqEK8Xud-1w-w)
 
 [Transformer的一家！](https://mp.weixin.qq.com/s/Z2W66OziBkMhufNBvnKlGQ)
@@ -187,6 +189,8 @@
 [我不懂BERT系列——有关RealFormer的一些有趣现象](https://mp.weixin.qq.com/s/wv1kDW2XmPgCPPzNWVG2VA)
 
 [知识蒸馏：让LSTM重返巅峰！](https://mp.weixin.qq.com/s/ZxFsCxPD9FU3DzKX-rdpuA)
+
+[NLP知识蒸馏思考](https://mp.weixin.qq.com/s/DmVGhHtwqkColIZUrOHlTw)
 
 [如何有效的降低BERT参数量](https://mp.weixin.qq.com/s/1R5R230jFtVXpaFMX9GyaQ)
 
@@ -813,6 +817,8 @@
 [漫谈广告竞价模式（一）](https://mp.weixin.qq.com/s/wdFm119VXJRnpXT95VmGSA)
 
 [漫谈广告竞价模式（二）](https://mp.weixin.qq.com/s/I9Rp2Id5T-v9Oek7zZ8sTQ)
+
+[漫谈广告竞价模式（三）](https://mp.weixin.qq.com/s/rT_eZaInstMGYC8jwLNgjA)
 
 [广告成本控制-PID算法](https://mp.weixin.qq.com/s/__xvATWhggYXLy92dz9L5Q)
 
@@ -1638,6 +1644,8 @@
 [数据有偏差，照样能学对！20年前就有这么强的算法了？](https://mp.weixin.qq.com/s/E1PbUnowtaBZS9EalRokoQ)
 
 [如何写好学术论文的rebuttal](https://mp.weixin.qq.com/s/3H35QJjekPHLk0t36OZKPA)
+
+[语言学领域有哪些令人毛骨悚然的理论](https://mp.weixin.qq.com/s/g4cYUlslmhyFUhSVrfTaFg)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
