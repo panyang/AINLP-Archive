@@ -940,6 +940,7 @@
 
 [业界大盘点！文本相关性在搜广推三大场景中的应用！](https://mp.weixin.qq.com/s/kYou_ikuNPr4PsWbJpDKYw)
 
+[Query理解在美团搜索中的应用](https://mp.weixin.qq.com/s/CSgvWxkmkmHObRLiCoGSrA)
 
 <p><strong>关系抽取</strong></p>
 
@@ -1048,6 +1049,8 @@
 [MM'19 | MMGCN 面向短视频推荐的多模态图神经网络](https://mp.weixin.qq.com/s/2sZIWLWp2sUaPDuFfpM9lw)
 
 [Google PPRGo: 两分钟分类千万节点的最快GNN](https://mp.weixin.qq.com/s/G504M_W6pj-bpvAszgAqsA)
+
+[早期人类驯服『图神经网络』的珍贵资料](https://mp.weixin.qq.com/s/-0ilorawx9ZNCC4diIAiiw)
 
 <p><strong>强化学习</strong></p>
 
@@ -1178,6 +1181,8 @@
 [求职面试/保研考研/转计算机行业，到底要刷多少题才算够](https://mp.weixin.qq.com/s/0_wGCfesXMeEfaTdUl7xKw)
 
 [腾讯 WXG | 技术研究-NLP算法三面复盘](https://mp.weixin.qq.com/s/4znLcVbVng0JO2hLUH-f9w)
+
+[选offer的5个维度](https://mp.weixin.qq.com/s/cCicu34KwMBQI_jo6attYQ)
 
 <p><strong>算法工程师之路</strong></p>
 
@@ -1654,6 +1659,10 @@
 [全民K歌内容挖掘与召回](https://mp.weixin.qq.com/s/X9BTS3pUbnE41MDxdt9foA)
 
 [别再搞纯文本了！多模文档理解更被时代需要！](https://mp.weixin.qq.com/s/BHifYNqMSGxVM_c9DyphaQ)
+
+[Attention函数手册！](https://mp.weixin.qq.com/s/67FK3KShWtVMcXdrZawuDw)
+
+[Batch Normalization导读](https://mp.weixin.qq.com/s/b8H3LhEwt58L2XEpQP4vYw)
 
 <p><strong>关于AINLP</strong></p>
 <p>AINLP 是一个有趣有AI的自然语言处理社区，专注于 AI、NLP、机器学习、深度学习、推荐算法等相关技术的分享，主题包括文本摘要、智能问答、聊天机器人、机器翻译、自动生成、知识图谱、预训练模型、推荐系统、计算广告、招聘信息、求职经验分享等，欢迎关注！加技术交流群请添加AINLP君微信(id:ainlper)，备注工作/研究方向+加群目的。</p>
